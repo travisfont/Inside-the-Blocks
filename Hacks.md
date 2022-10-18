@@ -15,6 +15,10 @@
 
 ## Decentralized Finance (DeFi) 
 
+### Decentralized Exchange (DEX)
+### AMM
+### Lending & Borrowing
+
 <details>
     
   <summary>
