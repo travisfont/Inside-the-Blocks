@@ -1,4 +1,6 @@
-# Hacks & Exploits Test
+# Hacks & Exploits
+
+  * CBS News - [**Hackers have stolen record $3 billion in cryptocurrency this year**](https://www.cbsnews.com/news/cryptocurrency-theft-hacker-chainalysis-blockchain-crime/) (October 13, 2022)
 
 ## Centralized Exchange (CEX)
 
@@ -48,6 +50,8 @@
     <big><b>Mango</b></big>
     <small><i>(description not yet added)</i></small>
   </summary>
+
+  * The Block - [**Mango Markets attacker puts forward proposal that would pay them $70 million bounty**](https://www.theblock.co/post/176468/mango-markets-attacker-puts-forward-proposal-that-would-pay-them-70-million-bounty) 
 
   * Fortune - [**Decentralized Solana-based trading platform Mango reportedly hit by $100 million exploit**](https://fortune.com/crypto/2022/10/11/mango-markets-trading-platform-on-solana-seemingly-hit-by-exploit/) (October 12, 2022)
     
