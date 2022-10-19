@@ -1,4 +1,4 @@
-# Hacks & Exploits
+# Hacks & Exploits Test
 
 ## Centralized Exchange (CEX)
 
@@ -17,7 +17,30 @@
 
 ### Decentralized Exchange (DEX)
 ### AMM
+
+<details>
+    
+  <summary>
+    <big><b>BitKeep</b></big>
+    <small><i>(description not yet added)</i></small>
+  </summary>
+
+  * Decrypt - [**BitKeep Hacker Moves $1M in Binance Coin Through Tornado Cash**](https://decrypt.co/112305/bitkeep-hacker-moves-1m-binance-coin-through-tornado-cash) (October 18, 2022)
+    
+</details>
+
 ### Lending & Borrowing
+
+<details>
+    
+  <summary>
+    <big><b>Moola Market</b></big>
+    <small><i>$8.4M of CELO, cUSD, cEUR, MOO on Celo on October 18, 2022</i></small>
+  </summary>
+
+  * Unchained - [**Hacker Steals $8.4M from DeFi Protocol Moola Market**](https://unchainedpodcast.com/hacker-steals-8-4m-from-defi-protocol-moola-market/)
+
+</details>
 
 <details>
     
