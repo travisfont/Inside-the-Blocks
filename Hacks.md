@@ -17,6 +17,19 @@
 
 ## Decentralized Finance (DeFi) 
 
+### Smart Contracts
+<details>
+    
+  <summary>
+    <big><b>Alarm Clock Exploit (ETH)</b></big>
+    <small><i>$260,000 on Etheruem on October 19, 2022</i></small>
+  </summary>
+
+  * Unchained - [**$260,000 Gas Fees Stolen in Ethereum Alarm Clock Exploit**](https://)
+
+</details>
+
+
 ### Decentralized Exchange (DEX)
 ### AMM
 
@@ -51,8 +64,7 @@
     <small><i>(description not yet added)</i></small>
   </summary>
 
-  * The Block - [**Mango Markets attacker puts forward proposal that would pay them $70 million bounty**](https://www.theblock.co/post/176468/mango-markets-attacker-puts-forward-proposal-that-would-pay-them-70-million-bounty) 
-
+  * The Block - [**Mango Markets attacker puts forward proposal that would pay them $70 million bounty**](https://www.theblock.co/post/176468/mango-markets-attacker-puts-forward-proposal-that-would-pay-them-70-million-bounty) (October 12, 2022)
   * Fortune - [**Decentralized Solana-based trading platform Mango reportedly hit by $100 million exploit**](https://fortune.com/crypto/2022/10/11/mango-markets-trading-platform-on-solana-seemingly-hit-by-exploit/) (October 12, 2022)
     
 </details>
