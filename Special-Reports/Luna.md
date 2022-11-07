@@ -24,3 +24,8 @@ This is simply an archive list.
   <br/>https://www.youtube.com/watch?v=DHor6fBEpTA
 - Unchained Podcast - **Do Kwon of Terra: 'It Was Never Really About Money or Fame or Success'** _(Oct. 18, 2022)_
   <br/>https://www.youtube.com/watch?v=RgYSJVC7Ps8
+
+## Informational Luna Classic Proposals
+
+- **Terra Luna Classic Decentralized Governance Structure Proposal** by Sam_m _(November 1, 2022)_
+  <br/>https://classic-agora.terra.money/t/terra-luna-classic-decentralized-governance-structure-proposal/47832
