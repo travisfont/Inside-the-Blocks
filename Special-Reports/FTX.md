@@ -1,4 +1,5 @@
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
+- SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
 - FTX Ventures: https://cryptorank.io/funds/ftx-ventures/rounds
 - FTX Token (FTT): https://cryptorank.io/ico/ftx-token
 - Some Thoughts: FTX, CFTC, and Building From Frustration
