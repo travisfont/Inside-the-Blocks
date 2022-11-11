@@ -2,6 +2,8 @@
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
 - FTX Ventures: https://cryptorank.io/funds/ftx-ventures/rounds
 - FTX Token (FTT): https://cryptorank.io/ico/ftx-token
+- Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
+  https://www.youtube.com/watch?v=Q1A3ehEg2yU
 - Some Thoughts: FTX, CFTC, and Building From Frustration
   https://jarvislabs.substack.com/p/some-thoughts
 - FTX liquidity crisis spurs contagion fears across crypto industry
@@ -28,8 +30,22 @@
   https://www.youtube.com/watch?v=5osPlwxsT60
 - Coin Bureau - FTX Insolvent: Craziest Week in Crypto Ever
   https://www.youtube.com/watch?v=WgJbWZpRWyo
+- Unchained Podcast - Erik Voorhees and Cobie on Why FTX Loaned Out Customers’ Assets - Ep. 419
+  https://www.youtube.com/watch?v=fQw-oMCs1GA
 - FTX Needs $8B to Meet Investor Withdrawals: Report
   https://unchainedpodcast.com/ftx-needs-8b-to-meet-investor-withdrawals-report/
+- FTX Insolvency Timeline & Update
+  https://onchainwizard.substack.com/p/ftx-insolvency-timeline-and-update
+- Market Spotlight: Diving Into FTX’s Insolvency, FTT & Binance
+  https://blog.cryptocompare.com/market-spotlight-diving-into-ftxs-insolvency-ftt-binance-7f0b4da11795
+- Insights From the FTX Implosion
+  https://newsletter.banklesshq.com/p/insights-from-the-ftx-implosion
+- CoinDesk - Sam Bankman-Fried Tweets Apology as FTX Fallout Continues
+  https://www.youtube.com/watch?v=Sw3JxdOQgT0
+  
+Data Sets
+- Nansen Binance
+  https://portfolio.nansen.ai/dashboard/binance
 
 Tweet of the Article
 https://twitter.com/RollzTaco/status/1590012541496750080
