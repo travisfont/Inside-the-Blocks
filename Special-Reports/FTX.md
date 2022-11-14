@@ -1,9 +1,13 @@
+# The TX Fallout - The Great Cleansing
+
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
 - FTX Ventures: https://cryptorank.io/funds/ftx-ventures/rounds
 - FTX Token (FTT): https://cryptorank.io/ico/ftx-token
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
+- The Fall of FTX (Data Charts)
+  https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
 - Some Thoughts: FTX, CFTC, and Building From Frustration
   https://jarvislabs.substack.com/p/some-thoughts
 - FTX liquidity crisis spurs contagion fears across crypto industry
@@ -22,8 +26,34 @@
   https://unchainedpodcast.com/did-alameda-go-down-with-3ac-in-q2/
 - The Shocking Collapse of the FTX Empire
   https://newsletter.banklesshq.com/p/the-shocking-collapse-of-the-ftx
-- The Fall of FTX (Data Charts
-  https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
+- Could FTX’s Bankruptcy Trigger a Domino Effect?
+  https://unchainedpodcast.com/could-ftxs-bankruptcy-trigger-a-domino-effect/
+- Kraken freezes FTX and Alameda accounts, 'maintains full reserves'
+  https://www.theblock.co/post/186472/kraken-freezes-ftx-and-alameda-accounts-maintains-full-reserves
+- Exclusive: At least $1 billion of client funds missing at failed crypto firm FTX
+  https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/
+- FTX spent $74 million on real estate in the Bahamas this year: Exclusive
+  https://www.theblock.co/post/186386/ftx-spent-74-million-on-real-estate-in-the-bahamas-this-year-exclusive
+- FTX
+  https://marketsentiment.substack.com/p/ftx
+- FTX - YIKES
+  https://rekt.news/ftx-yikes/
+- Unpacking the endless FTX nightmare
+  https://newsletter.banklesshq.com/p/unpacking-the-endless-ftx-nightmare
+- SBF built bespoke 'backdoor' to outwit FTX compliance systems: Reuters
+  https://www.theblock.co/post/186321/sbf-built-bespoke-backdoor-to-outwit-ftx-compliance-systems-reuters
+- Alameda wallets seemingly being drained, according to on-chain data
+  https://www.theblock.co/post/186315/alameda-wallets-seemingly-being-drained-according-to-on-chain-data
+- BlockFi suspends withdrawals after FTX collapse
+  https://www.theblock.co/post/185753/blockfi-suspends-withdrawals-after-ftx-collapse
+- Rep. Brad Sherman asks for increased regulation, calls out 'billionaire crypto bros'
+  https://www.theblock.co/post/186538/rep-brad-sherman-asks-for-increased-regulation-calls-out-billionaire-crypto-bros
+- Paradigm marks down FTX investment to zero: Sources
+  https://www.theblock.co/post/186449/paradigm-marks-down-ftx-investment-to-zero-sources
+- FTX Ventures Head Amy Wu Resigns: The Information
+  https://www.theblock.co/post/186084/ftx-ventures-head-amy-wu-resigns-the-information
+  
+# Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
 - Max Maher - FTX: The Truth
