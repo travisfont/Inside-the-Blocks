@@ -52,6 +52,12 @@
   https://www.theblock.co/post/186449/paradigm-marks-down-ftx-investment-to-zero-sources
 - FTX Ventures Head Amy Wu Resigns: The Information
   https://www.theblock.co/post/186084/ftx-ventures-head-amy-wu-resigns-the-information
+- FTX Is Why We Need More DeFi, Not Less
+  https://newsletter.banklesshq.com/p/ftx-is-why-we-need-more-defi-not-bb3
+- Paxos Freezes $19M From Four FTX-Linked Ethereum Addresses
+  https://unchainedpodcast.com/paxos-freezes-19m-from-four-ftx-linked-ethereum-addresses/
+- Caroline Ellison Says Alameda Used FTX Customer Funds to Repay Loans: NYT *
+  https://unchainedpodcast.com/caroline-ellison-says-alameda-used-ftx-customer-funds-to-repay-loans-nyt/
   
 # Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
@@ -72,6 +78,11 @@
   https://newsletter.banklesshq.com/p/insights-from-the-ftx-implosion
 - CoinDesk - Sam Bankman-Fried Tweets Apology as FTX Fallout Continues
   https://www.youtube.com/watch?v=Sw3JxdOQgT0
+- Glassnode - The Week On-chain: FTX Fallout and the Rise of Self-Custody
+  https://www.youtube.com/watch?v=eTE81TRsUjk
+- Unchained - Will FTX Customers Ever Recover Their Assets? Two Insolvency Experts Weigh In
+  https://unchainedpodcast.com/will-ftx-customers-ever-recover-their-assets-two-insolvency-experts-weigh-in-ep-420/
+
   
 Data Sets
 - Nansen Binance
