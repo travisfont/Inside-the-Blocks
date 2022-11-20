@@ -1,4 +1,4 @@
-# The TX Fallout - The Great Cleansing
+# The TX Fallout/Calapse - The Great Cleansing
 
 ## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
@@ -9,7 +9,8 @@
 - The Fall of FTX (Data Charts)
   https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
   
-  
+- Market Review Oct 2022: FTX Contagion Rattles Markets **
+  https://blog.perp.fi/market-review-oct-2022-ftx-contagion-rattles-markets-4f9389b28e9c
 - Some Thoughts: FTX, CFTC, and Building From Frustration
   https://jarvislabs.substack.com/p/some-thoughts
 - FTX liquidity crisis spurs contagion fears across crypto industry
@@ -60,13 +61,31 @@
   https://unchainedpodcast.com/paxos-freezes-19m-from-four-ftx-linked-ethereum-addresses/
 - Caroline Ellison Says Alameda Used FTX Customer Funds to Repay Loans: NYT *
   https://unchainedpodcast.com/caroline-ellison-says-alameda-used-ftx-customer-funds-to-repay-loans-nyt/
+- SEC, DOJ Investigating Crypto Platform FTX
+  https://www.wsj.com/articles/sec-investigates-crypto-platform-ftx-11668020379
+- FTX’s Balance Sheet Was Bad
+  https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad
+- Alameda Research Was Frontrunning FTX Token Listings: Report
+  https://decrypt.co/114622/alameda-research-frontrunning-ftx-token-listings
+- FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say
+  https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/
+- The Crypto Contagion Intensifies: Who Else Is Swimming Naked?
+  https://bmpro.substack.com/p/the-crypto-contagion-intensifies
 
 ## The Sam Bankman-Fried Perspective
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
-
+- Sam Bankman-Fried's FTX Empire Faces US Probe Into Client Funds, Lending
+  https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending
 
 ## The Contagion
-- 
+- FTX Contagion
+  https://www.mollywhite.net/etc/ftx-contagion
+- Crypto Lender Genesis Trading Halts Withdrawals
+  https://unchainedpodcast.com/crypto-lender-genesis-trading-halts-withdrawals/
+  
+The Pull-Backs/Cancellations
+- FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
+  https://www.bloomberg.com/news/articles/2022-11-15/ftx-s-1-4-billion-deal-for-bankrupt-crypto-lender-voyager-void
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
