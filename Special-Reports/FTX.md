@@ -1,13 +1,15 @@
 # The TX Fallout - The Great Cleansing
 
+## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
-- SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
 - FTX Ventures: https://cryptorank.io/funds/ftx-ventures/rounds
 - FTX Token (FTT): https://cryptorank.io/ico/ftx-token
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
 - The Fall of FTX (Data Charts)
   https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
+  
+  
 - Some Thoughts: FTX, CFTC, and Building From Frustration
   https://jarvislabs.substack.com/p/some-thoughts
 - FTX liquidity crisis spurs contagion fears across crypto industry
@@ -58,8 +60,15 @@
   https://unchainedpodcast.com/paxos-freezes-19m-from-four-ftx-linked-ethereum-addresses/
 - Caroline Ellison Says Alameda Used FTX Customer Funds to Repay Loans: NYT *
   https://unchainedpodcast.com/caroline-ellison-says-alameda-used-ftx-customer-funds-to-repay-loans-nyt/
+
+## The Sam Bankman-Fried Perspective
+- SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
+
+
+## The Contagion
+- 
   
-# Videos / Podcasts
+## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
 - Max Maher - FTX: The Truth
@@ -84,10 +93,10 @@
   https://unchainedpodcast.com/will-ftx-customers-ever-recover-their-assets-two-insolvency-experts-weigh-in-ep-420/
 
   
-Data Sets
+## Data Sets
 - Nansen Binance
   https://portfolio.nansen.ai/dashboard/binance
 
-Tweet of the Article
+## Tweet of the Article
 https://twitter.com/RollzTaco/status/1590012541496750080
 - Join us Sam: https://twitter.com/0x_charlemagne/status/1590004707950755840?s=20&t=i9Kmc7DdvRSPtalhL0icwg
