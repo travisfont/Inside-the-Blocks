@@ -2,6 +2,7 @@
 
 ## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
+- https://twitter.com/nansenportfolio/status/1592436000306786305
 - FTX Ventures: https://cryptorank.io/funds/ftx-ventures/rounds
 - FTX Token (FTT): https://cryptorank.io/ico/ftx-token
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
@@ -9,8 +10,16 @@
 - The Fall of FTX (Data Charts)
   https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
   
+## Diagnosing the Economics
+- The Contagion Continues: Major Crypto Lender Genesis Is Next On The Chopping Block
+  https://bmpro.substack.com/p/the-contagion-continues-major-crypto
+  
 - Market Review Oct 2022: FTX Contagion Rattles Markets **
   https://blog.perp.fi/market-review-oct-2022-ftx-contagion-rattles-markets-4f9389b28e9c
+- The FTX collapse: the latest revelations (part three)
+  https://newsletter.mollywhite.net/p/the-ftx-collapse-the-latest-revelations
+- The Psychopharmacology Of The FTX Crash *
+  https://astralcodexten.substack.com/p/the-psychopharmacology-of-the-ftx
 - Some Thoughts: FTX, CFTC, and Building From Frustration
   https://jarvislabs.substack.com/p/some-thoughts
 - FTX liquidity crisis spurs contagion fears across crypto industry
@@ -71,6 +80,10 @@
   https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/
 - The Crypto Contagion Intensifies: Who Else Is Swimming Naked?
   https://bmpro.substack.com/p/the-crypto-contagion-intensifies
+- FTX Is Why We Need More DeFi, Not Less
+  https://newsletter.banklesshq.com/p/ftx-is-why-we-need-more-defi-not-bb3
+- EU's MiCA regulation would have had limited impact on FTX debacle, lawmaker says
+  https://www.theblock.co/post/187719/eus-mica-regulation-would-have-had-limited-impact-on-ftx-debacle-lawmaker-says
 
 ## The Sam Bankman-Fried Perspective
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
@@ -82,6 +95,10 @@
   https://www.mollywhite.net/etc/ftx-contagion
 - Crypto Lender Genesis Trading Halts Withdrawals
   https://unchainedpodcast.com/crypto-lender-genesis-trading-halts-withdrawals/
+- Temasek Says Its FTX Investment Is Now Worth Zero
+  https://www.coindesk.com/business/2022/11/17/temasek-says-its-ftx-investment-is-now-worth-zero/
+- In FTX’s bankruptcy, here are the top 10 investment and M&A holdings creditors should be looking at
+  https://www.cbinsights.com/research/ftx-bankruptcy-investment-portfolio/
   
 The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
@@ -110,6 +127,10 @@ The Pull-Backs/Cancellations
   https://www.youtube.com/watch?v=eTE81TRsUjk
 - Unchained - Will FTX Customers Ever Recover Their Assets? Two Insolvency Experts Weigh In
   https://unchainedpodcast.com/will-ftx-customers-ever-recover-their-assets-two-insolvency-experts-weigh-in-ep-420/
+- FTX Meltdown 101: What the Hell Happened and What Comes Next
+  https://decrypt.co/videos/interviews/XTEZEmpn/ftx-meltdown-101-what-the-hell-happened-and-what-comes-next
+- Mapping the FTX Contagion
+  https://thedefiant.io/mapping-the-ftx-contagion
 
   
 ## Data Sets
