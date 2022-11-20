@@ -1,4 +1,4 @@
-# The TX Fallout/Calapse - The Great Cleansing
+# The TX Fallout/Collapse - The Great Cleansing
 
 ## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
