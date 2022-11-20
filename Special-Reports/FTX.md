@@ -8,12 +8,15 @@
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
 - The Fall of FTX (Data Charts)
-  https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c)
+  https://studio.glassnode.com/dashboards/2e76fb8e-2c52-4982-6157-ee26e78c349c
+  
   
 ## Diagnosing the Economics
 - The Contagion Continues: Major Crypto Lender Genesis Is Next On The Chopping Block
   https://bmpro.substack.com/p/the-contagion-continues-major-crypto
   
+  
+## The Depths
 - Market Review Oct 2022: FTX Contagion Rattles Markets **
   https://blog.perp.fi/market-review-oct-2022-ftx-contagion-rattles-markets-4f9389b28e9c
 - The FTX collapse: the latest revelations (part three)
@@ -84,11 +87,16 @@
   https://newsletter.banklesshq.com/p/ftx-is-why-we-need-more-defi-not-bb3
 - EU's MiCA regulation would have had limited impact on FTX debacle, lawmaker says
   https://www.theblock.co/post/187719/eus-mica-regulation-would-have-had-limited-impact-on-ftx-debacle-lawmaker-says
+- Tom Brady, Giselle Bündchen, Larry David & Steph Curry Caught In FTX Crypto Fallout With Class Action Suit
+  https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/
+- BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads
+  https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824
 
 ## The Sam Bankman-Fried Perspective
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
 - Sam Bankman-Fried's FTX Empire Faces US Probe Into Client Funds, Lending
   https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending
+  
 
 ## The Contagion
 - FTX Contagion
@@ -99,6 +107,22 @@
   https://www.coindesk.com/business/2022/11/17/temasek-says-its-ftx-investment-is-now-worth-zero/
 - In FTX’s bankruptcy, here are the top 10 investment and M&A holdings creditors should be looking at
   https://www.cbinsights.com/research/ftx-bankruptcy-investment-portfolio/
+- Genesis Block HK has more than $50 million stuck on FTX: Source
+  https://www.theblock.co/post/188335/genesis-block-hk-has-more-than-50-million-stuck-on-ftx-source
+- Ontario Teachers' Pension Plan to write down $95 million FTX investment to zero
+  https://www.theblock.co/post/188339/ontario-teachers-pension-plan-to-write-down-95-million-ftx-investment-to-zero
+- Gemini halts withdrawals from their lending service
+  https://web3isgoinggreat.com/?id=gemini-halts-withdrawals-from-their-lending-service
+- Coachella NFTs Trapped in FTX Crypto Fallout
+  https://www.billboard.com/pro/coachella-nfts-stuck-ftx-exchange-bankruptcy/
+- Salt Lending Goes Bust
+  https://twitter.com/coffeebreak_YT/status/1592567205727961089
+- Ikigai Asset Management Had 'Large Majority' of Assets on FTX, Unclear Whether It Will Be Able to Continue
+  https://www.coindesk.com/business/2022/11/14/ikigai-asset-management-had-large-majority-of-assets-on-ftx/
+- Crypto Exchange AAX Suspends Withdrawals as FTX Failure Reverberates
+  https://www.coindesk.com/business/2022/11/13/crypto-exchange-aax-suspends-withdrawals-as-ftx-failure-reverberates/
+- Huobi exchange announces $18.1 million is locked on FTX, mostly customer funds
+  https://web3isgoinggreat.com/?id=huobi-exchange-announces-18-1-million-is-locked-on-ftx-mostly-customer-funds
   
 The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
