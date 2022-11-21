@@ -15,6 +15,18 @@
     
 </details>
 
+<details>
+    
+  <summary>
+    <big><b>FTX</b></big>
+    <small><i>(description not yet added)</i></small>
+  </summary>
+
+  * Unchained - [**FTX Drainer Moves $29.3M Through Ren Bitcoin Bridge**](https://unchainedpodcast.com/ftx-drainer-moves-29-3m-through-ren-bitcoin-bridge/) (November 21, 2022)
+    
+</details>
+  
+
 ## Decentralized Finance (DeFi) 
 
 ### Smart Contracts
