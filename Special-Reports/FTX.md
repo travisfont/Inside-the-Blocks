@@ -91,9 +91,21 @@
   https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/
 - BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads
   https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824
+- Alameda Had ‘Secret Exemption’ From FTX Liquidation Protocols, New CEO Says
+  https://www.coindesk.com/business/2022/11/17/alameda-had-secret-exemption-from-ftx-liquidation-protocols-new-ceo-says/
+- Binance says it cannot provide FTX details because of talks with regulators
+  https://www.theblock.co/post/188104/binance-says-it-cannot-provide-ftx-details-because-of-talks-with-regulators
+- FTX begins reviewing its assets as part of bankruptcy process
+  https://www.theblock.co/post/188571/ftx-begins-reviewing-its-assets-as-part-of-bankruptcy-process
+- FTX owes almost $3.1 billion to its top 50 creditors, filing says
+  https://www.theblock.co/post/188642/ftx-owes-almost-3-1-billion-to-its-top-50-creditors-filing-says
+ 
+## Following Regulation/Investigation
 
 ## The Sam Bankman-Fried Perspective
 - SBF Apology w/ info: https://twitter.com/SBF_FTX/status/1590709166515310593
+- SBF - MASK OFF
+  https://rekt.news/sbf-mask-off/
 - Sam Bankman-Fried's FTX Empire Faces US Probe Into Client Funds, Lending
   https://www.bloomberg.com/news/articles/2022-11-09/us-probes-ftx-empire-over-handling-of-client-funds-and-lending
   
@@ -103,6 +115,8 @@
   https://www.mollywhite.net/etc/ftx-contagion
 - Crypto Lender Genesis Trading Halts Withdrawals
   https://unchainedpodcast.com/crypto-lender-genesis-trading-halts-withdrawals/
+- Where Will FTX Contagion Spread Next?
+  https://newsletter.banklesshq.com/p/ftx-contagion-blockfi-gemini-genesis
 - Temasek Says Its FTX Investment Is Now Worth Zero
   https://www.coindesk.com/business/2022/11/17/temasek-says-its-ftx-investment-is-now-worth-zero/
 - In FTX’s bankruptcy, here are the top 10 investment and M&A holdings creditors should be looking at
@@ -123,10 +137,18 @@
   https://www.coindesk.com/business/2022/11/13/crypto-exchange-aax-suspends-withdrawals-as-ftx-failure-reverberates/
 - Huobi exchange announces $18.1 million is locked on FTX, mostly customer funds
   https://web3isgoinggreat.com/?id=huobi-exchange-announces-18-1-million-is-locked-on-ftx-mostly-customer-funds
+- Part 2: The Crypto Contagion Intensifies - Who Else Is Swimming Naked?
+  https://bmpro.substack.com/p/part-2-the-crypto-contagion-intensifies
+- Crypto firm Multicoin expects contagion from FTX to wipe out many trading firms in coming weeks
+  https://www.cnbc.com/2022/11/17/crypto-firm-multicoin-says-contagion-fallout-from-ftx-will-continue.html
   
 The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
   https://www.bloomberg.com/news/articles/2022-11-15/ftx-s-1-4-billion-deal-for-bankrupt-crypto-lender-voyager-void
+  
+## The Mysterious Hacker
+- FTX Drainer Moves $29.3M Through Ren Bitcoin Bridge
+  https://unchainedpodcast.com/ftx-drainer-moves-29-3m-through-ren-bitcoin-bridge/
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
