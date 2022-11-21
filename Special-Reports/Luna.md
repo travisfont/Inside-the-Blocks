@@ -29,3 +29,7 @@ This is simply an archive list.
 
 - **Terra Luna Classic Decentralized Governance Structure Proposal** by Sam_m _(November 1, 2022)_
   <br/>https://classic-agora.terra.money/t/terra-luna-classic-decentralized-governance-structure-proposal/47832
+  
+## Moving Forward - Into the Future
+- Unchained - **Do Kwon Offers Cosmos Chains Free Terra Station Integration** _(November 21, 2022)_
+  <br/>https://unchainedpodcast.com/do-kwon-offers-cosmos-chains-free-terra-station-integration/
