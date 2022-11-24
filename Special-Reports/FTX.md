@@ -141,8 +141,18 @@
   https://bmpro.substack.com/p/part-2-the-crypto-contagion-intensifies
 - Crypto firm Multicoin expects contagion from FTX to wipe out many trading firms in coming weeks
   https://www.cnbc.com/2022/11/17/crypto-firm-multicoin-says-contagion-fallout-from-ftx-will-continue.html
+- Part 2: The Contagion Continues - Major Crypto Lender Genesis Is Next On The Chopping Block
+  https://bmpro.substack.com/p/part-2-the-contagion-continues-major
+- Why Genesis Could Very Well Be Insolvent, Not Just Illiquid
+  https://unchainedcrypto.substack.com/p/why-genesis-could-very-well-be-insolvent
+- Genesis denies ‘imminent’ plans to file for bankruptcy
+  https://cointelegraph.com/news/genesis-denies-imminent-plans-to-file-for-bankruptcy
+- Genesis is in Trouble
+  https://newsletter.banklesshq.com/p/genesis-is-in-trouble-22c
+- Digital Currency Group Reveals $2B in Liabilities, Including Debt to Its Own Subsidiary
+  https://cryptobriefing.com/digital-currency-group-reveals-2b-in-liabilities-including-debt-to-its-own-subsidiary/
   
-The Pull-Backs/Cancellations
+## The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
   https://www.bloomberg.com/news/articles/2022-11-15/ftx-s-1-4-billion-deal-for-bankrupt-crypto-lender-voyager-void
   
