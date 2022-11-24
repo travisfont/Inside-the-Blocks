@@ -151,6 +151,8 @@
   https://newsletter.banklesshq.com/p/genesis-is-in-trouble-22c
 - Digital Currency Group Reveals $2B in Liabilities, Including Debt to Its Own Subsidiary
   https://cryptobriefing.com/digital-currency-group-reveals-2b-in-liabilities-including-debt-to-its-own-subsidiary/
+- Alameda's Research's Major Co-Investors
+  https://twitter.com/CryptoRank_io/status/1595464473481027584/photo/1
   
 ## The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
