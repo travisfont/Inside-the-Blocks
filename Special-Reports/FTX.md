@@ -101,6 +101,28 @@
   https://www.theblock.co/post/188642/ftx-owes-almost-3-1-billion-to-its-top-50-creditors-filing-says
 - Complicit in Catastrophe
   https://jarvislabs.substack.com/p/complicit-in-catastrophe
+- The FTX Ponzi: Uncovering The Largest Fraud In Crypto History
+  https://bmpro.substack.com/p/the-ftx-ponzi-uncovering-the-largest
+- Comparing FTX to Mt. Gox
+  https://twitter.com/chainalysis/status/1595536722351235077
+- 3AC Founder Su Zhu Says FTX Collapse Sets Crypto Back 7 Years
+  https://unchainedpodcast.com/3ac-founder-su-zhu-says-ftx-collapse-sets-crypto-back-7-years
+- SBF's letter to FTX's employees
+  https://twitter.com/lizrhoffman/status/1595183732989779970?s=20&t=6JpTO3aPNTFLjfJ-7CmmBw
+- Binance, FTX, FTT: the Start of a Spiral
+  https://twitter.com/cz_binance/status/1589283421704290306
+- FTX Assets Still Missing as Firm Begins Bankruptcy Process
+  https://www.nytimes.com/2022/11/22/business/ftx-bankruptcy-sam-bankman-fried.html
+- Understanding Market Structure Following FTX’s Insolvency
+  https://blog.cryptocompare.com/understanding-market-structure-following-ftxs-insolvency-3f3c467f7099
+- Bankman-Fried's FTX, senior staff, parents bought Bahamas property worth $300 mln
+  https://www.reuters.com/technology/exclusive-bankman-frieds-ftx-parents-bought-bahamas-property-worth-121-mln-2022-11-22/
+- Prosecutors investigated FTX for months before collapse: Bloomberg
+  https://www.theblock.co/post/188890/prosecutors-investigated-ftx-for-months-before-collapse-bloomberg
+- More Than 50% of Bitcoin Addresses Are Now in Loss
+  https://www.coindesk.com/markets/2022/11/21/more-than-50-of-bitcoin-addresses-are-now-in-loss/
+- Swimming Among Sharks
+  https://jarvislabs.substack.com/p/swimming-among-sharks
  
 ## Following Regulation/Investigation
 
