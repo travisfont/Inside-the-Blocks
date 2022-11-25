@@ -99,6 +99,8 @@
   https://www.theblock.co/post/188571/ftx-begins-reviewing-its-assets-as-part-of-bankruptcy-process
 - FTX owes almost $3.1 billion to its top 50 creditors, filing says
   https://www.theblock.co/post/188642/ftx-owes-almost-3-1-billion-to-its-top-50-creditors-filing-says
+- Complicit in Catastrophe
+  https://jarvislabs.substack.com/p/complicit-in-catastrophe
  
 ## Following Regulation/Investigation
 
@@ -160,7 +162,11 @@
   
 ## The Mysterious Hacker
 - FTX Drainer Moves $29.3M Through Ren Bitcoin Bridge
-  https://unchainedpodcast.com/ftx-drainer-moves-29-3m-through-ren-bitcoin-bridge/
+  https://unchainedpodcast.com/ftx-drainer-moves-29-3m-through-ren-bitcoin-bridge/  
+- FTX's stolen funds on the move
+  https://twitter.com/chainalysis/status/1594349583416840199
+- FTX Exploiter Converts Millions in Ether to Alameda-Linked Ren Bitcoin Tokens
+  https://www.coindesk.com/tech/2022/11/20/ftx-exploiter-converts-millions-in-ether-to-alameda-linked-ren-bitcoin-tokens/
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
