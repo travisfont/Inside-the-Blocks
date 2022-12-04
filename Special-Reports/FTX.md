@@ -123,6 +123,8 @@
   https://www.coindesk.com/markets/2022/11/21/more-than-50-of-bitcoin-addresses-are-now-in-loss/
 - Swimming Among Sharks
   https://jarvislabs.substack.com/p/swimming-among-sharks
+- Report: The FTX Ponzi - Uncovering The Largest Fraud In Crypto History
+  https://bmpro.substack.com/p/report-the-ftx-ponzi-uncovering-the
  
 ## Following Regulation/Investigation
 
