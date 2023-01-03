@@ -179,6 +179,8 @@
   https://cryptobriefing.com/digital-currency-group-reveals-2b-in-liabilities-including-debt-to-its-own-subsidiary/
 - Alameda's Research's Major Co-Investors
   https://twitter.com/CryptoRank_io/status/1595464473481027584/photo/1
+### Genesis 
+- https://www.bloomberg.com/news/articles/2023-01-02/gemini-s-cameron-winklevoss-accuses-dcg-ceo-barry-silbert-of-bad-faith-tactics
   
 ## The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
