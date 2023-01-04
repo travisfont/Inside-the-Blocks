@@ -194,6 +194,10 @@
 - FTX Exploiter Converts Millions in Ether to Alameda-Linked Ren Bitcoin Tokens
   https://www.coindesk.com/tech/2022/11/20/ftx-exploiter-converts-millions-in-ether-to-alameda-linked-ren-bitcoin-tokens/
   
+## Court Case
+- Sam Bankman-Fried Pleads ‘Not Guilty’ to Fraud, Conspiracy Charges
+  https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/
+  
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
   https://www.youtube.com/watch?v=Q1A3ehEg2yU
