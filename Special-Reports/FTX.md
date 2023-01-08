@@ -197,6 +197,7 @@
 ## Court Case
 - Sam Bankman-Fried Pleads ‘Not Guilty’ to Fraud, Conspiracy Charges
   https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/
+- https://decrypt.co/118444/regulators-seize-millions-ftx-robinhood-shares
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
