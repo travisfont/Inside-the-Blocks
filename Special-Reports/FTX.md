@@ -125,6 +125,10 @@
   https://jarvislabs.substack.com/p/swimming-among-sharks
 - Report: The FTX Ponzi - Uncovering The Largest Fraud In Crypto History
   https://bmpro.substack.com/p/report-the-ftx-ponzi-uncovering-the
+- interesting movements from Alameda wallets in the past 24 hours
+  https://twitter.com/ArkhamIntel/status/1608204990581202946
+- Alameda wallets become active days after SBF bail, community mulls foul play
+  https://cointelegraph.com/news/alameda-wallets-become-active-days-after-sbf-bail-community-mulls-foul-play
  
 ## Following Regulation/Investigation
 
