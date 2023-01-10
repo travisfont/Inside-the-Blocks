@@ -129,6 +129,8 @@
   https://twitter.com/ArkhamIntel/status/1608204990581202946
 - Alameda wallets become active days after SBF bail, community mulls foul play
   https://cointelegraph.com/news/alameda-wallets-become-active-days-after-sbf-bail-community-mulls-foul-play
+- Legal Process or Theft? 12 SBF-Linked Wallets Transferred Millions On-Chain
+  https://unchainedpodcast.com/legal-process-or-theft-12-sbf-linked-wallets-transferred-millions-on-chain/
  
 ## Following Regulation/Investigation
 
@@ -183,8 +185,15 @@
   https://cryptobriefing.com/digital-currency-group-reveals-2b-in-liabilities-including-debt-to-its-own-subsidiary/
 - Alameda's Research's Major Co-Investors
   https://twitter.com/CryptoRank_io/status/1595464473481027584/photo/1
+- FTX businesses including LedgerX draw interest from over 100 potential buyers
+  https://www.theblock.co/post/200224/ftx-businesses-including-ledgerx-draw-interest-from-over-100-potential-buyers
 ### Genesis 
 - https://www.bloomberg.com/news/articles/2023-01-02/gemini-s-cameron-winklevoss-accuses-dcg-ceo-barry-silbert-of-bad-faith-tactics
+### Slivergate
+- U.S. Moves to Seize Robinhood Shares, Silvergate Accounts Tied to FTX
+  https://www.wsj.com/articles/judge-ordered-seizure-of-money-from-ftx-digital-markets-accounts-at-silvergate-11672866368
+- Silvergate Raced to Cover $8.1 Billion in Withdrawals During Crypto Meltdown
+  https://www.wsj.com/articles/silvergate-raced-to-cover-8-1-billion-in-withdrawals-during-crypto-meltdown-11672895207
   
 ## The Pull-Backs/Cancellations
 - FTX’s $1.4 Billion Deal for Bankrupt Lender Voyager Is Canceled
