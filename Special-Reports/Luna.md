@@ -13,6 +13,8 @@ This is simply an archive list.
   <br/>https://unchainedpodcast.com/do-kwon-is-being-hunted-down-by-an-extra-official-group/
 - WSJ - **Do Kwon’s Other Legal Headache: A $57 Million Fraud Lawsuit in Singapore** _(Oct 28, 2022)_
   <br/>https://www.wsj.com/livecoverage/stock-market-news-today-10-28-2022/card/do-kwon-s-other-legal-headache-a-57-million-fraud-lawsuit-in-singapore-5Ix58bBezltt5E95tTI2
+- Coindesk - [**Jump Crypto Is Unnamed Firm That Made $1.28B From Do Kwon’s Doomed Terra Ecosystem**](https://www.coindesk.com/business/2023/02/17/jump-crypto-is-unnamed-firm-that-made-128b-from-do-kwons-doomed-terra-ecosystem-sources/)
+  _(Feb 17, 2023)_
  
 # Articles
 - The Defiant - **What Is LUNC: A Step-by-Step Guide to Terra’s Failed Tokens** _(November 7, 2022)_
