@@ -17,6 +17,8 @@
   
   
 ## The Depths
+- The Epic Collapse of Sam Bankman-Fried's FTX Exchange: A Crypto Markets Timeline
+  https://www.coindesk.com/markets/2022/11/12/the-epic-collapse-of-sam-bankman-frieds-ftx-exchange-a-crypto-markets-timeline/
 - Market Review Oct 2022: FTX Contagion Rattles Markets **
   https://blog.perp.fi/market-review-oct-2022-ftx-contagion-rattles-markets-4f9389b28e9c
 - The FTX collapse: the latest revelations (part three)
