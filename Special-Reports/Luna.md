@@ -27,10 +27,19 @@ This is simply an archive list.
 - Unchained Podcast - **Do Kwon of Terra: 'It Was Never Really About Money or Fame or Success'** _(Oct. 18, 2022)_
   <br/>https://www.youtube.com/watch?v=RgYSJVC7Ps8
 
-## Informational Luna Classic Proposals
+## Informational Luna Classic Proposals & Discussions
 
-- **Terra Luna Classic Decentralized Governance Structure Proposal** by Sam_m _(November 1, 2022)_
-  <br/>https://classic-agora.terra.money/t/terra-luna-classic-decentralized-governance-structure-proposal/47832
+- [**Terra Luna Classic Decentralized Governance Structure Proposal**](https://classic-agora.terra.money/t/terra-luna-classic-decentralized-governance-structure-proposal/47832)
+  by Sam_m _(November 1, 2022)_
+
+  
+## Informative Repeg Proposals & Discussions
+
+- [**USTC Re-Peg: “Ziggy” + Pendulum**](https://classic-agora.terra.money/t/ustc-re-peg-ziggy-pendulum/49747)
+  _(January 20, 2023)_
+- [**USTC Revitalisation and Incremental Peg to $1 through the implementation of a Peg Divergence Tax on Transactions both on and off chain**](https://classic-agora.terra.money/t/ustc-revitalisation-and-incremental-peg-to-1-through-the-implementation-of-a-peg-divergence-tax-on-transactions-both-on-and-off-chain/49744)
+  _(January 20, 2023)_
+- [**Create a gold-pegged stablecoin**](https://classic-agora.terra.money/t/create-a-gold-pegged-stablecoin/50273/19)
   
 ## Moving Forward - Into the Future
 - Unchained - **Do Kwon Offers Cosmos Chains Free Terra Station Integration** _(November 21, 2022)_
