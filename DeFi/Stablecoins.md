@@ -1,6 +1,6 @@
 # Stablecoins
 
-- ...
+- Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
 
 ## Notable News
@@ -12,4 +12,19 @@
 
 ## Educational Articles
 
+- Coinbase - [**What is a stablecoin**](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)
+- Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
+- Mastercard - [**Stablecoins explained: An FAQ on these digital assets*](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)*
+
 ## Insightful Charts
+
+## Algorithmic Stablecoins
+
+- Cointelegraph - [**A Beginner's Guide on AlgorithmicStablecoins**](https://cointelegraph.com/learn/a-beginner-s-guide-on-algorithmic-stablecoins)
+- CoinDesk - [**Algorithmic Stablecoins: What They Are and How They Can Go Terribly Wrong**](https://www.coindesk.com/learn/algorithmic-stablecoins-what-they-are-and-how-they-can-go-terribly-wrong/)
+- Decrypt - [**What Are Algorithmic Stablecoins**](https://decrypt.co/resources/what-are-algorithmic-stablecoins)
+
+### USDN
+- [**Algo-stablecoin $USDN collapsed without too much drama on CT**](https://twitter.com/DefiIgnas/status/1643447914294034434)
+  _Twitter (DefiIgnas) - April 5, 2023_
+- [**Waves founder announces new stablecoin as USDN depegs*](https://cointelegraph.com/news/waves-founder-announces-new-stablecoin-as-usdn-depegs)* _(December 20, 2022)_
