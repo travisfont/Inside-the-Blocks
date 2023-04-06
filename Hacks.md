@@ -1,5 +1,9 @@
 # Hacks & Exploits
 
+ - [**Lending & Borrowing**](#Lending-amp-Borrowing)
+ 
+  ---
+
   * CBS News - [**Hackers have stolen record $3 billion in cryptocurrency this year**](https://www.cbsnews.com/news/cryptocurrency-theft-hacker-chainalysis-blockchain-crime/) (October 13, 2022)
 
 ## Centralized Exchange (CEX)
@@ -57,6 +61,20 @@
 </details>
 
 ### Lending & Borrowing
+
+ 
+
+<details>
+    
+  <summary>
+    <big><b>Euler Finance</b></big>
+    <small><i>N/A</i></small>
+  </summary>
+
+  * Decrypt - [**Euler Finance Exploiter Returns All ‘Recoverable Funds’ From $200M Hack**](https://decrypt.co/125373/euler-finance-exploiter-returns-recoverable-funds-200m-hack)
+
+</details>
+
 
 <details>
     
