@@ -2,3 +2,4 @@
 
 - **dYdX**
 - **GMX**
+- **Injective**
