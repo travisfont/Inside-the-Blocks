@@ -8,6 +8,7 @@
 ## Zero-knowledge
 
 - CoinGecko - [**What Are Zero Knowledge Proof Coins and How Do They Work**](https://www.coingecko.com/learn/zero-knowledge-proofs-and-zk-rollups)
+- Decrypt - [**What Is zkEVM: The Zero-Knowledge Proof's Role in Smart Contracts**](https://decrypt.co/resources/what-is-zkevm)
 
 ### zkSync
 
