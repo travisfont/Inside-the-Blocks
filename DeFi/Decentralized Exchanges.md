@@ -1,4 +1,4 @@
-# Decentralized Exchanges / Derivatives Platform
+# Decentralized Exchanges / Derivatives Platform  (DEX)
 
 - **dYdX**
 - **GMX**
