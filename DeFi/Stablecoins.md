@@ -5,6 +5,8 @@
 
 ## Notable News
 
+- [**Societe Generale's Crypto Division Introduces Euro Stablecoin on Ethereum**](https://www.coindesk.com/business/2023/04/20/societe-generales-crypto-division-introduces-euro-stablecoin-on-ethereum/)
+  <br/>_CoinDesk - April 20, 2023_
 - [**How Stable are Stablecoins: A Breakdown of the Options**](https://www.youtube.com/watch?v=aOsesTIaM-s)
   <br/>_The Defiant (YouTube) - March 17, 2023_
 - [**How Top Stablecoins Depegged After The Second Largest US Bank Failure**](https://www.youtube.com/watch?v=3bzvrQPBuO4)
