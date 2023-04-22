@@ -1,1 +1,0 @@
-# Decentralized Autonomous Organization (DAO)
