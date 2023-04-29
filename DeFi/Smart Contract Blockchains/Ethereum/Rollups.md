@@ -1,6 +1,8 @@
 # Rollups (L2)
 
-## optimistic Rollup
+## Optimistic Rollup
+
+- **Arbitrum**
 
 ### Optimism (OP)
 - CoinGecko - [**What is Optimism (OP)**](https://www.coingecko.com/learn/what-is-optimism-op)
