@@ -40,3 +40,7 @@ Format References:
 - **stETH Depeg** - June 10, 2022 <sup>[[ref-dl](https://defillama.com/protocol/curve)]<sup>
 - **FTX Collapse** - November 6, 2022 <sup>[[ref-dl](https://defillama.com/protocol/curve)]<sup>
 - **Euler Hack** - March 14th, 2023
+
+## General Education
+- Umeeversity (Umee Network) - [**What is Staking**](https://www.youtube.com/watch?v=UBZzWMKIxEc)
+- Umeeversity (Umee Network) - [**What is a DAO**](https://www.youtube.com/watch?v=pMOUa-mlWUY)
