@@ -26,6 +26,7 @@ This is simply an archive list.
   <br/>https://www.youtube.com/watch?v=DHor6fBEpTA
 - Unchained Podcast - **Do Kwon of Terra: 'It Was Never Really About Money or Fame or Success'** _(Oct. 18, 2022)_
   <br/>https://www.youtube.com/watch?v=RgYSJVC7Ps8
+- https://www.youtube.com/watch?v=YqsUgTKi29U&t=14s (to listen)
 
 ## Informational Luna Classic Proposals & Discussions
 
