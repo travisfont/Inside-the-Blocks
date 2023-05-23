@@ -5,6 +5,15 @@
   ---
 
   * CBS News - [**Hackers have stolen record $3 billion in cryptocurrency this year**](https://www.cbsnews.com/news/cryptocurrency-theft-hacker-chainalysis-blockchain-crime/) (October 13, 2022)
+  * Ronin Network (2022)
+  * PolyNetwork (2021)
+  * Coincheck (2018)
+  * KuCoin (2020)
+  * Nomand (2022)
+  * BitGrail (2018)
+  * Maiar (2022)
+  * Bitfinex (2016)
+  * NiceHash (2017)
 
 ## Centralized Exchange (CEX)
 
