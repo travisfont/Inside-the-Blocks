@@ -12,3 +12,4 @@ This video contains orderly and easy to follow lists on pro and cons regarding l
 - https://cointelegraph.com/news/ledger-clarifies-how-its-firmware-works-after-deleted-tweet-controversy
 - https://cointelegraph.com/news/ledger-co-founder-clarifies-there-is-no-backdoor-in-recover-firmware-update
 - https://cryptoslate.com/ledger-ceo-says-sharded-recovery-seeds-could-be-disclosed-on-subpoenaes/
+- https://cointelegraph.com/news/ledger-recover-paused-code-will-open-source
