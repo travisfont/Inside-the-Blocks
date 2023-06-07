@@ -5,6 +5,9 @@ _More trouble on the block by the SEC._
 ** Crypto Markets Dive After SEC Sues Binance
 https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect
 
+- https://www.youtube.com/watch?v=YWVcbhgu79A
+===
+
 Liquidations surpass $200M in 1 hour after SEC’s Binance lawsuit
 https://cryptoslate.com/liquidations-surpass-200m-in-1-hour-after-secs-binance-lawsuit/
 
