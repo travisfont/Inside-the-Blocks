@@ -1,3 +1,25 @@
+# Wrapped Tokens (Derivatives)
+
+- https://www.coingecko.com/en/categories/tokenized-btc
+
+BTC derivatives:
+- WBTC
+	https://www.coingecko.com/en/coins/wrapped-bitcoin
+- BTC.b
+	https://www.coingecko.com/en/coins/bitcoin-avalanche-bridged-btc-b
+	- https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche (also add to BTC)
+	https://www.avax.network/btcb-vs-bep2
+- BTCB
+	https://www.coingecko.com/en/coins/bitcoin-bep2
+	https://www.avax.network/btcb-vs-bep2
+- renBTC
+	https://www.coingecko.com/en/coins/renbtc
+
+
+ETH derivatives
+
+---
+
 - Wrapped Bitcoin WBTC explained (Bitcoin on Ethereum)
   https://www.youtube.com/watch?v=ogm-BWbXvnU
   
