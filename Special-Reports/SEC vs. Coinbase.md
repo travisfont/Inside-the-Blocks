@@ -2,6 +2,7 @@
 
 - https://www.youtube.com/watch?v=YWVcbhgu79A
 - https://www.youtube.com/watch?v=oiQup8DkiVA
+- https://www.youtube.com/watch?v=XEtpcxqpy_s (to rewatch)
 
 Coinbase CEO Brian Armstrong hits back at SEC lawsuit on social media
 https://cryptoslate.com/brian-armstrong-hits-back-at-sec-lawsuit-on-social-media/
