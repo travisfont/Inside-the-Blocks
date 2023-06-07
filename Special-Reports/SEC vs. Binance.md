@@ -40,3 +40,41 @@ https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html
 
 Crypto sentiment index dips back to March ‘fear’ levels amid Binance lawsuit
 https://cointelegraph.com/news/crypto-fear-index-dips-amid-sec-binance-lawsuit
+
+SEC crackdown on Binance and Coinbase surge DeFi trading volumes 444%
+https://cointelegraph.com/news/sec-coinbase-binance-lawsuits-surge-defi-trading-volumes
+
+Binance.​US says user funds ‘remain safe’ amid SEC attempt to freeze assets
+https://cointelegraph.com/news/binance-us-user-funds-safe-amid-sec-injunction-freeze-assets
+
+Binance vs. SEC: Crypto industry debates ‘Tai Chi’ vs. ‘Operation Chokepoint 2.0’
+https://cointelegraph.com/news/binance-v-sec-crypto-industry-debates-tai-chi-vs-operation-chokepoint-2
+
+SEC-induced panic saw $53 billion wiped from crypto market
+https://cryptoslate.com/sec-induced-panic-saw-53-billion-wiped-from-crypto-market/
+
+Binance CZ says SEC lawsuit is ‘an attack on the entire industry’
+https://cryptoslate.com/binance-cz-says-sec-lawsuit-is-an-attack-on-the-entire-industry/
+
+SEC’s Binance lawsuit triggers market-wide selloff: CryptoSlate wMarket Update
+https://cryptoslate.com/secs-binance-lawsuit-triggers-market-wide-selloff-cryptoslate-wmarket-update/
+
+BNB, BUSD ‘not securities’ – Binance rejects SEC’s security labels
+https://cryptoslate.com/bnb-busd-not-securities-binance-rejects-secs-security-labels/
+
+Binance, Coinbase CEOs together lost $1.7B of personal wealth after SEC charges
+https://cryptoslate.com/binance-coinbase-ceos-together-lost-1-7b-of-personal-wealth-after-sec-charges/
+
+Tokens Bounce Back Across the Market After SEC Triggers Turmoil
+https://decrypt.co/143633/tokens-bounce-back-across-the-market-after-sec-triggers-turmoil
+
+SEC Chair Gary Gensler: The US Doesn't Need Cryptocurrency
+https://decrypt.co/143595/crypto-industry-is-built-on-non-compliance-says-sec-chair-gary-gensler
+
+https://bitcoinmagazine.com/business/sec-sues-cryptocurrency-exchange-binance-alleging-securities-laws-violations
+
+COINBASE, AMERICA’S LARGEST CRYPTOCURRENCY EXCHANGE, SUED BY THE SEC FOR SECURITIES VIOLATIONS
+https://bitcoinmagazine.com/legal/coinbase-sued-by-the-sec-for-securities-violations
+
+SEC asks for emergency order to freeze Binance US assets anywhere in the world
+https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html
