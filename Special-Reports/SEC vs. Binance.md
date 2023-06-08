@@ -2,6 +2,13 @@
 
 _More trouble on the block by the SEC._
 
+- Introduction
+- Summary
+- Exchange Response
+- Price Action & Market Reaction
+- Conclusion
+- Timeline References (inc. Suggested Highlights)
+
 ** Crypto Markets Dive After SEC Sues Binance
 https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect
 
@@ -78,3 +85,70 @@ https://bitcoinmagazine.com/legal/coinbase-sued-by-the-sec-for-securities-violat
 
 SEC asks for emergency order to freeze Binance US assets anywhere in the world
 https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html
+
+Market rebounds after SEC lawsuits spur brief panic
+https://cryptoslate.com/market-rebounds-after-sec-lawsuits-spur-brief-panic/
+
+Nansen data shows nearly $600M in outflows at Binance, Coinbase
+https://cryptoslate.com/nansen-data-shows-nearly-600m-in-outflows-at-binance-coinbase/
+
+Binance experiences minor Bitcoin outflows despite SEC lawsuit fears
+https://cryptoslate.com/insights/outflows-on-binance-continue-throughout-the-day/
+
+What’s the Difference Between the Binance and Coinbase SEC Lawsuits?
+https://decrypt.co/143718/difference-between-binance-coinbase-sec-lawsuits
+
+Exchanging Discontent: SEC Sues Coinbase And Binance
+https://bmpro.substack.com/p/exchange-discontent-sec-sues-coinbase-binance
+----
+
+Meet the judges that will preside over Coinbase and Binance’s SEC lawsuits
+https://cointelegraph.com/news/judges-preside-over-coinbase-binance-sec-lawsuits
+
+SEC’s Gensler offered to serve as an adviser to Binance in 2019: Lawyers claim
+https://cointelegraph.com/news/sec-chair-gensler-offered-serve-advisor-to-binance-lawyers-claim
+
+Binance.US coins trade at premium amid litigation fears, fiat gateway issues
+https://cointelegraph.com/news/binance-us-coins-trade-at-premium-amid-litigation-fears-fiat-gateway-issues
+
+US district court issues summons for Binance CEO Changpeng Zhao over SEC action
+https://cointelegraph.com/news/us-district-court-issues-summons-for-binance-ceo-changpen-zhao-over-sec-action
+
+What asset freeze? Binance BTC outflows muted as users shun panic selling
+https://cointelegraph.com/news/what-asset-freeze-binance-btc-outflows-muted-as-users-shun-panic-selling
+
+Binance.US’ Bitcoin price shows significant divergence
+https://cryptoslate.com/insights/binance-us-bitcoin-price-shows-significant-divergence/
+
+SEC alleges Binance sent Paxos nearly $20B in commingled funds via Merit Peak in 2021
+https://cryptoslate.com/sec-alleges-binance-sent-paxos-nearly-20b-in-commingled-funds-via-merit-peak-in-2021/
+
+**Binance US removes 100+ advanced trading pairs amid SEC scrutiny**
+https://cryptoslate.com/binance-us-removes-100-advanced-trading-pairs-amid-sec-scrutiny/
+
+Binance CEO CZ summoned to appear in District of Columbia court
+https://cryptoslate.com/binance-ceo-cz-summoned-to-appear-in-district-of-columbia-court/
+
+SEC filings reveal testimony of former Binance.US CEOs
+https://cryptoslate.com/sec-filings-reveal-testimony-of-former-binance-us-ceos/
+
+Blockchain Association members say courts will prove SEC, Gary Gensler wrong
+https://cryptoslate.com/blockchain-association-members-say-courts-will-prove-sec-gary-gensler-wrong/
+
+Cardano company Input Output says ADA is not a security
+https://cryptoslate.com/cardano-company-input-output-says-ada-is-not-a-security/
+
+Gary Gensler had close ties to Binance’s CZ, offered to serve as exchange advisor: lawyers
+https://cryptoslate.com/gary-gensler-had-close-ties-to-binances-cz-offered-to-serve-as-exchange-advisor-lawyers/
+
+Binance.US Pulls Several Trading Pairs in Wake of SEC Lawsuit
+https://decrypt.co/143741/binance-us-pulls-several-trading-pairs-in-wake-of-sec-lawsuit
+
+The SEC Has Not Labeled Any Proof-of-Work Asset as a Security—Why Is That?
+https://decrypt.co/143760/why-has-the-sec-not-labeled-any-proof-of-work-asset-as-a-security
+
+BTC, ETH, And BNB Trade At A Premium On Binance.US After Court Orders Asset Freeze
+https://thedefiant.io/btc-eth-and-bnb-trade-at-a-premium-on-binance-us-after-court-orders-asset-freeze
+
+Binance Outflows Slow After SEC Crackdown
+https://thedefiant.io/crypto-exchange-outflows-slow-after-sec-crackdown-on-binance-and-coinbase
