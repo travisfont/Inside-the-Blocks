@@ -45,3 +45,41 @@ https://cointelegraph.com/news/sec-coinbase-binance-lawsuits-surge-defi-trading-
 
 SEC Chair Gary Gensler: The US Doesn't Need Cryptocurrency
 https://decrypt.co/143595/crypto-industry-is-built-on-non-compliance-says-sec-chair-gary-gensler
+
+Market rebounds after SEC lawsuits spur brief panic
+https://cryptoslate.com/market-rebounds-after-sec-lawsuits-spur-brief-panic/
+
+Nansen data shows nearly $600M in outflows at Binance, Coinbase
+https://cryptoslate.com/nansen-data-shows-nearly-600m-in-outflows-at-binance-coinbase/
+
+Cardano company Input Output says ADA is not a security
+https://cryptoslate.com/cardano-company-input-output-says-ada-is-not-a-security/
+
+What’s the Difference Between the Binance and Coinbase SEC Lawsuits?
+https://decrypt.co/143718/difference-between-binance-coinbase-sec-lawsuits
+
+---
+
+Meet the judges that will preside over Coinbase and Binance’s SEC lawsuits
+https://cointelegraph.com/news/judges-preside-over-coinbase-binance-sec-lawsuits
+
+Coinbase CEO Brian Armstrong responds to SEC lawsuit; says Gensler’s views ‘not representative’ of US government
+https://cryptoslate.com/brian-armstrong-responds-to-sec-lawsuit-says-genslers-views-are-not-representative-of-entire-us-government/
+
+Blockchain Association members say courts will prove SEC, Gary Gensler wrong
+https://cryptoslate.com/blockchain-association-members-say-courts-will-prove-sec-gary-gensler-wrong/
+
+Coinbase has no plans to delist assets or end staking service
+https://cryptoslate.com/coinbase-has-no-plans-to-delist-assets-or-end-staking-service/
+
+US Court Gives SEC One Week to Respond to Coinbase’s Rulemaking Petition
+https://decrypt.co/143673/us-court-gives-sec-one-week-to-respond-to-coinbases-rulemaking-petition
+
+The SEC Has Not Labeled Any Proof-of-Work Asset as a Security—Why Is That?
+https://decrypt.co/143760/why-has-the-sec-not-labeled-any-proof-of-work-asset-as-a-security
+
+Cathie Wood's ARK Bought $22M Worth of Coinbase Shares After the Price Tanked
+https://decrypt.co/143780/coinbases-stock-tanked-cathie-wood-bought-more-shares
+
+Exchanging Discontent: SEC Sues Coinbase And Binance
+https://bmpro.substack.com/p/exchange-discontent-sec-sues-coinbase-binance
