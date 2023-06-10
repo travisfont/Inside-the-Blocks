@@ -12,6 +12,13 @@ _More trouble on the block by the SEC._
 ** Crypto Markets Dive After SEC Sues Binance
 https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect
 
+- Coin Bureau - Are These Crypto Securities: SEC vs. Binance Breakdown
+	https://www.youtube.com/watch?v=x6roXpb6qTE
+- Bankless - Will the SEC Kill Crypto with Jake Chervinsky & Amanda Tuminelli
+	https://www.youtube.com/watch?v=8UZ6MakjTTs
+- Swan Bitcoin - SEC Sues Binance w/ Lyn Alden & Preston Pysh Analysis
+	https://www.youtube.com/watch?v=WO0CWpImojU
+
 - https://www.youtube.com/watch?v=YWVcbhgu79A
 ===
 
