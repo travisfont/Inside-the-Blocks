@@ -2,7 +2,15 @@
 
 - https://www.youtube.com/watch?v=YWVcbhgu79A
 - https://www.youtube.com/watch?v=oiQup8DkiVA
+- Bankless - Will the SEC Kill Crypto with Jake Chervinsky & Amanda Tuminelli
+	https://www.youtube.com/watch?v=8UZ6MakjTTs
+- Bankless - SEC vs. Coinbase with Coinbase's Chief Legal Officer, Paul Grewal
+	https://www.youtube.com/watch?v=oiQup8DkiVA
+- Bankless - SEC Started to Change ‘Tone’ Last Year: Coinbase CEO
+	https://www.youtube.com/watch?v=rJKnKxVAX60
 - https://www.youtube.com/watch?v=XEtpcxqpy_s (to rewatch)
+
+--
 
 Coinbase CEO Brian Armstrong hits back at SEC lawsuit on social media
 https://cryptoslate.com/brian-armstrong-hits-back-at-sec-lawsuit-on-social-media/
