@@ -242,6 +242,7 @@
   https://decrypt.co/videos/interviews/XTEZEmpn/ftx-meltdown-101-what-the-hell-happened-and-what-comes-next
 - Mapping the FTX Contagion
   https://thedefiant.io/mapping-the-ftx-contagion
+- https://www.youtube.com/watch?v=I30yiehG48Q&t=1576s
 
   
 ## Data Sets
