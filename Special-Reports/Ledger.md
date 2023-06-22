@@ -22,3 +22,4 @@ This video contains orderly and easy to follow lists on pro and cons regarding l
 - https://cryptoslate.com/ledger-ceo-says-sharded-recovery-seeds-could-be-disclosed-on-subpoenaes/
 - https://cointelegraph.com/news/ledger-recover-paused-code-will-open-source
 - https://www.coingecko.com/learn/ledger-recover-community-concerns
+- https://cointelegraph.com/news/ledger-white-paper-hardware-wallet-seed-recovery-tool
