@@ -22,6 +22,9 @@ https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect
 - https://www.youtube.com/watch?v=YWVcbhgu79A
 ===
 
+ The Defiant - WTF is up with Binance
+https://www.youtube.com/watch?v=tA9e__fZUU4&t=225s
+
 Liquidations surpass $200M in 1 hour after SEC’s Binance lawsuit
 https://cryptoslate.com/liquidations-surpass-200m-in-1-hour-after-secs-binance-lawsuit/
 
