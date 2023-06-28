@@ -1,4 +1,13 @@
-# Liquid Staking
+# Liquid Staking Derivatives (LSD) / Liquid Staking Tokens (LST)
 
-- **Liquid Staking Tokens (LST) - DeFi Summer 2.0 Starts Now**
+- DeFiLlama - [**Total Value Locked ETH LSDs**](https://defillama.com/lsd)
+
+## Videos
+
+- [**Liquid Staking Tokens (LST) - DeFi Summer 2.0 Starts Now**](https://www.youtube.com/watch?v=pZPstmGkMLw)https://www.youtube.com/watch?v=pZPstmGkMLw
   <br/>_The Defiant - June 1, 2023_
+
+## Twitter Tweets
+
+- [**LSTs/LSDs Are Not Far from Flipping ETH: Exploring the World of LST-Backed Stablecoins**](https://twitter.com/zaddycoin/status/1672046836134342661)https://twitter.com/zaddycoin/status/1672046836134342661
+  <br/>_Gabe (@zaddycoin) - Jun 23, 2023_
