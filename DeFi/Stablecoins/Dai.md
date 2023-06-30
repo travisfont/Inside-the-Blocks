@@ -1,6 +1,6 @@
 # Dai (DAI)
 
-> _Also reference: **MakerDAO (MKR)**_
+> _Also reference: **[MakerDAO (MKR)](/DeFi/Collateralized%20Debt%20Position/MakerDAO.md)**_
 
 ## Notable News
 - [**DAI's Reliance On USDC Drops Below 10% As MakerDAO Expands Bond Holdings**](https://thedefiant.io/dai-s-reliance-on-usdc-drops-below-10-as-makerdao-expands-bond-holdings)
