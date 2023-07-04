@@ -10,3 +10,8 @@
   <br/>_Decrypt - May 22, 2023_
 - [**Tokenized Bonds Surpass $200M In Market Capitalization**](https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization)
   <br/>_The Defiant - May 22, 2023_
+
+## Articles
+
+- [**Tokenizing the Future: When It Comes to the Potential Use Cases for Tokenized Assets, Financial Services Are Only the Start**](https://www.blockdata.tech/blog/spotlight/tokenizing-the-future-when-it-comes-to-the-potential-use-cases-for-tokenized-assets-financial-services-are-only-the-start)
+  <br/>_Blockdata - May 1st, 2023_
