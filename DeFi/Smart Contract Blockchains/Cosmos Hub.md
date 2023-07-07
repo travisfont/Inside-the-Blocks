@@ -9,3 +9,7 @@
 - https://twitter.com/stakecito
 - https://twitter.com/proofstake
 - https://twitter.com/luisqagt
+
+## Technical
+- [**Staking APRs, Validator Squads, NATO – Talk with Sunny Aggarwal about Mesh Security**](https://www.youtube.com/watch?v=WD_ZYaNSfEU)
+  <br/>_Design DAO - May 30, 2023_
