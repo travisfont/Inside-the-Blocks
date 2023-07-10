@@ -2,6 +2,9 @@
 
 - DeFiLlama - [**Total Value Locked ETH LSDs**](https://defillama.com/lsd)
 
+## Charts & Data
+- Dune (by murathan) - [**LST Wars**](https://dune.com/murathan/lst-wars)
+
 ## Videos
 
 - [**Liquid Staking Tokens (LST) - DeFi Summer 2.0 Starts Now**](https://www.youtube.com/watch?v=pZPstmGkMLw)https://www.youtube.com/watch?v=pZPstmGkMLw
