@@ -19,5 +19,5 @@
 
 ## Podcasts
 
-- [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)https://www.youtube.com/watch?v=0SYSgGiQLk8
+- [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)
   <br/>_Empire (Blockworks) - July 11, 2023_
