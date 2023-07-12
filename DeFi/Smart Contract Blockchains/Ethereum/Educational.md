@@ -1,5 +1,6 @@
 # Educational Articles & Resources
 
+- [**Ethereum Improvement Proposals**](https://eips.ethereum.org/all)
 - **[What is EthereumPoW (ETHW)](https://www.coingecko.com/learn/what-is-ethereumpow-ethw)**
 - **[Understanding Withdrawals](https://www.attestant.io/posts/understanding-withdrawals/)**
 - **[ETH Withdrawals FAQ](https://notes.ethereum.org/@launchpad/withdrawals-faq)**
@@ -54,3 +55,12 @@
 ## ERC-1155
 
 ## Tokenized Vault Standard (ERC-4626)
+yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.com/yearnfi/status/1511444220850184197)
+
+## ERC 7265
+- [**ERC 7265: What It Means For DeFi Security and Ethereum**](https://coinmarketcap.com/community/articles/64a56a76306a5550d3355836/)
+- [**Development of ERC 7265 ‘Circuit Breaker’ to Stop Hacking in DeFi**](https://medium.com/@jessicadoosan02/development-of-erc-7265-circuit-breaker-to-stop-hacking-in-defi-dc7f8e44bf51)
+- [**Circuit Breakers: Is ERC-7265 the Solution dApps Were Waiting For**](https://www.youtube.com/watch?v=exyQFCKDOyM)
+  <br/>_Unchained (YouTube) - July 7, 2023_
+- [**Add EIP: Circuit Breaker**](https://github.com/ethereum/EIPs/pull/7265)
+  <br/>_ethereum / EIPs (GitHub) - July 3, 2023_
