@@ -1,4 +1,5 @@
-# Tokenized Securities
+# Tokenized Securities (Real Word Assets)
+
 
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
 
@@ -15,3 +16,8 @@
 
 - [**Tokenizing the Future: When It Comes to the Potential Use Cases for Tokenized Assets, Financial Services Are Only the Start**](https://www.blockdata.tech/blog/spotlight/tokenizing-the-future-when-it-comes-to-the-potential-use-cases-for-tokenized-assets-financial-services-are-only-the-start)
   <br/>_Blockdata - May 1st, 2023_
+
+## Podcasts
+
+- [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)https://www.youtube.com/watch?v=0SYSgGiQLk8
+  <br/>_Empire (Blockworks) - July 11, 2023_
