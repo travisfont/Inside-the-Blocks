@@ -19,5 +19,7 @@
 
 ## Podcasts
 
+- [**The Chopping Block: Why It’s Suddenly RWA with Szn**](https://www.youtube.com/watch?v=OsMlqTAorGc)
+  <br/>_Unchained - July 13, 2023_
 - [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)
   <br/>_Empire (Blockworks) - July 11, 2023_
