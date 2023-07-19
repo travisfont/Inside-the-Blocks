@@ -2,3 +2,4 @@
 
 - Bonds
 - Tokenonmics
+- [Crypto Legislation](Legislation.md)
