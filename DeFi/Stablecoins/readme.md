@@ -5,6 +5,8 @@
 
 ## Notable News
 
+- [**Euro Stablecoin Market Set To Take Off: Thanks To Real-World Uses & Regulatory Clarity — Circle Exec**](https://cointelegraph.com/news/eu-officials-sign-markets-in-crypto-assets-framework-into-law)
+  <br/>_Cointelegraph - May 31, 2023_
 - [**Societe Generale's Crypto Division Introduces Euro Stablecoin on Ethereum**](https://www.coindesk.com/business/2023/04/20/societe-generales-crypto-division-introduces-euro-stablecoin-on-ethereum/)
   <br/>_CoinDesk - April 20, 2023_
 - [**How Stable are Stablecoins: A Breakdown of the Options**](https://www.youtube.com/watch?v=aOsesTIaM-s)
