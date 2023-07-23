@@ -1,4 +1,4 @@
-# CeFi
+# Centralized Exchange (CeFi)
 
 ### Proof of Reserves (PoR)
 - [**What Are Proof of Reserves: All You Need To Know**](https://chain.link/education-hub/proof-of-reserves)
