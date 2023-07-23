@@ -1,5 +1,6 @@
 # Educational Articles & Resources
 
+- [**What Are EIP and ERC**](https://shardeum.org/blog/eip-and-erc/)
 - [**Ethereum Improvement Proposals**](https://eips.ethereum.org/all)
 - **[What is EthereumPoW (ETHW)](https://www.coingecko.com/learn/what-is-ethereumpow-ethw)**
 - **[Understanding Withdrawals](https://www.attestant.io/posts/understanding-withdrawals/)**
@@ -64,3 +65,20 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
   <br/>_Unchained (YouTube) - July 7, 2023_
 - [**Add EIP: Circuit Breaker**](https://github.com/ethereum/EIPs/pull/7265)
   <br/>_ethereum / EIPs (GitHub) - July 3, 2023_
+
+## EIP 2938 (Account Abstraction)
+- [**A History of Account Abstraction**](https://www.youtube.com/watch?v=iLf8qpOmxQc)
+  <br/>_Vitalik Buterin (EthCC) - July 18, 2023_
+- https://eips.ethereum.org/EIPS/eip-2938
+- https://blog.pantherprotocol.io/ethereum-account-abstraction-everything-you-need-to-know/
+- https://our.status.im/account-abstraction-eip-2938/
+- https://securrtech.medium.com/account-abstraction-929c0a2e76a9
+- https://hackmd.io/@SamWilsn/ryhxoGp4D
+
+# ERC-4337 (Account Abstraction)
+- [**A History of Account Abstraction**](https://www.youtube.com/watch?v=iLf8qpOmxQc)
+  <br/>_Vitalik Buterin (EthCC) - July 18, 2023_
+- https://eips.ethereum.org/EIPS/eip-4337
+- https://shardeum.org/blog/ethereum-account-abstraction/
+- https://dev.to/desmondsanctity/account-abstraction-in-web3-mce
+- https://academy.binance.com/en/articles/what-is-erc-4337-or-account-abstraction-for-ethereum
