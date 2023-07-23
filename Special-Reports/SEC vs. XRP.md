@@ -7,6 +7,14 @@
 ## SEC - The Verdict is Out:
 - https://www.youtube.com/watch?v=XyriPMvYPAk
 - https://www.youtube.com/watch?v=yIKRSDhAf4A
+- https://www.youtube.com/watch?v=QOZngJE1lZY
+- https://www.youtube.com/watch?v=yIKRSDhAf4A
+- https://www.youtube.com/watch?v=8SeIQ93xwyU
+- https://www.youtube.com/watch?v=TIiYwWWsMJU
+- https://www.youtube.com/watch?v=wkJszcbik0o
+- https://www.youtube.com/watch?v=3ahX4PJpPbw
+- https://www.youtube.com/watch?v=OPdtKrnlN_c
+- https://www.youtube.com/watch?v=XyriPMvYPAk
 
 ## The Final Conclusion:
 (3 sentences)
