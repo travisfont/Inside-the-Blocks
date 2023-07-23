@@ -20,6 +20,10 @@
 - Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
 - Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
 
+## Podcasts & Talks
+- [**The future of euro stablecoins**](https://www.youtube.com/watch?v=WF__4bId9zU)
+  <br/>_Patrick Hansen (EthCC) - Jul 17, 2023_
+
 ## Insightful Charts
 
 ## Algorithmic Stablecoins
