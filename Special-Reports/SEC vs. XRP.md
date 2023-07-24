@@ -15,6 +15,7 @@
 - https://www.youtube.com/watch?v=3ahX4PJpPbw
 - https://www.youtube.com/watch?v=OPdtKrnlN_c
 - https://www.youtube.com/watch?v=XyriPMvYPAk
+- https://www.shoal.gg/p/beat-the-case-the-significance-of
 
 ## The Final Conclusion:
 (3 sentences)
