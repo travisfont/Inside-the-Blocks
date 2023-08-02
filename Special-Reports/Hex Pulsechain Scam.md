@@ -8,3 +8,7 @@ to watch all:
 - https://www.youtube.com/watch?v=VZExzSprgak
 - https://www.youtube.com/watch?v=iUrBYDtIOeY
 - https://www.youtube.com/watch?v=LFEe6bdAezM
+
+## Articles
+- https://decrypt.co/150677/sec-charges-hex-founder-richard-heart-1b-unregistered-securities-offering
+- https://thedefiant.io/sec-alleges-richard-heart-used-investor-funds-to-fuel-shopping-spree
