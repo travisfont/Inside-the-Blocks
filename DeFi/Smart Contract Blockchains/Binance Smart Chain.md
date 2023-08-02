@@ -11,3 +11,6 @@
   <br/>_Ignas (@DefiIgnas) - June 7, 2023_
 - [**Potential Liquidation of $200M USD on Venus at $220**](https://twitter.com/DefiIgnas/status/1666459740447158275)
   <br/>_Ignas (@DefiIgnas) - June 7, 2023_
+
+## Hacks that Happened
+- https://cointelegraph.com/news/vyper-copycat-exploit-on-bsc-bnb-smart-chain-curve
