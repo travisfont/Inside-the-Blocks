@@ -44,15 +44,43 @@
 
 ### Smart Contracts
 <details>
-    
   <summary>
     <big><b>Alarm Clock Exploit (ETH)</b></big>
     <small><i>$260,000 on Etheruem on October 19, 2022</i></small>
   </summary>
-
+ 
   * Unchained - [**$260,000 Gas Fees Stolen in Ethereum Alarm Clock Exploit**](https://unchainedpodcast.com/260000-gas-fees-stolen-in-ethereum-alarm-clock-exploit/)
-
 </details>
+
+<details>
+  <summary>
+    <big><b>Vyper Vulnerability Attack</b></big>
+    <small><i>Unconfirmed Amount on Etheruem on July 30, 2023</i></small>
+  </summary>
+
+  * https://cointelegraph.com/news/vyper-vulnerability-exposes-defi-ecosystem-stress-tests
+  * https://cointelegraph.com/news/vyper-copycat-exploit-on-bsc-bnb-smart-chain-curve
+  * https://twitter.com/CurveFinance/status/1685693202722848768
+  * https://twitter.com/Delphi_Digital/status/1686187959303708672
+  * https://cryptoslate.com/tron-partners-with-turbulent-curve-finance-to-launch-stusdt-pool-amid-market-chaos/
+  * https://cointelegraph.com/news/white-hat-returns-5-million-curve-finance-hack
+  * https://cointelegraph.com/news/curve-finance-founder-100-million-debt-could-trigger-defi-implosion
+  * https://cryptoslate.com/total-value-locked-across-defi-protocols-down-more-than-3b-since-curve-finance-attack/
+  * https://cointelegraph.com/news/curve-founder-michael-egorov-crv-loan-counterparties
+  * https://cointelegraph.com/news/curve-liquidation-risk-poses-systemic-threat-to-defi-even-as-founder-scurries-to-repay-loans
+  * https://cointelegraph.com/news/ethereum-million-dollar-mev-block-reward-amid-curve-finance-exploit
+</details>
+
+<details>
+  <summary>
+    <big><b>Zero-value TransferFrom Hack</b></big>
+    <small><i>Unconfirmed Amount on Etheruem on February 07, 2023</i></small>
+  </summary>
+
+  * https://cointelegraph.com/news/scammers-are-targeting-crypto-users-with-new-zero-value-transferfrom-trick
+  * https://cointelegraph.com/news/zero-transfer-scammer-steals-20-million-usdt
+</details>
+
 
 
 ### Decentralized Exchange (DEX)
