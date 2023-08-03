@@ -12,3 +12,6 @@ to watch all:
 ## Articles
 - https://decrypt.co/150677/sec-charges-hex-founder-richard-heart-1b-unregistered-securities-offering
 - https://thedefiant.io/sec-alleges-richard-heart-used-investor-funds-to-fuel-shopping-spree
+
+## SEC 
+- The Defiant - [**Richard 'Heart' Broken by SEC: Is HEX in Trouble**](https://www.youtube.com/watch?v=pSbmOkmSu1I) _([webpage](https://thedefiant.io/richard-heart-broken-by-sec-is-hex-in-trouble))_ _(Aug 1, 2023)_
