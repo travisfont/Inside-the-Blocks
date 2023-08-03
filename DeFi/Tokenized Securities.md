@@ -2,13 +2,21 @@
 
 
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
+- Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 
 ## News
 
+
 - [**Securitize Launches Tokenized Spanish REIT Shares**](https://thedefiant.io/securitize-launches-tokenized-spanish-reit-shares)
   <br/>_The Defiant - July 30, 2023_
+- [**Tokenization Firm Securitize Kicks Off European Campaign in Spain**](https://decrypt.co/150295/tokenization-firm-securitize-kicks-off-european-campaign-spain)
+  <br/>_Decrypt - July 27, 2023_
+- [**Securitize issues tokenized assets in Spain, plans September trading start**](https://cointelegraph.com/news/securitize-issues-tokenized-assets-in-spain-plans-september-trading-start)
+  <br/>_Cointelegraph - July 27, 2023_
 - [**Avalanche Doubles Down On Asset Tokenization with $50M Fund**](https://thedefiant.io/avalanche-doubles-down-on-asset-tokenization-with-50m-fund)
-  <be/>_The Defiant - July 26, 2023_
+  <br/>_The Defiant - July 26, 2023_
+- [**Avalanche Foundation Launches $50M Asset Tokenization Initiative**](https://decrypt.co/149978/avalanche-foundation-launches-50m-asset-tokenization-initiative)
+  <br/>_Decrypt - July 25, 2023_
 - [**Mastercard chief digital officer believes tokenization needs TradFi rules to go mainstream**](https://cryptoslate.com/mastercard-chief-digital-officer-believes-tokenization-needs-tradfi-level-to-go-mainstream/)
   <br/>_CryptoSlate - July 3, 2023_
 - [**Tokenized Securities on Ethereum, Polygon, Gnosis Hit $225M Market Cap**](https://decrypt.co/140941/tokenized-securities-ethereum-polygon-gnosis-hit-225m-market-cap)
