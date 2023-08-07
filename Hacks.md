@@ -58,7 +58,22 @@
     <small><i>Unconfirmed Amount on Etheruem on July 30, 2023</i></small>
   </summary>
 
+  * Unchained - [**What Does the Curve Crisis Say About DeFi**](https://www.youtube.com/watch?v=L-PcKULfKVc) (Aug 4, 2023)
   * Unchained - [**The Chopping Block: Who’s to Blame for the Curve Hack**](https://www.youtube.com/watch?v=_O3hOg93LBE) (Aug 3, 2023)
+  * https://cryptoslate.com/curve-finance-offers-hacker-10-bounty-agrees-not-to-seek-legal-assistance-if-offer-is-taken-up/
+  * https://thedefiant.io/defi-lenders-spooked-by-curve-exploit
+  * https://cointelegraph.com/news/curve-crvusd-depegs-market-reacts-shock-events
+  * https://cointelegraph.com/news/curve-aave-chan-founder-proposes-buying-2-m-crv-from-curve-founder
+  * https://thedefiant.io/crypto-lenders-weigh-options-to-deal-with-crv-leverage
+  * https://thedefiant.io/curve-founder-continues-to-offload-crv-in-otc-deals
+  * https://decrypt.co/151336/curve-finance-chaos-is-110-million-gut-check-defi
+  * https://decrypt.co/151273/defi-teams-issue-stark-warning-curve-finance-hacker
+  * https://cryptoslate.com/curve-crv-token-jumps-6-after-exploiter-begins-to-return-part-of-stolen-funds/
+  * https://cointelegraph.com/news/curve-finance-opens-bounty-after-exploiter-deadline-expires
+  * https://cointelegraph.com/news/alchemix-reports-return-of-all-stolen-funds-from-curve-pools
+  * https://cointelegraph.com/news/jpeg-d-confirms-return-of-eth-from-curve-hacker
+  * https://cointelegraph.com/news/curve-vyper-exploit-whole-story-so-far
+  * https://cointelegraph.com/news/curve-hack-mev-bot-behind-61m-heist-begins-returning-funds
   * https://cointelegraph.com/news/curve-emergency-dao-terminates-rewards-for-hack-related-pools
   * https://decrypt.co/151090/defi-blue-chip-tokens-hit-with-bearish-week-amid-curve-finance-hack
   * https://cointelegraph.com/news/vyper-vulnerability-exposes-defi-ecosystem-stress-tests
