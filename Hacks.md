@@ -59,7 +59,9 @@
   </summary>
 
   * Unchained - [**What Does the Curve Crisis Say About DeFi**](https://www.youtube.com/watch?v=L-PcKULfKVc) (Aug 4, 2023)
+  * Empire (Blockworks) - [**Curve Hack Explained**](https://www.youtube.com/watch?v=yA1BtxLWZc8) (Aug 4, 2023)
   * Unchained - [**The Chopping Block: Who’s to Blame for the Curve Hack**](https://www.youtube.com/watch?v=_O3hOg93LBE) (Aug 3, 2023)
+  * Bankless - [**Will DeFi Survive The Curve Meltdown**](https://www.youtube.com/watch?v=I1bVLQdUkMw) (Aug 2, 2023)
   * https://cryptoslate.com/curve-finance-offers-hacker-10-bounty-agrees-not-to-seek-legal-assistance-if-offer-is-taken-up/
   * https://thedefiant.io/defi-lenders-spooked-by-curve-exploit
   * https://cointelegraph.com/news/curve-crvusd-depegs-market-reacts-shock-events
