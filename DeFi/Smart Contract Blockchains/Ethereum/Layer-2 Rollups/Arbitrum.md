@@ -6,6 +6,7 @@
 
 
 ## News
+- Decrypt - [**Arbitrum Airdrops $120 Million in ARB to DAOs**](https://decrypt.co/137848/arbitrum-airdrops-120-million-in-arb-to-daos)
 - Decrypt - [**Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs**](https://decrypt.co/123727/ethereum-layer-2-solution-arbitrum-announces-token-airdrop-opens-tech-stack-devs)
 - Decrypt - [**Arbitrum’s Airdrop Is Just Around the Corner—How Much Will ARB Be Worth**](https://decrypt.co/124016/arbitrum-airdrop-around-corner-how-much-will-arb-be-worth)
 
