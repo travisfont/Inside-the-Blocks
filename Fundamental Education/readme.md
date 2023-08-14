@@ -1,5 +1,7 @@
 # Fundmential Educational Resources 
 
 - Bonds
-- Tokenonmics
 - [Crypto Legislation](Legislation.md)
+- Swaps & Trading
+- Tokenonmics
+- Wallets & Custody
