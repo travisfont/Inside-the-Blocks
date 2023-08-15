@@ -1,4 +1,4 @@
-# Tokenized Securities (Real Word Assets)
+# Tokenized Securities / Commodity Tokenization (Real Word Assets)
 
 
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
@@ -26,6 +26,8 @@
 
 ## Articles
 
+- [**Commodity Tokenization Is the Economic Aid Africa Needs**](https://cointelegraph.com/news/commodity-tokenization-economic-aid-africa)
+  <br/>_Cointelegraph - August 14, 2023_
 - [**Beyond Crypto: Tokenization (Global Digital Assets)**](https://rsch.baml.com/access?q=s-i517792VNkDKydHLEioQ)
   <br/>_Alkesh Shah & Andrew Moss - 29 June, 2023_
 - [**Tokenizing the Future: When It Comes to the Potential Use Cases for Tokenized Assets, Financial Services Are Only the Start**](https://www.blockdata.tech/blog/spotlight/tokenizing-the-future-when-it-comes-to-the-potential-use-cases-for-tokenized-assets-financial-services-are-only-the-start)
