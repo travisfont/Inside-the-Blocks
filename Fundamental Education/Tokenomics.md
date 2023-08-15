@@ -10,6 +10,12 @@
 - [**Transactional Coins vs. Utility Tokens**](https://medium.com/acreapp/transactional-coins-vs-utility-tokens-ad5632c8f4cf)
 ### Utility Tokens
 - [**Transactional Coins vs. Utility Tokens**](https://medium.com/acreapp/transactional-coins-vs-utility-tokens-ad5632c8f4cf)
+### ibTokens: Interest-Bearing Tokens
+- [Aalpaca Finance](https://docs.alpacafinance.org/tokenomics/ibtokens)
+### cTokens: Compound Tokens
+- [Compound Protocol](https://docs.compound.finance/v2/ctokens)
+
+  
 
 ## Airdrops
 - Decrypt - [What Are Airdrops](https://decrypt.co/resources/airdrops)
