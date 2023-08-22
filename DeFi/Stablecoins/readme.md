@@ -5,6 +5,10 @@
 
 ## Notable News
 
+- [**Ex-Singapore Parliamentarian's Swiss Company Launches Swiss Franc and Euro Stablecoins**](https://sg.finance.yahoo.com/news/ex-singapore-parliamentarians-swiss-company-024500505.html)
+  <br/>_Yahoo Finance - August 6, 2023_
+- [**Singapore's Central Bank Releases Stablecoin Regulatory Framework**](https://www.coindesk.com/policy/2023/08/15/singapores-central-bank-releases-stablecoin-regulatory-framework/)
+  <br/>_CoinDesk - Aug 15, 2023_
 - [**Euro Stablecoin Market Set To Take Off: Thanks To Real-World Uses & Regulatory Clarity — Circle Exec**](https://cointelegraph.com/news/eu-officials-sign-markets-in-crypto-assets-framework-into-law)
   <br/>_Cointelegraph - May 31, 2023_
 - [**Societe Generale's Crypto Division Introduces Euro Stablecoin on Ethereum**](https://www.coindesk.com/business/2023/04/20/societe-generales-crypto-division-introduces-euro-stablecoin-on-ethereum/)
