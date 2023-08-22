@@ -45,3 +45,9 @@ This is simply an archive list.
 ## Moving Forward - Into the Future
 - Unchained - [**Do Kwon Offers Cosmos Chains Free Terra Station Integration**](https://unchainedpodcast.com/do-kwon-offers-cosmos-chains-free-terra-station-integration/)
   _(November 21, 2022)_
+
+
+  # 2023 DNS Hack
+  - https://www.youtube.com/watch?v=u-pVXShudEM
+  - https://www.youtube.com/watch?v=RQc6Ovd6SVg
+  - https://www.youtube.com/watch?v=0woVBvFR2XU
