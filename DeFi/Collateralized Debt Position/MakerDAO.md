@@ -12,6 +12,10 @@
 - [**MakerDAO Now Earns 80% Of Its Fee Revenue From Real-World Assets**](https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets)
   <br/>_The Defiant - July 12, 2023_
 
+### Podcasts & Interviews
+- [**Rune Christensen’s Audacious Plan to Fix DAO Governance**](https://www.youtube.com/watch?v=A1igTqpoPHg)
+  <br/>_Unchained - August 22, 2023 _
+
 ## Spark Protocol
 
 - https://spark.blockanalitica.com
