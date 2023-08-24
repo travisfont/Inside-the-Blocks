@@ -1,3 +1,11 @@
 # Circle USD (USDC)
 
+- https://www.circle.com/en/usdc
 - [**BlackRock Circle Reserve Fund**](https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund)
+- https://www.circle.com/blog/tag/usdc
+
+## Notable News
+- [**USDC coming to six new blockchains**](https://www.circle.com/blog/usdc-coming-to-six-new-blockchains)
+  <br/>_Circle Blog - August 23, 2023_
+- [**Announcing USDC on Noble**](https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk)
+  <br/>_Noble - March 28, 2023_
