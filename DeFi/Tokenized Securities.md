@@ -6,7 +6,8 @@
 
 ## News
 
-
+- [**Why Proof of Reserves is Vital for Real-World Asset Tokenization**](https://decrypt.co/151992/why-proof-of-reserves-is-vital-for-real-world-asset-tokenization)
+  <br/>_Decrypt - August 24, 2023_
 - [**Securitize Launches Tokenized Spanish REIT Shares**](https://thedefiant.io/securitize-launches-tokenized-spanish-reit-shares)
   <br/>_The Defiant - July 30, 2023_
 - [**Tokenization Firm Securitize Kicks Off European Campaign in Spain**](https://decrypt.co/150295/tokenization-firm-securitize-kicks-off-european-campaign-spain)
