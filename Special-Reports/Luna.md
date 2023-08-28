@@ -51,3 +51,5 @@ This is simply an archive list.
   - https://www.youtube.com/watch?v=u-pVXShudEM
   - https://www.youtube.com/watch?v=RQc6Ovd6SVg
   - https://www.youtube.com/watch?v=0woVBvFR2XU
+  - https://www.reddit.com/r/terraluna/comments/15fsprj/14_billion_lunc_burnt_by_binance/
+  - https://twitter.com/terra_money/status/1695152789918454015
