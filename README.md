@@ -30,6 +30,14 @@ Format References:
 - https://github.com/markdown-templates/markdown-snippets
 - https://github.com/DavidWells/advanced-markdown
 
+## Charts
+- [**Artemis Terminal - Overview**](https://app.artemis.xyz/overview)
+- [**GeckoTerminal**](https://www.geckoterminal.com/)
+	- [DEX Rankings - Top Decentralized Exchanges](https://www.geckoterminal.com/dex-rankings)
+	- [Proof of Reserves by Cryptocurrency Exchanges](https://www.geckoterminal.com/proof_of_reserves/exchanges)
+	- [ZkSync Pools](https://www.geckoterminal.com/zksync/pools)
+ - [CryptoQuant](https://cryptoquant.com/analytics/dashboard)
+
 ### Timeline of Events
 - **CRV Launch** -Aug 15, 2020 <sup>[[ref-dl](https://defillama.com/protocol/curve)]<sup>
 - **Convex Launch** - May 17, 2021 <sup>[[ref-dl](https://defillama.com/protocol/curve)]<sup>
