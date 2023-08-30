@@ -6,6 +6,8 @@
 
 ## News
 
+- [**DeFi Sector Increasingly Sees Real-World Assets As Growth Area**](https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area)
+  <br/>_The Defiant - August 28, 2023_
 - [**Why Proof of Reserves is Vital for Real-World Asset Tokenization**](https://decrypt.co/151992/why-proof-of-reserves-is-vital-for-real-world-asset-tokenization)
   <br/>_Decrypt - August 24, 2023_
 - [**Securitize Launches Tokenized Spanish REIT Shares**](https://thedefiant.io/securitize-launches-tokenized-spanish-reit-shares)
