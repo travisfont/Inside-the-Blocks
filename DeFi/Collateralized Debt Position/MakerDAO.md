@@ -4,6 +4,9 @@
 
 - https://www.coingecko.com/en/coins/maker
 
+# Charts
+- https://dune.com/projects/makerdao
+
 ### Notable News
 - [**Maker’s Latest Rise Amid Rate Hikes Draws Attention to Protocol's $1.73B T-Bill Stash**](https://.co/150430/makers-latest-rise-amid-rate-hikes-draws-attention-protocol-1-73b-t-bill-stash)
   <br/>_Decrypt - July 28, 2023_
