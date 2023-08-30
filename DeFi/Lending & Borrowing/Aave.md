@@ -1,4 +1,4 @@
-# Aave (Aave)
+# Aave (AAVE)
 
 ## Charts
 
