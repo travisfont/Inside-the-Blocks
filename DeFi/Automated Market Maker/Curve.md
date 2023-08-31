@@ -1,5 +1,8 @@
 # Curve DAO (CRV)
 
+## Charts
+- https://dune.com/projects/curvefi
+
 ## News
 - [**Large CRV-backed Loans Threaten to Destabilize DeFi**](https://thedefiant.io/memecoin-traders-flock-to-base)
   <br/>_The Defiant - August 1, 2023_
