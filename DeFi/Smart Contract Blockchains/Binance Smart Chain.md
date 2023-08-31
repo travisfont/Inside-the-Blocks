@@ -1,5 +1,9 @@
 # Binance Smart Chain (BSC)
 
+## Charts
+
+- https://dune.com/projects/bnbchain
+
 ## Articles
 
 - [**What Is Binance Smart Chain**](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain)
