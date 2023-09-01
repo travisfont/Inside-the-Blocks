@@ -1,5 +1,7 @@
 # Stablecoins
 
+> _Looking for Central Bank Digital Currencies (CBDC), see [**CBDC**](/Fundamental%20Education/CBDC.md)_
+
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
 
