@@ -1,5 +1,7 @@
 # The FTX Fallout/Collapse - The Great Cleansing
 
+- https://www.youtube.com/watch?v=Ry8nSUfX6fY
+
 ## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
 - https://twitter.com/nansenportfolio/status/1592436000306786305
