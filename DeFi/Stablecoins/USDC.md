@@ -5,6 +5,8 @@
 - https://www.circle.com/blog/tag/usdc
 
 ## Notable News
+- [**Native USDC in Cosmos**](https://mirror.xyz/nobleassets.eth/VvSCbisXcs38XwRHWiRNCVnZisCO0YG-PIuuokEv51U)
+  <br/>_Noble (Mirror) - Sept. 1, 2023
 - [**USDC coming to six new blockchains**](https://www.circle.com/blog/usdc-coming-to-six-new-blockchains)
   <br/>_Circle Blog - August 23, 2023_
 - [**Announcing USDC on Noble**](https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk)
