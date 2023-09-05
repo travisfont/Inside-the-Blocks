@@ -6,6 +6,8 @@ Automated Market Makers (AAM)
 - https://help.coinbase.com/en/coinbase/getting-started/crypto-education/glossary/automated-market-maker--amm-
 - https://chain.link/education-hub/what-is-an-automated-market-maker-amm
 - https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm
+- [**AMM LP-Enabled Perps, Options, and Volatility Trading Products**](https://www.shoal.gg/p/amm-lp-enabled-perps-options-and)
+  <br/>_Gabe Tramble from Shoal Research - Sept. 5, 2023_
 
 ## Impermanent Loss
 - [**How to Avoid Impermanent Loss When Providing Liquidity in DeFi**](https://learn.bybit.com/defi/what-is-impermanent-loss/)
