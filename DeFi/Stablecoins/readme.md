@@ -2,11 +2,19 @@
 
 > _Looking for Central Bank Digital Currencies (CBDC), see [**CBDC**](/Fundamental%20Education/CBDC.md)_
 
+- Dai (DAI)
+- USD Coin (USDC) 
+- Tether (USDT)
+- Binance (BUSD)
+
+## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
 
 ## Notable News
 
+- [**Stablecoin depegging plagued USDC and DAI more than others: Analysts**](https://cointelegraph.com/news/usdc-dai-depegged-more-than-usdt-sp-global-research)
+  <br/>_Cointelegraph- September 12, 2023_
 - [**Ex-Singapore Parliamentarian's Swiss Company Launches Swiss Franc and Euro Stablecoins**](https://sg.finance.yahoo.com/news/ex-singapore-parliamentarians-swiss-company-024500505.html)
   <br/>_Yahoo Finance - August 6, 2023_
 - [**Singapore's Central Bank Releases Stablecoin Regulatory Framework**](https://www.coindesk.com/policy/2023/08/15/singapores-central-bank-releases-stablecoin-regulatory-framework/)
@@ -38,7 +46,9 @@
 - CoinDesk - [**Algorithmic Stablecoins: What They Are and How They Can Go Terribly Wrong**](https://www.coindesk.com/learn/algorithmic-stablecoins-what-they-are-and-how-they-can-go-terribly-wrong/)
 - Decrypt - [**What Are Algorithmic Stablecoins**](https://decrypt.co/resources/what-are-algorithmic-stablecoins)
 
-### USDN
+## Misc. Stablecoin Mentions
+
+#### USDN
 - [**Algo-stablecoin $USDN collapsed without too much drama on CT**](https://twitter.com/DefiIgnas/status/1643447914294034434)
   <br/>_Twitter (DefiIgnas) - April 5, 2023_
 - [**Waves founder announces new stablecoin as USDN depegs**](https://cointelegraph.com/news/waves-founder-announces-new-stablecoin-as-usdn-depegs) _(December 20, 2022)_
