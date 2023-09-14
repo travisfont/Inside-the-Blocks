@@ -1,6 +1,9 @@
 # The FTX Fallout/Collapse - The Great Cleansing
 
 - https://www.youtube.com/watch?v=Ry8nSUfX6fY
+-  James Jani - The Fake Genius: A $30 BILLION Fraud: https://www.youtube.com/watch?v=w3EYKuFGJ5c =
+  A perfect detail timeline of every event (from the very start) - reference each news article online.
+  Nice visuals and easy to follow - over an hour long and professionally made.
 
 ## Into the Data
 - https://twitter.com/CryptoRank_io/status/1590010368809914369/photo/1
