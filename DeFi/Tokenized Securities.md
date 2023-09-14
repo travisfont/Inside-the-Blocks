@@ -6,6 +6,8 @@
 
 ## News
 
+- [**Tokeny And Klaytn Foundation Unite For Real-World Asset Tokenization Adoption In Asia**](https://www.siliconluxembourg.lu/tokeny-and-klaytn-foundation-unite-for-real-world-asset-tokenization-adoption-in-asia/)
+  <br/>_Silicon Luxembourg - September 7, 2023_
 - [**DeFi Sector Increasingly Sees Real-World Assets As Growth Area**](https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area)
   <br/>_The Defiant - August 28, 2023_
 - [**Why Proof of Reserves is Vital for Real-World Asset Tokenization**](https://decrypt.co/151992/why-proof-of-reserves-is-vital-for-real-world-asset-tokenization)
