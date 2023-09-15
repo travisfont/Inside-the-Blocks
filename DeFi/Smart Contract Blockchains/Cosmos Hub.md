@@ -11,6 +11,14 @@
 - https://twitter.com/luisqagt
 - https://cosmos.directory/
 
+## News
+- [**Cosmos Hub Upgrades to Offer Liquid Staking**](https://cointelegraph.com/news/cosmos-hub-upgrades-offer-liquid-staking)
+  <br/>_CoinTelegraph - September 13, 2023_
+
+## Podcasts, Interviews, & Presentations
+- [**Future of MEV in Cosmos**](https://www.youtube.com/watch?v=rQuDbh0JQj8)
+  <br/>_Gateway to Cosmos - June 4, 2023_
+
 ## Technical
 - [**Staking APRs, Validator Squads, NATO – Talk with Sunny Aggarwal about Mesh Security**](https://www.youtube.com/watch?v=WD_ZYaNSfEU)
   <br/>_Design DAO - May 30, 2023_
