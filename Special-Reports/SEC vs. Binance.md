@@ -20,6 +20,8 @@ https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect
 	https://www.youtube.com/watch?v=WO0CWpImojU
 
 - https://www.youtube.com/watch?v=YWVcbhgu79A
+
+- Unchained - [**With Execs Leaving and Market Share Declining, Can Binance Survive**](https://www.youtube.com/watch?v=6x7DAtAXTm0)
 ===
 
  The Defiant - WTF is up with Binance
