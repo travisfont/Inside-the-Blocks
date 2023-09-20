@@ -6,6 +6,8 @@
 
 ## News
 
+- [**CitiBank Tokenizing All Assets**](https://www.youtube.com/watch?v=im9oYo5NHfA)
+  <br/>_Paul Barron Network - September 19, 2023_
 - [**Tokeny And Klaytn Foundation Unite For Real-World Asset Tokenization Adoption In Asia**](https://www.siliconluxembourg.lu/tokeny-and-klaytn-foundation-unite-for-real-world-asset-tokenization-adoption-in-asia/)
   <br/>_Silicon Luxembourg - September 7, 2023_
 - [**DeFi Sector Increasingly Sees Real-World Assets As Growth Area**](https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area)
