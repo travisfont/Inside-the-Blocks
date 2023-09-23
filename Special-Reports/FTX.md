@@ -219,6 +219,7 @@
   https://www.coindesk.com/policy/2023/01/03/sam-bankman-fried-pleads-not-guilty-to-fraud-conspiracy-charges/
 - https://decrypt.co/118444/regulators-seize-millions-ftx-robinhood-shares
 - Bloomberg - [**Another Member of Bankman-Fried’s Inner Circle Nears a Plea Deal in FTX Probe**](https://www.bloomberg.com/news/articles/2023-02-17/top-bankman-fried-associate-nears-plea-deal-in-us-probe-of-ftx)
+- [**Why FTX Might Try to Claw Back Funds From Retail Customers**](https://www.youtube.com/watch?v=y1xDdK6QoHw)
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
