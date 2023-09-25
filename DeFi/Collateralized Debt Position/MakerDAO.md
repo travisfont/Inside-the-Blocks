@@ -8,6 +8,8 @@
 - https://dune.com/projects/makerdao
 
 ### Notable News
+- [**Why Maker (MKR) grew by 160% in 2023**](https://www.publish0x.com/stormgain/why-maker-mkr-grew-by-160-percent-in-2023-xxvoegm)
+  <br/>_Publish0x - Sep 22, 2023_
 - [**Maker’s Latest Rise Amid Rate Hikes Draws Attention to Protocol's $1.73B T-Bill Stash**](https://.co/150430/makers-latest-rise-amid-rate-hikes-draws-attention-protocol-1-73b-t-bill-stash)
   <br/>_Decrypt - July 28, 2023_
 - [**MakerDAO Considers Boosting DAI Savings Rate To 8%**](https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8)
@@ -18,6 +20,7 @@
   <br/>_The Defiant - July 12, 2023_
 
 ### Articles
+- [**Explaining MakerDAO Acronyms: DSR, TRFM, and PSM**](https://www.publish0x.com/cryptoeq/explaining-makerdao-acronyms-dsr-trfm-and-psm-xjdjogz)
 - [**Protocol Economics Report - 2023-06**](https://forum.makerdao.com/t/protocol-economics-report-2023-06/21491/1)
 - [**Real-World Asset Report - 2023-06**](https://forum.makerdao.com/t/real-world-asset-report-2023-06/21461)
 - [**Real-World Asset Report - 2023-05**](https://forum.makerdao.com/t/real-world-asset-report-2023-05/21225)
