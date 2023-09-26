@@ -43,6 +43,8 @@ This is simply an archive list.
 - [**Create a gold-pegged stablecoin**](https://classic-agora.terra.money/t/create-a-gold-pegged-stablecoin/50273/19)
   
 ## Moving Forward - Into the Future
+- Happy Catty Crypto - [**USTC Road To Repeg Update: Be Hopeful, But Don't Breath**](https://www.youtube.com/watch?v=WpfZiPeDpmU)
+  _(Sep 26, 2023)_
 - Unchained - [**Do Kwon Offers Cosmos Chains Free Terra Station Integration**](https://unchainedpodcast.com/do-kwon-offers-cosmos-chains-free-terra-station-integration/)
   _(November 21, 2022)_
 
