@@ -29,7 +29,7 @@
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
-- [**MakerDAO's Endgame with Rune Christensen**](https://www.youtube.com/watch?v=_MaAnF97Qiw)
+- [**MakerDAO's Endgame with Rune Christensen**](https://tokenterminal.com/interview/makerdao-endgame) <sup>([YouTube](https://www.youtube.com/watch?v=_MaAnF97Qiw))</sup>
   <br/>_Token Terminal - Jun 7, 2023_
 - [**Rune Christensen’s Audacious Plan to Fix DAO Governance**](https://www.youtube.com/watch?v=A1igTqpoPHg)
   <br/>_Unchained - August 22, 2023 _
