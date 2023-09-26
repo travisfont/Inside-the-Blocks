@@ -2,10 +2,16 @@
 
 > _Looking for Central Bank Digital Currencies (CBDC), see [**CBDC**](/Fundamental%20Education/CBDC.md)_
 
+### US Dollar
 - Dai (DAI)
 - USD Coin (USDC) 
 - Tether (USDT)
 - Binance (BUSD)
+- FRAX
+- PAXG
+
+### Euro
+- EUROC
 
 ## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
@@ -13,6 +19,8 @@
 
 ## Notable News
 
+- *[*Prisma Finance Pulls In $30M With LST-backed mkUSD Stablecoin**](https://thedefiant.io/prisma-finance-pulls-in-usd30m-with-lst-backed-mkusd-stablecoin)
+  <br/>_The Defiant - September 22, 2023_
 - [**Stablecoin depegging plagued USDC and DAI more than others: Analysts**](https://cointelegraph.com/news/usdc-dai-depegged-more-than-usdt-sp-global-research)
   <br/>_Cointelegraph- September 12, 2023_
 - [**Ex-Singapore Parliamentarian's Swiss Company Launches Swiss Franc and Euro Stablecoins**](https://sg.finance.yahoo.com/news/ex-singapore-parliamentarians-swiss-company-024500505.html)
