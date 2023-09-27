@@ -19,6 +19,7 @@
 
 ## Notable News
 
+- [**Stablecoin exodus: Why are investors fleeing crypto’s safe haven**](https://cointelegraph.com/news/stablecoin-exodus-why-are-investors-fleeing-crypto-s-safe-haven)
 - *[*Prisma Finance Pulls In $30M With LST-backed mkUSD Stablecoin**](https://thedefiant.io/prisma-finance-pulls-in-usd30m-with-lst-backed-mkusd-stablecoin)
   <br/>_The Defiant - September 22, 2023_
 - [**Stablecoin depegging plagued USDC and DAI more than others: Analysts**](https://cointelegraph.com/news/usdc-dai-depegged-more-than-usdt-sp-global-research)
