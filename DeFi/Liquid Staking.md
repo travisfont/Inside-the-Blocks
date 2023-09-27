@@ -5,6 +5,11 @@
 ## Charts & Data
 - Dune (by murathan) - [**LST Wars**](https://dune.com/murathan/lst-wars)
 
+## News
+
+## Articles
+- [**The future of liquid staking: why institutions are ‘front and center’ when it comes to this burgeoning DeFi strategy**](https://www.blockdata.tech/blog/roundup/the-future-of-liquid-staking-why-institutions-are-front-and-center-when-it-comes-to-this-burgeoning-defi-strategy)
+
 ## Videos
 
 - [**Liquid Staking Tokens (LST) - DeFi Summer 2.0 Starts Now**](https://www.youtube.com/watch?v=pZPstmGkMLw)https://www.youtube.com/watch?v=pZPstmGkMLw
