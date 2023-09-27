@@ -1,6 +1,7 @@
 # Uniswap
 
 - https://dune.com/projects/uniswap
+- https://app.intotheblock.com/insights/defi/protocols/uniswap
 
 ## Notable News
 
@@ -13,6 +14,11 @@
 ## Podcast
 
 ## Videos
+
+### Technical
+- [**Introduction to Uniswap V4**](https://www.youtube.com/watch?v=eI-rXyWcG2M)
+<br/>_ETHGlobal - September 26, 2023_
+
 
 ## Charts & Data
 
