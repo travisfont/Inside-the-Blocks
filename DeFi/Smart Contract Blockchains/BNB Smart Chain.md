@@ -1,4 +1,4 @@
-# Binance Smart Chain (BSC)
+# BNB Smart Chain (BSC)
 
 ## Charts
 
@@ -6,6 +6,7 @@
 
 ## Articles
 
+- [**IBC is Finally Landing on BSC**](https://blog.cosmos.network/ibc-is-finally-landing-on-bsc-e78a5b9def5)
 - [**What Is Binance Smart Chain**](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain)
   <br/>_CoinMarketCap - 2021-08-21_
 
