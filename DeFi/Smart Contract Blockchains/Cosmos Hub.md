@@ -12,6 +12,9 @@
 - https://cosmos.directory/
 
 ## News
+
+- [**Cosmos Product Lead Says Ethereum Layer-2s Are Not the ‘Holy Grail’ of Scaling**](https://decrypt.co/199312/cosmos-product-lead-says-ethereum-layer-2s-holy-grail-scaling)
+  <br/>_Decrypt - Sep 29, 2023_
 - [**Cosmos Hub Upgrades to Offer Liquid Staking**](https://cointelegraph.com/news/cosmos-hub-upgrades-offer-liquid-staking)
   <br/>_CoinTelegraph - September 13, 2023_
 
