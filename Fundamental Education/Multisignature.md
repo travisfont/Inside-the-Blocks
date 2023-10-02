@@ -1,5 +1,7 @@
 # Multisignature
 
+> _Groups Wallets_
+
 - https://en.bitcoin.it/wiki/Multi-signature
 - https://www.techtarget.com/searchcio/definition/multisig-multisignature
 - https://academy.binance.com/en/glossary/multisignature
