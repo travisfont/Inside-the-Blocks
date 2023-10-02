@@ -25,3 +25,6 @@
 ## Technical
 - [**Staking APRs, Validator Squads, NATO – Talk with Sunny Aggarwal about Mesh Security**](https://www.youtube.com/watch?v=WD_ZYaNSfEU)
   <br/>_Design DAO - May 30, 2023_
+
+## YouTube Channels
+- [Spark IBC](https://www.youtube.com/@sparkibc8129/featured)
