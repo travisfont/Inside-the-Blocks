@@ -6,6 +6,14 @@
 
 ## News
 
+- [**UBS Partners With MAS to Explore RWA Tokenization on Ethereum**](https://coinpaper.com/2354/ubs-partners-with-mas-to-explore-rwa-tokenization-on-ethereum)
+  <br/>_Coinpaper - Oct 3, 2023_
+- [**UBS Launches Pilot for Tokenized Fund Under Singapore’s Project Guardian Initiative**](https://www.investing.com/news/stock-market-news/ubs-launches-pilot-for-tokenized-fund-under-singapores-project-guardian-initiative-93CH-3188323)
+  <br/>_Investing.com - Oct 2, 2023_
+- [**Swiss bank UBS launches tokenized money market fund on Ethereum**](https://cointelegraph.com/news/ethereum-ubs-tokenize-money-market-fund-launch)
+  <br/>_CoinTelegraph - Oct 2, 2023_
+- [**UBS Launches Tokenization Trial on Ethereum**](https://decrypt.co/199733/ubs-launches-tokenization-trial-ethereum)
+  <br/>_Decrypt - Oct 2, 2023_
 - [**CitiBank Tokenizing All Assets**](https://www.youtube.com/watch?v=im9oYo5NHfA)
   <br/>_Paul Barron Network - September 19, 2023_
 - [**Tokeny And Klaytn Foundation Unite For Real-World Asset Tokenization Adoption In Asia**](https://www.siliconluxembourg.lu/tokeny-and-klaytn-foundation-unite-for-real-world-asset-tokenization-adoption-in-asia/)
@@ -35,6 +43,8 @@
 
 ## Articles
 
+- [**Tokenized Real World Assets (RWA): Where Are They Now**](https://cryptoslate.com/tokenized-real-world-assets-rwa-where-are-they-now/)
+  <br/>_CryptoSlate - September 26, 2023_
 - [**Commodity Tokenization Is the Economic Aid Africa Needs**](https://cointelegraph.com/news/commodity-tokenization-economic-aid-africa)
   <br/>_Cointelegraph - August 14, 2023_
 - [**Beyond Crypto: Tokenization (Global Digital Assets)**](https://rsch.baml.com/access?q=s-i517792VNkDKydHLEioQ)
