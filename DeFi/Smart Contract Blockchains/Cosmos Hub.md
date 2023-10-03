@@ -27,4 +27,5 @@
   <br/>_Design DAO - May 30, 2023_
 
 ## YouTube Channels
+- [Cosmoverse](https://www.youtube.com/@cosmoverseHQ/featured)
 - [Spark IBC](https://www.youtube.com/@sparkibc8129/featured)
