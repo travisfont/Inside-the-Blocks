@@ -26,6 +26,8 @@
   <br/>_Decrypt - July 25, 2023_
 - [**Mastercard chief digital officer believes tokenization needs TradFi rules to go mainstream**](https://cryptoslate.com/mastercard-chief-digital-officer-believes-tokenization-needs-tradfi-level-to-go-mainstream/)
   <br/>_CryptoSlate - July 3, 2023_
+- [**BOCI issued first tokenized notes, originated by UBS and placed to its clients in Hong Kong**](https://www.ubs.com/global/en/media/display-page-ndp/en-20230609-tokenized-notes.html)
+  <br/>_UBS Media - June 9, 2023_ 
 - [**Tokenized Securities on Ethereum, Polygon, Gnosis Hit $225M Market Cap**](https://decrypt.co/140941/tokenized-securities-ethereum-polygon-gnosis-hit-225m-market-cap)
   <br/>_Decrypt - May 22, 2023_
 - [**Tokenized Bonds Surpass $200M In Market Capitalization**](https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization)
