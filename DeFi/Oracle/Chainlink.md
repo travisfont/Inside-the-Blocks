@@ -11,3 +11,9 @@
 
 - [**Sergey Nazarov on Chainlink’s CCIP**](https://www.youtube.com/watch?v=AzQnY0CqHOw)
   <br/>_Bankless - October 2, 2023_
+
+## Technical
+
+### Videos
+- [**Chainlink CCIP Walkthrough**](https://www.youtube.com/watch?v=yZ-vRNciSq4)
+  <br/>_ETHGlobal - October 5, 2023_
