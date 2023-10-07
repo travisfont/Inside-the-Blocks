@@ -220,6 +220,7 @@
 - https://decrypt.co/118444/regulators-seize-millions-ftx-robinhood-shares
 - Bloomberg - [**Another Member of Bankman-Fried’s Inner Circle Nears a Plea Deal in FTX Probe**](https://www.bloomberg.com/news/articles/2023-02-17/top-bankman-fried-associate-nears-plea-deal-in-us-probe-of-ftx)
 - [**Why FTX Might Try to Claw Back Funds From Retail Customers**](https://www.youtube.com/watch?v=y1xDdK6QoHw)
+- Coin Bureau (yt) - [**The FTX Mystery Ni One Can Explain**](https://www.youtube.com/watch?v=CZEzDE9_Uts)
   
 ## Videos / Podcasts
 - Glassnode - The Fall of the FTX Empire - Glassnode Onchain Analysis
@@ -249,6 +250,14 @@
 - Mapping the FTX Contagion
   https://thedefiant.io/mapping-the-ftx-contagion
 - https://www.youtube.com/watch?v=I30yiehG48Q&t=1576s
+
+### Miscs
+- Coffeezilla (yt) - [**This Isn’t a Ponzi Scheme**](https://www.youtube.com/watch?v=B2z8ikGLRh8)
+- 60 Minutes (yt) - [**Rise, fall of Sam Bankman-Fried, FTX at center of Michael Lewis' new book**](https://www.youtube.com/watch?v=FtzvOZNyXdw)
+
+### Overview
+- CNBC Documentary (yt) - [**The Collapse Of FTX: Insiders Tell All**](https://www.youtube.com/watch?v=XqwGt69pDXQ) 
+- Patrick Boyle (yt) - [**How Involved Were SBF's Parents**](https://www.youtube.com/watch?v=gLvOT2AldwM)
 
   
 ## Data Sets
