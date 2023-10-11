@@ -46,6 +46,9 @@
 - Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
 
 ## Podcasts & Talks
+
+- [**Dollarization 2.0: How Stablecoins Unlock Emerging Markets with Nic Carter & Martin Carrica**](https://www.youtube.com/watch?v=27HimK7oZMw)
+  <br/>_Empire - October 10, 2023_
 - [**The future of euro stablecoins**](https://www.youtube.com/watch?v=WF__4bId9zU)
   <br/>_Patrick Hansen (EthCC) - Jul 17, 2023_
 
