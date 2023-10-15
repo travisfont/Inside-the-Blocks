@@ -1,4 +1,4 @@
-Automated Market Makers (AAM)
+# Automated Market Makers (AAM)
 
 - https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm
 - https://www.coindesk.com/learn/what-is-an-automated-market-maker/
