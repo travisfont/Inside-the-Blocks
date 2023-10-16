@@ -14,6 +14,8 @@
   * Maiar (2022)
   * Bitfinex (2016)
   * NiceHash (2017)
+  * OneCoin
+    - VICE News - [**How the Cryptoqueen Stole Billions**](https://www.youtube.com/watch?v=ZoklPHEjXl4)  (Oct 14, 2023)
 
 ## Centralized Exchange (CEX)
 
