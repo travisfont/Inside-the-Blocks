@@ -43,6 +43,16 @@
 ## Decentralized Finance (DeFi) 
 
 ### Smart Contracts
+
+<details>
+  <summary>
+    <big><b>Stars Arena Exploit</b></big>
+    <small><i>????</i></small>
+  </summary>
+ 
+  * The Defiant - [**Avalanche-Based App Stars Arena Loses $3M in Smart Contract Exploit**](https://thedefiant.io/stars-arena-exploit)  (October 07, 2023)
+</details>
+
 <details>
   <summary>
     <big><b>Alarm Clock Exploit (ETH)</b></big>
