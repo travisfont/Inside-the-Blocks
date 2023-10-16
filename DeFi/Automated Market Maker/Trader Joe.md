@@ -2,6 +2,12 @@
 
 ## News
 
+- [**Trader Joe's grocery store files trademark lawsuit against Trader Joe DEX**](https://cointelegraph.com/news/trader-joe-trademark-lawsuit)
+  <br/>_CoinTelegraph - Oct 12, 2023_
+- [**Grocery Chain Trader Joe's Sues Avalanche DEX Again**](https://thedefiant.io/grocery-chain-trader-joe-s-sues-avalanche-dex-again)
+  <br/>_The Defiant - October 12, 2023_
+- [**Trader Joe's Wants All Profits in Trademark Lawsuit Against Trader Joe DeFi Platform**](https://decrypt.co/200862/trader-joes-wants-all-profits-in-copyright-lawsuit-against-trader-joe-defi-platform)
+  <br/>_Decrypt - Oct 10, 2023_
 - [**Trader Joe’s grocery chain sues DEX of the same name**](https://blockworks.co/news/trader-joes-grocery-chain-sues-dex-of-the-same-name)
   <br/>_Blockworks - October 10, 2023_
 
