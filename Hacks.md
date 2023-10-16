@@ -128,6 +128,7 @@
     <small><i>N/A</i></small>
   </summary>
 
+  * Chainalysis - [**$197 Million Stolen: Euler Finance Flash Loan Attack Explained (UPDATED 4/6/23)**](https://www.chainalysis.com/blog/euler-finance-flash-loan-attack/)
   * Decrypt - [**Euler Finance Exploiter Returns All ‘Recoverable Funds’ From $200M Hack**](https://decrypt.co/125373/euler-finance-exploiter-returns-recoverable-funds-200m-hack)
 
 </details>
