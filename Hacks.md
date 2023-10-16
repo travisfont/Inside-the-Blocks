@@ -107,14 +107,33 @@
 ### AMM
 
 <details>
-    
+  <summary>
+    <big><b>Platypus Flash Loan Exploit</b></big>
+    <small><i>(description not yet added) on Avalanche</i></small>
+  </summary>
+
+  * Rekt - [**Platypus Finance - REKT 2**](https://rekt.news/platypus-rekt2/)  (October 13, 2023)
+  * CoinTelegraph - [**Platypus DeFi loses $2.2M in another flash loan exploit**](https://cointelegraph.com/news/platypus-flash-loan-exploit-defi)  (Oct 12, 2023)
+  * Platypus (Twitter @Platypusdefi) - [**Community Announcement**](https://twitter.com/Platypusdefi/status/1712513974124818589/)  (Oct 12, 2023)
+  * Blockworks - [**DeFi protocol Platypus suffers second flash loan attack in 9 months**](https://blockworks.co/news/platypus-suffers-flash-loan-attack)
+</details>
+
+<details>
+  <summary>
+    <big><b>Platypus</b></big>
+    <small><i>(description not yet added) on Avalanche</i></small>
+  </summary>
+
+  * CoinTelegraph - [**French Police Arrest 2 People in Connection to Platypus Attack**](https://cointelegraph.com/news/french-police-arrest-2-people-in-connection-to-platypus-attack)
+</details>
+
+<details>
   <summary>
     <big><b>BitKeep</b></big>
     <small><i>(description not yet added)</i></small>
   </summary>
 
   * Decrypt - [**BitKeep Hacker Moves $1M in Binance Coin Through Tornado Cash**](https://decrypt.co/112305/bitkeep-hacker-moves-1m-binance-coin-through-tornado-cash) (October 18, 2022)
-    
 </details>
 
 ### Lending & Borrowing
