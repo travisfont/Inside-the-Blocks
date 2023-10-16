@@ -62,6 +62,9 @@
 
 ## Misc. Stablecoin Mentions
 
+#### USDR 
+- [**Tangible’s USDR Stablecoin Crashes To $0.51**](https://thedefiant.io/tangible-s-usdr-stablecoin-depegs-to-50-cents)
+  <br/>_The Defiant - October 11, 2023_
 #### USDN
 - [**Algo-stablecoin $USDN collapsed without too much drama on CT**](https://twitter.com/DefiIgnas/status/1643447914294034434)
   <br/>_Twitter (DefiIgnas) - April 5, 2023_
