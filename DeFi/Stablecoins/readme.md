@@ -1,6 +1,6 @@
 # Stablecoins
 
-> _Looking for Central Bank Digital Currencies (CBDC), see [**CBDC**](/Fundamental%20Education/CBDC.md)_
+> _Looking for Central Bank Digital Currencies (CBDC), see [**CBDC**](https://github.com/Inside-the-Blocks/Education/blob/main/Central%20Bank%20Digital%20Currency.md)_
 
 ### US Dollar
 - Dai (DAI)
