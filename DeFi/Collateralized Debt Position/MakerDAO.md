@@ -8,6 +8,8 @@
 - https://dune.com/projects/makerdao
 
 ### Notable News
+- [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
+  <br/>_Decrypt - October 7, 2023_
 - [**Why Maker (MKR) grew by 160% in 2023**](https://www.publish0x.com/stormgain/why-maker-mkr-grew-by-160-percent-in-2023-xxvoegm)
   <br/>_Publish0x - Sep 22, 2023_
 - [**Maker’s Latest Rise Amid Rate Hikes Draws Attention to Protocol's $1.73B T-Bill Stash**](https://.co/150430/makers-latest-rise-amid-rate-hikes-draws-attention-protocol-1-73b-t-bill-stash)
