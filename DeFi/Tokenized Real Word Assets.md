@@ -1,11 +1,20 @@
 # Tokenized Real Word Assets (Securities & Commodity Tokenization)
 
+> _Click here for [**Stablecoins**](https://github.com/travisfont/Inside-the-Blocks/tree/main/DeFi/Stablecoins)_
+
+
 - [rwamarket.io](https://rwamarket.io/)
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 
 ## News
 
+- [**UBS Launches Pilot for an Ethereum-Based Money Market Fund**](https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund)
+  <br/>_The Defiant - October 02, 2023_
+- [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
+  <br/>_Decrypt - October 7, 2023_
+- [**Backed Launches Tokenized Blackrock ETF on Base Network**](https://decrypt.co/200389/backed-launches-tokenized-blackrock-etf-base-network)
+  <br/>_Decrypt - Oct 6, 2023_
 - [**UBS Partners With MAS to Explore RWA Tokenization on Ethereum**](https://coinpaper.com/2354/ubs-partners-with-mas-to-explore-rwa-tokenization-on-ethereum)
   <br/>_Coinpaper - Oct 3, 2023_
 - [**UBS Launches Pilot for Tokenized Fund Under Singapore’s Project Guardian Initiative**](https://www.investing.com/news/stock-market-news/ubs-launches-pilot-for-tokenized-fund-under-singapores-project-guardian-initiative-93CH-3188323)
