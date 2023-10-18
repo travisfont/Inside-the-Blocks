@@ -19,6 +19,8 @@
 
 ## Notable News
 
+- [**Stablecoins are ‘a better product’ than local currencies in emerging economies**](https://blockworks.co/news/stablecoin-empire-emerging-economies-user-interface)
+  <br/>_Blockworks - October 12, 2023_
 - [**Stablecoin Crackdown: This is What The Fed Says**](https://www.youtube.com/watch?v=xpit7TmT7Zg)
   <br/>_Coin Bureau - Oct 7, 2023_
 - [**Stablecoin exodus: Why are investors fleeing crypto’s safe haven**](https://cointelegraph.com/news/stablecoin-exodus-why-are-investors-fleeing-crypto-s-safe-haven)
