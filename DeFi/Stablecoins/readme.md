@@ -49,6 +49,8 @@
 
 ## Podcasts & Talks
 
+- [**Nic Carter's Bull Case For Stablecoins**](https://www.youtube.com/watch?v=iecFhe2THeo)
+  <br/>_Bankless - Oct 16, 2023_
 - [**Dollarization 2.0: How Stablecoins Unlock Emerging Markets with Nic Carter & Martin Carrica**](https://www.youtube.com/watch?v=27HimK7oZMw)
   <br/>_Empire - October 10, 2023_
 - [**The future of euro stablecoins**](https://www.youtube.com/watch?v=WF__4bId9zU)
