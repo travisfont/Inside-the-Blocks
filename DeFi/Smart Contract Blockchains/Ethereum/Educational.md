@@ -74,6 +74,7 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 - https://our.status.im/account-abstraction-eip-2938/
 - https://securrtech.medium.com/account-abstraction-929c0a2e76a9
 - https://hackmd.io/@SamWilsn/ryhxoGp4D
+- Hacken - [Account Abstraction: Revolutionizing Account Management In Ethereum](https://hacken.io/discover/account-abstraction/)
 
 # ERC-4337 (Account Abstraction)
 - [**A History of Account Abstraction**](https://www.youtube.com/watch?v=iLf8qpOmxQc)
@@ -82,3 +83,4 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 - https://shardeum.org/blog/ethereum-account-abstraction/
 - https://dev.to/desmondsanctity/account-abstraction-in-web3-mce
 - https://academy.binance.com/en/articles/what-is-erc-4337-or-account-abstraction-for-ethereum
+- Hacken - [ERC-4337 & Account Abstraction: A Comprehensive Overview](https://hacken.io/discover/erc-4337-account-abstraction/)
