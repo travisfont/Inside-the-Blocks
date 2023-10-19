@@ -153,7 +153,15 @@
  
 
 <details>
-    
+  <summary>
+    <big><b>Hope</b></big>
+    <small><i>N/A</i></small>
+  </summary>
+
+  * The Defiant - [**Hope Lend DeFi Platform Loses 526 ETH in Hack**](https://thedefiant.io/hope-lend-defi-platform-loses-526-eth-in-hack)
+</details>
+
+<details>
   <summary>
     <big><b>Euler Finance</b></big>
     <small><i>N/A</i></small>
@@ -161,12 +169,10 @@
 
   * Chainalysis - [**$197 Million Stolen: Euler Finance Flash Loan Attack Explained (UPDATED 4/6/23)**](https://www.chainalysis.com/blog/euler-finance-flash-loan-attack/)
   * Decrypt - [**Euler Finance Exploiter Returns All ‘Recoverable Funds’ From $200M Hack**](https://decrypt.co/125373/euler-finance-exploiter-returns-recoverable-funds-200m-hack)
-
 </details>
 
 
 <details>
-    
   <summary>
     <big><b>Moola Market</b></big>
     <small><i>$8.4M of CELO, cUSD, cEUR, MOO on Celo on October 18, 2022</i></small>
