@@ -16,6 +16,12 @@
   * NiceHash (2017)
   * OneCoin
     - VICE News - [**How the Cryptoqueen Stole Billions**](https://www.youtube.com/watch?v=ZoklPHEjXl4)  (Oct 14, 2023)
+  * Hacken - [Curve Finance Liquidity Pools Hack Explained](https://hacken.io/discover/curve-finance-liquidity-pools-hack-explained/)
+  * Hacken - [SushiSwap DEX Hack Explained](https://hacken.io/discover/sushi-hack-explained/)
+  * Hacken - [The Stake.com Hack Explained: Unpacking the $41M Crypto Breach](https://hacken.io/discover/stake-com-hack-sep-2023/)
+  * Hacken - [Atomic Wallet Hack: Overview And Ongoing Investigation](https://hacken.io/discover/atomic-wallet-hack/)
+  * Hacken - [Fintoch Rug Pull Explained](https://hacken.io/discover/fintoch-scam-explained/)
+
 
 ## Centralized Exchange (CEX)
 
