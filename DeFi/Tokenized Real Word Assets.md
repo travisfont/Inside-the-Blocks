@@ -63,6 +63,8 @@
 
 ## Podcasts
 
+- [**Unlocking Trillions of Dollars with RWAs with Centrifuge**](https://thedefiant.io/unlocking-trillions-of-dollars-with-rwas) ([YT](https://www.youtube.com/watch?v=emdeHLE2sfk&t=2689s))
+  <br/>_The Defiant -  October 15, 2023_
 - [**The Chopping Block: Why It’s Suddenly RWA with Szn**](https://www.youtube.com/watch?v=OsMlqTAorGc)
   <br/>_Unchained - July 13, 2023_
 - [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)
