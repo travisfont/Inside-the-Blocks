@@ -13,6 +13,7 @@ This video contains orderly and easy to follow lists on pro and cons regarding l
 
 
 ## Articles
+- https://cointelegraph.com/news/ledger-cloud-private-key-recovery
 - https://thedefiant.io/ledger-s-new-wallet-recovery-feature-sparks-community-backlash\
 - https://decrypt.co/140317/ledger-crypto-wallet-under-fire-over-seed-phrase-recovery-service
 - https://cryptoslate.com/ledgers-new-phrase-recovery-feature-has-users-spooked/
