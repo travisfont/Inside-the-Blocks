@@ -1,5 +1,7 @@
 # dYdX
 
+- https://blockworks.co/price/dydx
+
 ## Charts
 - https://dune.com/projects/dydx
 
