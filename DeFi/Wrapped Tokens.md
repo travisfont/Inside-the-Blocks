@@ -1,6 +1,7 @@
 # Wrapped Tokens & Derivatives
 
  - [**What are Wrapped Tokens (Explained with Animations)**](https://www.youtube.com/watch?v=DuwQ6NuPQp4)
+ - Blockworks - [**What derivatives history tells us about crypto’s future growth**](https://blockworks.co/news/derivatives-history-cryptos-future-growth)
 
 ## BTC Derivatives
  - https://www.coingecko.com/en/categories/tokenized-btc
