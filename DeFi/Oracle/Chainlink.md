@@ -9,6 +9,8 @@
 
 ## Podcasts & Interviews
 
+- [**The Bull Case for Chainlink**](https://www.youtube.com/watch?v=0i1RhJ-Djr4)
+  <br/>_Bankless - October 25, 2023_
 - [**Sergey Nazarov on Chainlink’s CCIP**](https://www.youtube.com/watch?v=AzQnY0CqHOw)
   <br/>_Bankless - October 2, 2023_
 
