@@ -4,6 +4,8 @@
 - https://app.intotheblock.com/insights/defi/protocols/uniswap
 
 ## Notable News
+- [**Uniswap Visa Card Proposal is Facing Opposition Among UNI Token Holders**](https://thedefiant.io/uniswap-visa-card-proposal-is-facing-opposition-among-token-holders)
+  <br/>_The Defiant - October 23, 2023_
 
 ## Articles
 - [**Uniswap v4: The liquidity Marketplace**](https://www.shoal.gg/p/uniswap-v4-the-liquidity-marketplace)
