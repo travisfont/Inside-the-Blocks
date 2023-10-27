@@ -9,6 +9,10 @@
 
 ## News
 
+- [**A new EIP aims to revamp the tokenized vaults standard for RWAs**](https://blockworks.co/news/eip-rwa-tokenized-vault-standards)
+  <br/>_Blockworks - October 20, 2023 
+- [**Maker Annualized Revenue Soars Past $200M to New All-Time High**](https://decrypt.co/202515/maker-annualized-revenue-soars-past-200m-to-new-all-time-high)
+  <br/>_Decrypt - October 20, 2023_
 - [**UBS Launches Pilot for an Ethereum-Based Money Market Fund**](https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund)
   <br/>_The Defiant - October 02, 2023_
 - [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
