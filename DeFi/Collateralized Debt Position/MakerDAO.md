@@ -6,8 +6,11 @@
 
 # Charts
 - https://dune.com/projects/makerdao
+- https://dune.com/steakhouse/makerdao
 
 ### Notable News
+- [**Maker Annualized Revenue Soars Past $200M to New All-Time High**](https://decrypt.co/202515/maker-annualized-revenue-soars-past-200m-to-new-all-time-high)
+  <br/>October 20, 2023_
 - [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
   <br/>_Decrypt - October 7, 2023_
 - [**Why Maker (MKR) grew by 160% in 2023**](https://www.publish0x.com/stormgain/why-maker-mkr-grew-by-160-percent-in-2023-xxvoegm)
