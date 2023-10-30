@@ -2,6 +2,8 @@
 
 ## Perpetual Exchanges
 
+- https://thedefiant.io/perps-come-first-how-to-build-a-winning-defi-ecosystem-in-2023
+
 - **dYdX**
 - **GMX**
 - **Perpetual Protocol**
