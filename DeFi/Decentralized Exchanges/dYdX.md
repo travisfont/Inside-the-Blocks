@@ -7,6 +7,12 @@
 
 ## News
 
+- [**dYdX Layer 1 chain launched on Cosmos SDK**](https://cryptoslate.com/dydx-launches-layer-1-chain-with-usdc-as-sole-form-of-fee-distribution-using-cosmos-sdk/)
+  <br/>_CryptoSlate - October 27, 2023_
+- [**DYDX Token Soars After Becoming a Layer 1 Token for the dYdX Chain**](https://thedefiant.io/dydx-token-soars-after-becoming-a-layer-1-token-for-the-dydx-chain)
+  <br/>_The Defiant - October 27, 2023_
+- [**New dYdX Chain Denominates Trading Fees in USDC**](https://decrypt.co/203480/new-dydx-chain-denominate-trading-fees-usdc)
+  <br/>_Decrypt - October 27, 2023_
 - [**dYdX Exchange Open-Sources Code in Anticipation of Transition to Cosmos App Chain**](https://thedefiant.io/dydx-exchange-open-sources-code-in-anticipation-of-transition-to-cosmos-ecosystem)
   <br/>_The Defiant - October 24, 2023_
 - [**DYdX steps closer to v4 by open-sourcing code**](https://blockworks.co/news/dydx-ethereum-open-source)
