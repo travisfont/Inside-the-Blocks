@@ -54,6 +54,13 @@
 - [**Tokenized Bonds Surpass $200M In Market Capitalization**](https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization)
   <br/>_The Defiant - May 22, 2023_
 
+### Digital Bond
+
+- [**World Bank rolls out first digital bond issuance on Euroclear**](https://blockworks.co/news/world-bank-digital-bond-euroclear)
+  <br/>_Blockworks - October 25, 2023_
+- **Bitfinex Securities announces tokenized bond**
+  <br/>_CoinTelegraph - October 25, 2023_
+
 ## Articles
 
 - [**Tokenized Real World Assets (RWA): Where Are They Now**](https://cryptoslate.com/tokenized-real-world-assets-rwa-where-are-they-now/)
