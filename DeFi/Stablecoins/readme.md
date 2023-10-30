@@ -19,6 +19,8 @@
 
 ## Notable News
 
+- [**LUSD Supply Shrinks as Redemption Woes Continue**](https://thedefiant.io/lusd-supply-shrinks-as-redemption-woes-continue)
+  <br/>_The Defiant - October 27, 2023_
 - [**Stablecoins on Bitcoin: Lightning Labs Aims to 'Bitcoinize the Dollar'**](https://decrypt.co/202474/stablecoins-bitcoin-lightning-labs-aims-bitcoinize-dollar)
   <br/>_Decrypt - October 20, 2023_
 - [**Taproot Assets v0.3 Enables Issuance Of Stablecoins On Bitcoin Network**](https://thedefiant.io/taproot-assets-v0-3-enables-issuance-of-stablecoins-on-bitcoin-network)
