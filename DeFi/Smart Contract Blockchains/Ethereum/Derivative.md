@@ -19,3 +19,7 @@
 - https://messari.io/project/stader-ethx
 - [**ETHx: Stader's New Ethereum LST**](https://www.youtube.com/watch?v=tTlCnc8sjd0)
   <br/>_The Edge Podcast (DeFi Dad & Nomatic) - July 10, 2023_
+- [**Stader Labs: Liquid Staking for ETH with only 4ETH bonds**](https://www.youtube.com/watch?v=Sn0q4cW6opU)
+  <br/>_Ceazor's Snack Sandwich (YouTube) - Feb 13, 2023_
+- [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
+  <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
