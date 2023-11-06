@@ -12,5 +12,7 @@
 
 ### News
 
+- https://blockworks.co/news/ether-etfs-proshares-sec
+- https://blockworks.co/news/ether-futures-etfs-vaneck-proshares-bitwise-offerings
 - [**So You Want to Short Ethereum? There's an ETF for That**](https://decrypt.co/204139/you-want-short-ethereum-theres-etf-for-that)
   <br/>_Decrypt - Nov 2, 2023_
