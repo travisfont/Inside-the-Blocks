@@ -4,13 +4,20 @@
 
 
 - [rwamarket.io](https://rwamarket.io/)
+- https://www.rwa.xyz
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 
 ## News
 
+- [**U.S. Treasuries Spearhead Tokenization Boom**](https://www.coindesk.com/consensus-magazine/2023/11/06/us-treasuries-spearhead-tokenization-boom/)
+  <br/>_CoinDesk - Nov 6, 2023_
+- [**The UK's largest bank, HSBC ($651 billion in AUM) is trying its hand at gold tokenization**](https://www.linkedin.com/posts/the-digital-asset-summit_the-uks-largest-bank-hsbc-651-billion-activity-7125885334772457472-L0_g/)
+  <br/>_Digital Asset Summit 2024 (Linkedin) - November 2, 2023_
+- [**HSBC and Ant Group test tokenized deposits under HKMA sandbox**](https://cointelegraph.com/news/hsbc-ant-group-test-tokenized-deposits-under-hkma-sandbox)
+  <br/>_CoinTelegraph - November 01, 2023_
 - [**A new EIP aims to revamp the tokenized vaults standard for RWAs**](https://blockworks.co/news/eip-rwa-tokenized-vault-standards)
-  <br/>_Blockworks - October 20, 2023 
+  <br/>_Blockworks - October 20, 2023_
 - [**Maker Annualized Revenue Soars Past $200M to New All-Time High**](https://decrypt.co/202515/maker-annualized-revenue-soars-past-200m-to-new-all-time-high)
   <br/>_Decrypt - October 20, 2023_
 - [**UBS Launches Pilot for an Ethereum-Based Money Market Fund**](https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund)
