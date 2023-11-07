@@ -46,6 +46,8 @@
   <br/>_GitHub Book - Andreas M. Antonopoulos, Gavin Wood_
 - https://just-the-metrics-newsletter.beehiiv.com/p/special-issue-ethereum-pos-vs-cardano-staking-decentralization-compared
 - **[An Archeological Trip Across Early Ethereum Contracts](https://medium.com/etherscan-blog/an-archeological-trip-across-early-ethereum-contracts-232b0de33f8)**
+-  [**Categorize of Blockchain Layers**](https://twitter.com/VitalikButerin/status/1719242301292110030)
+  <br/>_Vitalik Buterin (Twitter) - Oct 31, 2023_
 
 ## EVM (Ethereum Virtual Machine)
 
