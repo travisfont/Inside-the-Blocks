@@ -20,6 +20,10 @@
   <br/>_Blockworks - October 20, 2023_
 - [**Maker Annualized Revenue Soars Past $200M to New All-Time High**](https://decrypt.co/202515/maker-annualized-revenue-soars-past-200m-to-new-all-time-high)
   <br/>_Decrypt - October 20, 2023_
+- [**RWA Protocol Goldfinch Writes Down $7M of $20M Stratos Loan to $0**](https://thedefiant.io/rwa-protocol-goldfinch-writes-down-usd7m-of-usd20m-loan-to-usd0)
+  <br/>_The Defiant - October 12, 2023_
+- [**Real-World Asset Loan Worth $20M at Risk of Losing $7M on DeFi Platform Goldfinch**](https://www.coindesk.com/markets/2023/10/09/real-world-asset-loan-worth-20m-sours-on-defi-platform-goldfinch-bringing-rwa-lending-under-scrutiny/)
+  <br/>_CoinDesk - Oct 10, 2023_
 - [**UBS Launches Pilot for an Ethereum-Based Money Market Fund**](https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund)
   <br/>_The Defiant - October 02, 2023_
 - [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
@@ -70,6 +74,7 @@
 
 ## Articles
 
+
 - [**Tokenized Real World Assets (RWA): Where Are They Now**](https://cryptoslate.com/tokenized-real-world-assets-rwa-where-are-they-now/)
   <br/>_CryptoSlate - September 26, 2023_
 - [**Commodity Tokenization Is the Economic Aid Africa Needs**](https://cointelegraph.com/news/commodity-tokenization-economic-aid-africa)
@@ -78,6 +83,10 @@
   <br/>_Alkesh Shah & Andrew Moss - 29 June, 2023_
 - [**Tokenizing the Future: When It Comes to the Potential Use Cases for Tokenized Assets, Financial Services Are Only the Start**](https://www.blockdata.tech/blog/spotlight/tokenizing-the-future-when-it-comes-to-the-potential-use-cases-for-tokenized-assets-financial-services-are-only-the-start)
   <br/>_Blockdata - May 1st, 2023_
+- [**Why RWAs Are Important to DeFi**](https://governance.aave.com/t/why-rwas-are-important-to-defi/10880)
+  <br/>_Aave Learning Center Forms - November 30, 2022
+- [**Why RWA on Goldfinch are insulated from on-chain DeFi volatility**](https://medium.com/goldfinch-fi/why-rwa-on-goldfinch-are-insulated-from-on-chain-defi-volatility-202a2e2e902d)
+  <br/>_Sam Eyob at Goldfinch (Medium) - Jun 16, 2022_
 
 ## Podcasts
 
@@ -87,3 +96,7 @@
   <br/>_Unchained - July 13, 2023_
 - [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)
   <br/>_Empire (Blockworks) - July 11, 2023_
+
+## Videos
+- [**The Risk of Real World Assets (RWAs)**](https://www.youtube.com/watch?v=sbKoNEFo1vk)
+  <br/>_The Defiant (YouTube) - Oct 13, 2023_
