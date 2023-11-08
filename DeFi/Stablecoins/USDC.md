@@ -5,6 +5,8 @@
 - https://www.circle.com/blog/tag/usdc
 
 ## Notable News
+- [**USDC Issuer Circle is Shutting Down Consumer Accounts**](https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts)
+  <br/>_The Defiant - October 31, 2023_
 - [**Native USDC in Cosmos**](https://mirror.xyz/nobleassets.eth/VvSCbisXcs38XwRHWiRNCVnZisCO0YG-PIuuokEv51U)
   <br/>_Noble (Mirror) - Sept. 1, 2023_
 - [**USDC coming to six new blockchains**](https://www.circle.com/blog/usdc-coming-to-six-new-blockchains)
