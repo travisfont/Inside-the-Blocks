@@ -19,3 +19,6 @@
 - https://cointelegraph.com/news/curve-founder-michael-egorov-crv-loan-counterparties
 - https://cointelegraph.com/news/curve-liquidation-risk-poses-systemic-threat-to-defi-even-as-founder-scurries-to-repay-loans
 - https://cointelegraph.com/news/ethereum-million-dollar-mev-block-reward-amid-curve-finance-exploit
+
+# Articles
+- Curve Resources - [**Vote-locking FAQ**](https://resources.curve.fi/governance/vote-locking-boost)
