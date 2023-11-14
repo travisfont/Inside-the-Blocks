@@ -12,6 +12,11 @@
 
 ### Euro
 - EUROC
+  - https://www.geckoterminal.com/eth/pools/0xba3436fd341f2c8a928452db3c5a3670d1d5cc73
+- agEUR
+  - https://www.geckoterminal.com/eth/pools/0xba3436fd341f2c8a928452db3c5a3670d1d5cc73
+- ibEUR
+  - https://www.geckoterminal.com/eth/pools/0xb37d6c07482bc11cd28a1f11f1a6ad7b66dec933
 
 ## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
