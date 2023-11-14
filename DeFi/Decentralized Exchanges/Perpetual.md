@@ -12,6 +12,10 @@
 
 
 # Videos
+
+- [**Perpetual Protocol: Next Level In Decentralized Trading? (Layer 2, Uniswap V3)**](https://www.youtube.com/watch?v=pBoKtkoNZEY)
+  <br/>_Finematics - December 19, 2021_
+
 ## Tokenomics
 
 - [**Pendle Finance Brown Bag**](https://www.youtube.com/watch?v=OwQT3rdZzWI)
