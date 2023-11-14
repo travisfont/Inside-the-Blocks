@@ -3,7 +3,9 @@
 - [**Bitcoin on Etheruem (renBTC, wBTC, tBTC, sBTC) Explained**](https://www.youtube.com/watch?v=iExly7FGKAQ)
   <br/>_Finematics - December 16, 2020_
 
-# Binance BTC (BTCB) - Binance Smart Chain
+## Wrapped Bitcoin (WBTC) - Ethereum
+
+## Binance BTC (BTCB) - Binance Smart Chain
 
 - https://www.binance.com/en/blog/all/introducing-bitcoinpegged-token-on-bnb-chain-347360878904684544
 - https://www.binance.com/en/how-to-buy/bitcoin-bep2
