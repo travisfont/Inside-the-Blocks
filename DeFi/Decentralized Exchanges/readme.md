@@ -1,6 +1,6 @@
 # Decentralized Exchanges
 
-## Perpetual Exchanges
+## Perpetual Futures
 
 - https://thedefiant.io/perps-come-first-how-to-build-a-winning-defi-ecosystem-in-2023
 
