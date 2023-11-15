@@ -1,5 +1,7 @@
 # Educational Articles & Resources
 
+> _Look for [**MEV**](https://github.com/Inside-the-Blocks/Education/blob/main/Maximal%20Extractable%20Value.md)_
+
 - [**What Are EIP and ERC**](https://shardeum.org/blog/eip-and-erc/)
 - [**Ethereum Improvement Proposals**](https://eips.ethereum.org/all)
 - **[What is EthereumPoW (ETHW)](https://www.coingecko.com/learn/what-is-ethereumpow-ethw)**
