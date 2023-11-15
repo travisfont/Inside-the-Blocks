@@ -2,6 +2,7 @@
 
  - [**What are Wrapped Tokens (Explained with Animations)**](https://www.youtube.com/watch?v=DuwQ6NuPQp4)
  - Blockworks - [**What derivatives history tells us about crypto’s future growth**](https://blockworks.co/news/derivatives-history-cryptos-future-growth)
+ - Finematics - [**Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)**](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
 > _Click here for [**Tokenized Real Word Assets**](https://github.com/travisfont/Inside-the-Blocks/blob/main/DeFi/Tokenized%20Real%20Word%20Assets.md)_
 
