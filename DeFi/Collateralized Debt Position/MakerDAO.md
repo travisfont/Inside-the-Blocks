@@ -45,6 +45,7 @@
 - https://spark.blockanalitica.com
 
 ### Notable News
+- [Spark Protocol TVL Breaches $1B](https://thedefiant.io/spark-protocol-tvl-breaches-usd1b)
 - [**Spark Protocol Users Max Out $200M DAI Debt Ceiling**](https://thedefiant.io/spark-protocol-users-max-out-usd200m-dai-debt-ceiling)
   <br/>_The Defiant - August 19, 2023_
 - [**MakerDAO-powered lending platform Spark Protocol onboards Rocket Pool staked ETH as collateral option**](https://cryptoslate.com/makerdao-powered-lending-platform-spark-protocol-onboards-rocket-pool-staked-eth-as-collateral-option/)
