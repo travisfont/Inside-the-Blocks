@@ -6,7 +6,7 @@
 - https://dune.com/projects/dydx
 
 ## News
-
+- [DYDX Token Surges Ahead Of Massive Unlock](https://thedefiant.io/dydx-token-surges-ahead-of-massive-unlock)
 - [**dYdX Layer 1 chain launched on Cosmos SDK**](https://cryptoslate.com/dydx-launches-layer-1-chain-with-usdc-as-sole-form-of-fee-distribution-using-cosmos-sdk/)
   <br/>_CryptoSlate - October 27, 2023_
 - [**DYDX Token Soars After Becoming a Layer 1 Token for the dYdX Chain**](https://thedefiant.io/dydx-token-soars-after-becoming-a-layer-1-token-for-the-dydx-chain)
