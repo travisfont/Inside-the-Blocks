@@ -10,6 +10,8 @@
 
 ## News
 
+- [**JP Morgan’s Onyx Taps Avalanche for Tokenized Funds, AVAX Jumps 14%**](https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax)
+  <br/>_Decrypt - November 15, 2023_
 - [**U.S. Treasuries Spearhead Tokenization Boom**](https://www.coindesk.com/consensus-magazine/2023/11/06/us-treasuries-spearhead-tokenization-boom/)
   <br/>_CoinDesk - Nov 6, 2023_
 - [**The UK's largest bank, HSBC ($651 billion in AUM) is trying its hand at gold tokenization**](https://www.linkedin.com/posts/the-digital-asset-summit_the-uks-largest-bank-hsbc-651-billion-activity-7125885334772457472-L0_g/)
