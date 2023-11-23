@@ -1,5 +1,9 @@
 # Solana (SOL)
 
+## Articles
+- Umbra Research - [**MEV on Solana**](https://www.umbraresearch.xyz/writings/mev-on-solana)
+- Umbra Research - [**Lifecycle of a Solana Transaction**](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
+
 ## Videos
 - [**Time to Buy SOL: What You Need to Know**](https://www.youtube.com/watch?v=t8J9GNQkyyc)
   <br/>_Coinsider - November 10, 2023_
