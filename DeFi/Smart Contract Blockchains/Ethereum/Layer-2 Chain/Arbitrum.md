@@ -12,6 +12,7 @@
 
 ## Articles
 
+- Token Terminal Research - [**The fundamentals of Arbitrum**](https://tokenterminal.com/resources/crypto-research/arbitrum)
 - Arbitrum DAO (Governance docs) - [**A gentle introduction to the Arbitrum DAO**](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
 - Arbitrum DAO (Governance docs) - [**ARB airdrop eligibility and distribution specifications**](https://docs.arbitrum.foundation/airdrop-eligibility-distribution)
 - Cointelegraph - [**Arbitrum: A beginner's guide to the next-generation layer 2 for Ethereum**](https://cointelegraph.com/learn/arbitrum-the-next-generation-layer-2-for-ethereum)
