@@ -3,6 +3,9 @@
 - https://www.coingecko.com/en/coins/synthetix-network-token
 - https://dune.com/projects/synthetix
 
+## Articles
+- [An Introduction to Synthetic Assets and Their Significance in DeFi](https://www.leewayhertz.com/synthetic-assets-their-significance-in-defi/)
+
 ## Interview & Podcasts
 
 - [**The Evolution of Synthetix and Onchain Perps with Kain Warwick**](https://www.youtube.com/watch?v=5jXk5Gtkj9A)
