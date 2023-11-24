@@ -8,6 +8,7 @@
 ## News
 
 ## Articles
+- [5 Things To Know About Liquid Staking Tokens](https://www.techopedia.com/5-things-to-know-about-liquid-staking-tokens)
 - [**The future of liquid staking: why institutions are ‘front and center’ when it comes to this burgeoning DeFi strategy**](https://www.blockdata.tech/blog/roundup/the-future-of-liquid-staking-why-institutions-are-front-and-center-when-it-comes-to-this-burgeoning-defi-strategy)
 
 ## Videos
