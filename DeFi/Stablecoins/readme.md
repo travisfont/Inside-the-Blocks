@@ -24,6 +24,10 @@
 
 ## Notable News
 
+- [**European Banking Authority has new rules for stablecoin issuer recovery plans**](https://blockworks.co/news/european-union-stablecoins-regulation)
+  <br/>_Blockworks - November 8, 2023_
+- [**Fed official: Stablecoins pose a threat, but could present innovative opportunities**](https://blockworks.co/news/federal-reserve-cbdc-tokenization-stablecoins)
+  <br/>_Blockworks - November 7, 2023_
 - [**LUSD Supply Shrinks as Redemption Woes Continue**](https://thedefiant.io/lusd-supply-shrinks-as-redemption-woes-continue)
   <br/>_The Defiant - October 27, 2023_
 - [**Stablecoins on Bitcoin: Lightning Labs Aims to 'Bitcoinize the Dollar'**](https://decrypt.co/202474/stablecoins-bitcoin-lightning-labs-aims-bitcoinize-dollar)
@@ -78,6 +82,9 @@
 
 ## Misc. Stablecoin Mentions
 
+#### USN 
+- [**Wintermute Threatens Near Over $11.2M Soured Stablecoin Deal**](https://thedefiant.io/wintermute-threatens-near-over-usd11-2m-soured-stablecoin-deal)
+  <br/>_The Defiant - November 08, 2023_
 #### USDR 
 - [**Tangible’s USDR Stablecoin Crashes To $0.51**](https://thedefiant.io/tangible-s-usdr-stablecoin-depegs-to-50-cents)
   <br/>_The Defiant - October 11, 2023_
