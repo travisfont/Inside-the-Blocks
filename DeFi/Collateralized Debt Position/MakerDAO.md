@@ -3,12 +3,21 @@
 ## Maker
 
 - https://www.coingecko.com/en/coins/maker
+- http://makerburn.com
 
 # Charts
 - https://dune.com/projects/makerdao
 - https://dune.com/steakhouse/makerdao
 
 ### Notable News
+- https://www.dlnews.com/articles/defi/makerdao-to-pay-bounty-to-enforce-anonymity-of-key-members/
+- https://www.dlnews.com/articles/defi/makerdao-triples-profit-forecast-with-us-bond-carry-trade/
+- https://www.dlnews.com/articles/defi/makerdaos-endgame-plan-in-five-steps/
+- https://www.dlnews.com/articles/defi/high-yields-split-makerdao-community-as-dai-supply-surges/
+- [**MakerDAO may parlay its profitable real-world assets strategy into the $1.5tn private credit market**](https://www.dlnews.com/articles/defi/how-defi-lender-makerdao-may-expand-into-private-credit/)
+  <br/>_DL News - November 10, 2023_
+- [**MakerDAO’s $4bn push into real world assets also means a real-world tax bill**](https://www.dlnews.com/articles/defi/makerdao-pays-over-a-million-in-stamp-duty-tax-to-switzerland/)
+  <br/>_DL News - November 8, 2023_
 - [**Maker Annualized Revenue Soars Past $200M to New All-Time High**](https://decrypt.co/202515/maker-annualized-revenue-soars-past-200m-to-new-all-time-high)
   <br/>October 20, 2023_
 - [**Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear**](https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear)
