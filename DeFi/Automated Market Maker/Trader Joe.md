@@ -11,6 +11,10 @@
 - [**Trader Joe’s grocery chain sues DEX of the same name**](https://blockworks.co/news/trader-joes-grocery-chain-sues-dex-of-the-same-name)
   <br/>_Blockworks - October 10, 2023_
 
+## Twitter Postings
+-  [**Achieved Its Total Supply of 500 Million Tokens**](https://twitter.com/TraderJoe_xyz/status/172802684504655919)
+  <br/>Trader Joe (@TraderJoe_xyz) - November 24, 2023_
+
 ## Articles
 
 - **[What Is Liquidity Book: The New Approach For AMMs](https://avaxholic.com/what-is-liquidity-book-the-new-approach-for-amms/)**
