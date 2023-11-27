@@ -29,6 +29,7 @@
   
 ## Articles
 
+- Imperator Research - [**Unveiling dYdX v4: Business model and Future Prospects**](https://research.imperator.co/p/unveiling-dydx-v4-business-model)
 - dYdX Foundation Blog - [A Take on Good Practice for dYdX Validators & Stakers](https://dydx.foundation/blog/good-practices-for-dydx-chain-validators-and-stakers)
 - dYdX Help - [**A Beginner’s Guide To Going Long & Short using Perpetuals on dYdX**](https://help.dydx.exchange/en/articles/4969332-a-beginner-s-guide-to-going-long-short-using-perpetuals-on-dydx?)
 
