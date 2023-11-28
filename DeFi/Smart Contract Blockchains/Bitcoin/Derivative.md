@@ -7,11 +7,20 @@
 
 ## Binance BTC (BTCB) - Binance Smart Chain
 
+- - https://www.binance.com/en/collateral-btokens
 - https://www.binance.com/en/blog/all/introducing-bitcoinpegged-token-on-bnb-chain-347360878904684544
 - https://www.binance.com/en/how-to-buy/bitcoin-bep2
 - https://www.binance.com/en/blog/chain/experience-btcb--bitcoin-on-bnb-smart-chain-421499824684901264
+- https://www.binance.com/en/blog/all/explore-the-defi-ecosystem-with-btokens-introducing-wrapped-tokens-on-ethereum-421499824684901212
 - https://www.bnbchain.org/en/blog/btcb-on-binance-smart-chain-101
-- https://www.binance.com/en/collateral-btokens
+- https://www.bsc.news/post/cryptonomics-tokenized-bitcoin-on-binance-smart-chain
+- https://explorer.bnbchain.org/asset/BTCB-1DE
+- https://pancakeswap.finance/info/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c
+- https://www.coingecko.com/en/coins/bitcoin-bep2
+- https://www.coingecko.com/en/coins/binance-bitcoin
+- https://bitkan.com/learn/what-is-btcb-and-how-do-i-get-btcb-6145
+- https://exponential.fi/assets/182e58c0-f07a-4837-9eb8-895f93a9f069
+- https://help.tokenpocket.pro/en/wallet-faq-en/bsc/how-to-convert-btc-to-btcb
 
 ## BTC Briged (BTC.b) - Avalanche
 
