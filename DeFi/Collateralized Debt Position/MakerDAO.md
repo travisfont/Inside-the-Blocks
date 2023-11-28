@@ -44,6 +44,8 @@
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
+- [**Crypto Has A Big Problem Says MakerDAO Co-Founder**](https://www.youtube.com/watch?v=KU8otKxaXr8)
+  <br/>_The Defiant - Nov 27, 2023_
 - [**MakerDAO's Endgame with Rune Christensen**](https://tokenterminal.com/interview/makerdao-endgame) <sup>([YouTube](https://www.youtube.com/watch?v=_MaAnF97Qiw))</sup>
   <br/>_Token Terminal - Jun 7, 2023_
 - [**Rune Christensen’s Audacious Plan to Fix DAO Governance**](https://www.youtube.com/watch?v=A1igTqpoPHg)
