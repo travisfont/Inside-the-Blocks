@@ -2,6 +2,7 @@
 
 - https://dune.com/projects/uniswap
 - https://app.intotheblock.com/insights/defi/protocols/uniswap
+- https://poolfish.xyz/pools/ethereum/uniswap
 
 ## Notable News
 - [**Uniswap Visa Card Proposal is Facing Opposition Among UNI Token Holders**](https://thedefiant.io/uniswap-visa-card-proposal-is-facing-opposition-among-token-holders)
