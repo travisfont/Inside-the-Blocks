@@ -1,5 +1,7 @@
 # SushiSwap
 
+- https://poolfish.xyz/calculators/sushi
+
 ## Hacks & Exploits
 
 - https://www.coindesk.com/tech/2023/04/10/sushi-dex-recovers-100-ether-after-millions-lost-on-weekend-exploit
