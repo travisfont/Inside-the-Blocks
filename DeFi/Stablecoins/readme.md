@@ -62,6 +62,7 @@
 - Coinbase - [**What is a stablecoin**](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)
 - Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
 - Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
+- https://twitter.com/DefiIgnas/status/1561995715823673344
 
 ## Podcasts & Talks
 
