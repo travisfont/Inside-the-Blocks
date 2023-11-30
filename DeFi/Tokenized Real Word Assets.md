@@ -101,6 +101,10 @@
 - [**Why RWA on Goldfinch are insulated from on-chain DeFi volatility**](https://medium.com/goldfinch-fi/why-rwa-on-goldfinch-are-insulated-from-on-chain-defi-volatility-202a2e2e902d)
   <br/>_Sam Eyob at Goldfinch (Medium) - Jun 16, 2022_
 
+  ### Twitter Posting Articles
+  - https://twitter.com/0xAndrewMoh/status/1729087473895301430
+  - https://twitter.com/wacy_time1/status/1727734952492732490
+
 ## Podcasts
 
 - [**Unlocking Trillions of Dollars with RWAs with Centrifuge**](https://thedefiant.io/unlocking-trillions-of-dollars-with-rwas) ([YT](https://www.youtube.com/watch?v=emdeHLE2sfk&t=2689s))
