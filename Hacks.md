@@ -52,6 +52,14 @@
 
 ### Smart Contracts
 
+- **Kyber**
+ - https://thedefiant.io/kyber-dex-hacked-for-usd48m
+ - https://thedefiant.io/kyber-hacker-is-demanding-complete-control-over-the-dex
+ - https://twitter.com/0xmert_/status/1727916777424744570
+ - https://blockworks.co/news/kyberswap-hacker-stole-48m
+
+- **Heco Bridge **x
+ - https://twitter.com/0xScopescan/status/1727320666331131956
 <details>
   <summary>
     <big><b>Stars Arena Exploit</b></big>
