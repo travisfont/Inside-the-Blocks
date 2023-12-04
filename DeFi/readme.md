@@ -17,6 +17,7 @@
 
 #### Notables Articles
 
+- Hackernoon - [**Liquidations in Decentralized Finance: A Comprehensive Review**](https://hackernoon.com/liquidations-in-decentralized-finance-a-comprehensive-review)
 - [**DeFi Needs Economic Risk Ratings for Better Decision-Making**](https://thedefiant.io/defi-needs-economic-risk-ratings-for-better-decision-making)
   <br/>_The Defiant - November 21, 2023_
 - [**Rebrand DeFi to 'On-Chain Finance'**](https://twitter.com/DefiIgnas/status/1635980049437585409)
