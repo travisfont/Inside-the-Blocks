@@ -5,6 +5,8 @@
 - https://www.circle.com/blog/tag/usdc
 
 ## Notable News
+- [**Circle Launches Bridged USDC Contract For EVM Chains**](https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains)
+  <br/>_The Defiant - November 23, 2023_
 - [**USDC Issuer Circle is Shutting Down Consumer Accounts**](https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts)
   <br/>_The Defiant - October 31, 2023_
 - [**Native USDC in Cosmos**](https://mirror.xyz/nobleassets.eth/VvSCbisXcs38XwRHWiRNCVnZisCO0YG-PIuuokEv51U)
