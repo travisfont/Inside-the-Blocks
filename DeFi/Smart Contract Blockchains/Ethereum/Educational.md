@@ -80,7 +80,10 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 - https://hackmd.io/@SamWilsn/ryhxoGp4D
 - Hacken - [Account Abstraction: Revolutionizing Account Management In Ethereum](https://hacken.io/discover/account-abstraction/)
 
-# ERC-4337 (Account Abstraction)
+## EIP-4844
+- The Graph (YouTube) - [EIP-4844 by Vitalik Buterin](https://www.youtube.com/watch?v=5Fp70DF1uaY)
+
+## ERC-4337 (Account Abstraction)
 - [**A History of Account Abstraction**](https://www.youtube.com/watch?v=iLf8qpOmxQc)
   <br/>_Vitalik Buterin (EthCC) - July 18, 2023_
 - https://eips.ethereum.org/EIPS/eip-4337
@@ -88,3 +91,6 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 - https://dev.to/desmondsanctity/account-abstraction-in-web3-mce
 - https://academy.binance.com/en/articles/what-is-erc-4337-or-account-abstraction-for-ethereum
 - Hacken - [ERC-4337 & Account Abstraction: A Comprehensive Overview](https://hacken.io/discover/erc-4337-account-abstraction/)
+
+## RIP-7560 (Native Account Abstraction)
+- https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664
