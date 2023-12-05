@@ -94,3 +94,6 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 
 ## RIP-7560 (Native Account Abstraction)
 - https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664
+
+## ERC-7265
+- https://www.theblock.co/post/237671/ethereum-erc-7265-circuit-breaker-defi-hacks
