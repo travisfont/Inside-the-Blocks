@@ -17,6 +17,8 @@
 
 #### Notables Articles
 
+- [**A Comparative Analysis of Decentralized Social Protocols**](https://mirror.xyz/1kx.eth/tXasEjk3t7YX8XWSkhelUBTnQ3kf46Bux-0ooR42x0w)
+  <br/>_1kx.eth (Mirror) - November 30th, 2023_
 - Hackernoon - [**Liquidations in Decentralized Finance: A Comprehensive Review**](https://hackernoon.com/liquidations-in-decentralized-finance-a-comprehensive-review)
 - [**DeFi Needs Economic Risk Ratings for Better Decision-Making**](https://thedefiant.io/defi-needs-economic-risk-ratings-for-better-decision-making)
   <br/>_The Defiant - November 21, 2023_
