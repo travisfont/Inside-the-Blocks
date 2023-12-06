@@ -9,11 +9,10 @@
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 
 ## News
-
 - [**JP Morgan’s Onyx Taps Avalanche for Tokenized Funds, AVAX Jumps 14%**](https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax)
   <br/>_Decrypt - November 15, 2023_
 - [**U.S. Treasuries Spearhead Tokenization Boom**](https://www.coindesk.com/consensus-magazine/2023/11/06/us-treasuries-spearhead-tokenization-boom/)
-  <br/>_CoinDesk - Nov 6, 2023_
+  <br/>_CoinDesk - November 6, 2023_
 - [**The UK's largest bank, HSBC ($651 billion in AUM) is trying its hand at gold tokenization**](https://www.linkedin.com/posts/the-digital-asset-summit_the-uks-largest-bank-hsbc-651-billion-activity-7125885334772457472-L0_g/)
   <br/>_Digital Asset Summit 2024 (Linkedin) - November 2, 2023_
 - [**HSBC adds fuel to tokenization fire with gold-focused offering**](https://blockworks.co/news/hsbc-explores-gold-tokenization)
@@ -66,8 +65,11 @@
   <br/>_The Defiant - July 26, 2023_
 - [**Avalanche Foundation Launches $50M Asset Tokenization Initiative**](https://decrypt.co/149978/avalanche-foundation-launches-50m-asset-tokenization-initiative)
   <br/>_Decrypt - July 25, 2023_
+- [**Justin Sun’s stUSDT dominates real-world asset DeFi as the sector doubles**](https://www.dlnews.com/articles/defi/justin-sun-stusdt-dominates-real-world-asset-boom-in-defi/)
+  <br?_DL News - July 21, 2023_
 - [**Mastercard chief digital officer believes tokenization needs TradFi rules to go mainstream**](https://cryptoslate.com/mastercard-chief-digital-officer-believes-tokenization-needs-tradfi-level-to-go-mainstream/)
   <br/>_CryptoSlate - July 3, 2023_
+- stUSDT Blog (Medium) - [**The First Real World Asset Product stUSDT Launches on the TRON Blockchain**](https://medium.com/@stusdt/the-first-real-world-asset-product-stusdt-launches-on-the-tron-blockchain-fb30193c05ef)
 - [**BOCI issued first tokenized notes, originated by UBS and placed to its clients in Hong Kong**](https://www.ubs.com/global/en/media/display-page-ndp/en-20230609-tokenized-notes.html)
   <br/>_UBS Media - June 9, 2023_ 
 - [**Tokenized Securities on Ethereum, Polygon, Gnosis Hit $225M Market Cap**](https://decrypt.co/140941/tokenized-securities-ethereum-polygon-gnosis-hit-225m-market-cap)
