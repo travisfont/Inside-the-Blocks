@@ -1,6 +1,11 @@
 # News
 
 - https://blockworks.co/news/stride-atom-token-conversion
+- https://cryptoslate.com/cosmos-hub-votes-to-bring-down-atoms-inflation-from-14-to-cap-at-10/
+- https://blockworks.co/news/neutron-to-acquire-25-of-cosmwasm-developer-confio
+- https://cryptoslate.com/cosmos-founder-jae-kwon-stirs-controversy-with-atomone-fork-proposal-amid-inflation-cap-dispute/
+- https://cryptoslate.com/nomic-upgrade-to-unlock-new-defi-possibilities-on-cosmos/
+- https://cointelegraph.com/news/cosmos-based-networks-umee-osmosis-merge-creating-defi-hub
 - [**Bitcoin Arrives on Cosmos with Nomic nBTC Upgrade**](https://cryptoslate.com/bitcoin-arrives-on-cosmos-with-nomic-nbtc-upgrade/)
   <br/>_cryptoslate - Nov. 1, 2023_
 - [**Stride temporarily shelves plans to convert STRD to ATOM**](https://blockworks.co/news/stride-atom-token-conversion)
