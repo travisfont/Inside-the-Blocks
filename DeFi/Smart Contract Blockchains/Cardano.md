@@ -7,4 +7,5 @@
 
 ## Supporting YouTube Channels
 - [**Learn Cardano**](https://www.youtube.com/@LearnCardano)
+- https://www.youtube.com/@CardanoWithPaul
 - [The Cryptoviser](https://www.youtube.com/@TheCryptoviser)
