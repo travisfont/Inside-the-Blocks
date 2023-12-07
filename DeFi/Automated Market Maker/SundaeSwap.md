@@ -31,6 +31,9 @@
 
 - <a href="https://sundaeswap-finance.medium.com">sundaeswap-finance.<b>medium</b>.com</a>
 - <a href="https://www.youtube.com/@sundaeswaplabs"><b>YouTube</b></a>
+- [**Discord**](https://discord.gg/Sundae)
+- [**Governance**](https://governance.sundaeswap.finance/)
+- [**Gorvernance Forums & Discussions**](https://forum.sundaeswap.finance/)
 
 ----
 
