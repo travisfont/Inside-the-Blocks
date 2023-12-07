@@ -106,6 +106,8 @@
   ### Twitter Posting Articles
   - https://twitter.com/0xAndrewMoh/status/1729087473895301430
   - https://twitter.com/wacy_time1/status/1727734952492732490
+  - https://twitter.com/crypthoem/status/1732525315174301740
+  - https://twitter.com/Flowslikeosmo/status/1732429910197887263
 
 ## Podcasts
 
