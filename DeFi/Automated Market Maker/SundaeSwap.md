@@ -1,57 +1,38 @@
 # SundaeSwap (SUNDAE)
-_Decentralized Exchange on Cardano_
+
+> _**Cardano**_<br/>
+> _Building sweeter blockchain infrastructure. One scoop at a time._
 
 <table>
 <tr>
-<td rowspan="5">
-<img align="left" width="100" height="100" src="https://assets.coingecko.com/coins/images/18392/large/Duwsx57h_400x400.jpg">
+<td rowspan="6">
+<img align="center" valign="top" width="100" height="100" src="https://assets.coingecko.com/coins/images/18392/large/Duwsx57h_400x400.jpg">
 </td>
 <td>
-[**sundaeswap.finance**](https://sundaeswap.finance/)
+<a href="https://sundaeswap.finance"><b>sundaeswap.finance</b></a>
   </td>
 </tr>
 <tr>
 <td>
-  **Twitter:** [@SundaeSwap](https://twitter.com/SundaeSwap)
+  <a href="https://www.coingecko.com/en/coins/sundaeswap"><b>Coingecko</b></a>
   </td>
 </tr>
 <tr>
 <td>
-  **Reddit:** [r/SundaeSwap](https://www.reddit.com/r/SundaeSwap/)
+  <a href="https://twitter.com/SundaeSwap"><b>Twitter</b> (@SundaeSwap)</a>
   </td>
 </tr>
 <tr>
 <td>
-**Medium:** [sundaeswap-finance.medium.com](https://sundaeswap-finance.medium.com/)
-  </td>
-</tr>
-<tr>
-<td>
-  **Coingecko:** [coingecko.com/en/coins/sundaeswap](https://www.coingecko.com/en/coins/sundaeswap)
+ <a href="https://www.reddit.com/r/SundaeSwap"><b>Reddit</b> (r/SundaeSwap)</a>
   </td>
 </tr>
 </table>
 
-<table>
-  <tr>
-    <td rowspan="5">IMG</td>
-    <td>**sundaeswap.finance**</td>
-  </tr>
-  <tr>
-    <td>twitter</td>
-  </tr>
-  <tr>
-    <td>reddit</td>
-  </tr>
-  <tr>
-    <td>medium</td>
-  </tr>
-  <tr>
-    <td>coingecko</td>
-  </tr>
-</table>
+- <a href="https://sundaeswap-finance.medium.com">sundaeswap-finance.<b>medium</b>.com</a>
+- <a href="https://www.youtube.com/@sundaeswaplabs"><b>YouTube</b></a>
 
----
+----
 
 # Videos
 
