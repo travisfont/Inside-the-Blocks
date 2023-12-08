@@ -1,5 +1,7 @@
 # News
 
+- [**Circle moves native USDC offering to Cosmos mainnet**](https://blockworks.co/news/circle-moves-usdc-to-cosmos)
+  <br/>_Blockworks - November 28, 2023_
 - https://blockworks.co/news/stride-atom-token-conversion
 - https://cryptoslate.com/cosmos-hub-votes-to-bring-down-atoms-inflation-from-14-to-cap-at-10/
 - https://blockworks.co/news/neutron-to-acquire-25-of-cosmwasm-developer-confio
