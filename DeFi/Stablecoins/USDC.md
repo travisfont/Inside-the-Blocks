@@ -5,6 +5,8 @@
 - https://www.circle.com/blog/tag/usdc
 
 ## Notable News
+- [**Circle moves native USDC offering to Cosmos mainnet**](https://blockworks.co/news/circle-moves-usdc-to-cosmos)
+  <br/>_Blockworks - November 28, 2023_
 - [**Circle Launches Bridged USDC Contract For EVM Chains**](https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains)
   <br/>_The Defiant - November 23, 2023_
 - [**USDC Issuer Circle is Shutting Down Consumer Accounts**](https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts)
