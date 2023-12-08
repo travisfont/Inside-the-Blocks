@@ -109,6 +109,8 @@
   - https://twitter.com/wacy_time1/status/1727734952492732490
   - https://twitter.com/crypthoem/status/1732525315174301740
   - https://twitter.com/Flowslikeosmo/status/1732429910197887263
+  - https://twitter.com/jake_pahor/status/1713812045861405179
+  - https://twitter.com/blockworksDAS/status/1714281973383106749
 
 ## Podcasts
 
