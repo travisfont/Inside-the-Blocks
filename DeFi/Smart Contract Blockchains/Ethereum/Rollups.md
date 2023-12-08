@@ -1,8 +1,12 @@
 # Rollups (L2)
 
+- Blockworks - [Rollups saved Ethereum users a boatload of gas fees](https://blockworks.co/news/ethereum-rollups-save-gas-fees)
+
 ## Optimistic Rollup
 
-- **Arbitrum**
+## Arbitrum
+
+- [Arbitrum Orbit is mainnet](https://twitter.com/arbitrum/status/1717571952599089388)
 
 ### Optimism (OP)
 - CoinGecko - [**What is Optimism (OP)**](https://www.coingecko.com/learn/what-is-optimism-op)
