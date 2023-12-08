@@ -24,6 +24,7 @@
 
 ## Notable News
 
+- Blockworks - [**SocGen’s crypto unit debuts euro-pegged stablecoin**](https://blockworks.co/news/socgen-euro-pegged-stablecoin)
 - [**European Banking Authority has new rules for stablecoin issuer recovery plans**](https://blockworks.co/news/european-union-stablecoins-regulation)
   <br/>_Blockworks - November 8, 2023_
 - [**Fed official: Stablecoins pose a threat, but could present innovative opportunities**](https://blockworks.co/news/federal-reserve-cbdc-tokenization-stablecoins)
