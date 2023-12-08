@@ -8,6 +8,7 @@
   <br/>_The Defiant - August 1, 2023_
 
 ## Hacks that Happened
+- https://www.chainalysis.com/blog/curve-finance-liquidity-pool-hack/
 - https://twitter.com/CurveFinance/status/1685693202722848768
 - https://twitter.com/Delphi_Digital/status/1686187959303708672
 - Empire (Blockworks) - [**Curve Hack Explained**](https://www.youtube.com/watch?v=yA1BtxLWZc8)
