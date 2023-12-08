@@ -88,6 +88,7 @@
 
 ## Articles
 
+- Zee Prime - [**RWA vs. NWA**](https://zeeprime.capital/rwa-vs-nwa)
 - [**What Are Real-world Assets? DeFi’s Newest Yield**](https://blockworks.co/news/what-are-real-world-assets-defis-newest-yield)
   <br/>_Blockworks - October 27, 2022_
 - [**Tokenized Real World Assets (RWA): Where Are They Now**](https://cryptoslate.com/tokenized-real-world-assets-rwa-where-are-they-now/)
