@@ -6,6 +6,7 @@
 - https://dune.com/projects/dydx
 
 ## News
+- Blockworks - [Why DYDX insiders are unlikely to sell their $490M unlock](https://blockworks.co/news/dydx-unlocked-tokens-supply)
 - DYDX Blog - [Trading & Launch Rewards Now Live on dYdX Chain](https://dydx.exchange/blog/v4-full-trading)
 - [dYdX tokenomics scrutinized as staking goes live](https://blockworks.co/news/dydx-staking-goes-live)
 - [DYDX Token Surges Ahead Of Massive Unlock](https://thedefiant.io/dydx-token-surges-ahead-of-massive-unlock)
