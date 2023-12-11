@@ -5,6 +5,8 @@
   
 ## News
 
+- [**Avalanche flips MATIC, TRX and LINK to become a top-10 crypto**](https://blockworks.co/news/avax-flips-bch-matic-trx)
+  <br/>_Blockworks - December 7, 2023_
 - [**Avalanche gets the ‘Ordinals’ bump, sets new transaction record**](https://blockworks.co/news/avalanche-ordinals-asc20-transaction-record)
   <br/>_Blockworks - November 21, 2023_
 - [**Transactions on Avalanche surge by 3,040% in November**](https://cryptoslate.com/transactions-on-avalanche-surge-by-3040-percent-in-november/)
