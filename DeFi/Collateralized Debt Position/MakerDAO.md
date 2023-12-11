@@ -8,6 +8,7 @@
 # Charts
 - https://dune.com/projects/makerdao
 - https://dune.com/steakhouse/makerdao
+- https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
 
 ### Notable News
 - https://www.dlnews.com/articles/defi/makerdao-to-pay-bounty-to-enforce-anonymity-of-key-members/
