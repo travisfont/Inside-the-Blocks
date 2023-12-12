@@ -64,4 +64,7 @@
   <br/>_CryptoSlate - June 23, 2023_
 
 ## Tweets
+- [**Capitulation in MKR this year has been significant with 15% of the supply has sold by large funds**](https://twitter.com/pythianism/status/1734249684103999605)
+  <br/>_Vance Spencer (@pythianism) - Dec 11, 2023_
 - https://twitter.com/nay_gmy/status/1680223785327427584
+
