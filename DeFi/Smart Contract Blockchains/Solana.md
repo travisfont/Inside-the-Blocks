@@ -1,5 +1,9 @@
 # Solana (SOL)
 
+## News
+- The Defiant - [Jito Unveils JTO Airdrop Eligibility and Allocation](https://thedefiant.io/jito-unveils-jto-airdrop-eligibility-and-allocation)
+- Blockworks - [What to know about Jito's $165M JTO airdrop](https://blockworks.co/news/jito-airdrop-value)
+
 ## Articles
 - Umbra Research - [**MEV on Solana**](https://www.umbraresearch.xyz/writings/mev-on-solana)
 - Umbra Research - [**Lifecycle of a Solana Transaction**](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
