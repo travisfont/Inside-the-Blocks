@@ -9,6 +9,10 @@
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 
 ## News
+- [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
+  <br/>_Blockworks - December 12, 2023_
+- [**SocGen issues green euro-denominated bond on Ethereum **](https://blockworks.co/news/green-bond-ethereum-issued)
+  <br/>_Blockworks - December 4, 2023_
 - [**JP Morgan’s Onyx Taps Avalanche for Tokenized Funds, AVAX Jumps 14%**](https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax)
   <br/>_Decrypt - November 15, 2023_
 - [**U.S. Treasuries Spearhead Tokenization Boom**](https://www.coindesk.com/consensus-magazine/2023/11/06/us-treasuries-spearhead-tokenization-boom/)
