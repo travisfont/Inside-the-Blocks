@@ -9,3 +9,7 @@
 - Blockworks - [PayPal receives SEC subpoena over stablecoin](https://blockworks.co/news/paypal-receives-sec-subpoena-over-stablecoin)
 - [**PayPal Subpoenaed by SEC Over Stablecoin: Latest News & Hot Takes**](https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup)
   <br/>_The Defiant - November 02, 2023_
+
+## Articles
+- [**Pay How You Want**](https://pyusd.mirror.xyz/Ss1e0V8A01CA3YFkayridGSYNhvOwK8norKFmdo61DQ)
+  <br/>_PYUSD (Mirror) - November 14th, 2023_
