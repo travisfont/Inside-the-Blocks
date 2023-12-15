@@ -13,6 +13,8 @@
 
 ## Articles
 
+- CoinGecko - [How to Bridge Tokens From Arbitrum](https://www.coingecko.com/learn/bridge-tokens-from-arbitrum)
+- CoinGecko - [How to Bridge Tokens From Arbitrum Nova](https://www.coingecko.com/learn/bridge-crypto-arbitrum-nova)
 - Token Terminal Research - [**The fundamentals of Arbitrum**](https://tokenterminal.com/resources/crypto-research/arbitrum)
 - Arbitrum DAO (Governance docs) - [**A gentle introduction to the Arbitrum DAO**](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
 - Arbitrum DAO (Governance docs) - [**ARB airdrop eligibility and distribution specifications**](https://docs.arbitrum.foundation/airdrop-eligibility-distribution)
