@@ -5,6 +5,7 @@
 - Blockworks - [What to know about Jito's $165M JTO airdrop](https://blockworks.co/news/jito-airdrop-value)
 
 ## Articles
+- CoinGecko - [**What Is Solana's SPL Token Standard and Token-2022**](https://www.coingecko.com/learn/spl-solana-token-standards)
 - Umbra Research - [**MEV on Solana**](https://www.umbraresearch.xyz/writings/mev-on-solana)
 - Umbra Research - [**Lifecycle of a Solana Transaction**](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
 
