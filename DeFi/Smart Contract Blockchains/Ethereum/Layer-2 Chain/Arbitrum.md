@@ -6,6 +6,7 @@
 
 
 ## News
+- Blockworks - [**Arbitrum suffers ‘partial outage’ amid traffic influx**](https://blockworks.co/news/arbitrum-suffers-partial-outage)
 - Decrypt - [**Arbitrum Airdrops $120 Million in ARB to DAOs**](https://decrypt.co/137848/arbitrum-airdrops-120-million-in-arb-to-daos)
 - Decrypt - [**Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs**](https://decrypt.co/123727/ethereum-layer-2-solution-arbitrum-announces-token-airdrop-opens-tech-stack-devs)
 - Decrypt - [**Arbitrum’s Airdrop Is Just Around the Corner—How Much Will ARB Be Worth**](https://decrypt.co/124016/arbitrum-airdrop-around-corner-how-much-will-arb-be-worth)
@@ -17,3 +18,6 @@
 - Arbitrum DAO (Governance docs) - [**ARB airdrop eligibility and distribution specifications**](https://docs.arbitrum.foundation/airdrop-eligibility-distribution)
 - Cointelegraph - [**Arbitrum: A beginner's guide to the next-generation layer 2 for Ethereum**](https://cointelegraph.com/learn/arbitrum-the-next-generation-layer-2-for-ethereum)
 - [**AIP-1: Arbitrum Improvement Proposal Framework**](https://forum.arbitrum.foundation/t/aip-1-arbitrum-improvement-proposal-framework/30)
+
+# Tweets
+- cygaar@ (0xCygaar) - [**Summary of the Arbitrum outage and high Ethereum gas prices**](https://twitter.com/0xCygaar/status/1735720370001293589)
