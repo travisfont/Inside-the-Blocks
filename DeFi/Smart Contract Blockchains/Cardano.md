@@ -1,5 +1,14 @@
 # Cardano (ADA)
 
+- https://defillama.com/chain/Cardano
+  - https://defillama.com/protocols/lending/Cardano
+  - https://defillama.com/protocols/dexes/Cardano
+  - https://defillama.com/protocols/rwa/Cardano
+  - https://defillama.com/protocols/cdp/Cardano
+  - https://defillama.com/protocols/bridge/Cardano
+- https://ada.markets
+- https://app.dexhunter.io
+
 ## Videos
 
 - [**Time to Buy ADA? What You Need to Know**](https://www.youtube.com/watch?v=aJ5hH4nT_uY)https://www.youtube.com/watch?v=aJ5hH4nT_uY
