@@ -8,6 +8,7 @@
 ## News
 
 ## Articles
+- Shoal Research - [**Liquid Restaking Tokens: A new Frontier for Yield**](https://www.shoal.gg/p/liquid-restaking-tokens-a-new-frontier)
 - [5 Things To Know About Liquid Staking Tokens](https://www.techopedia.com/5-things-to-know-about-liquid-staking-tokens)
 - [**The future of liquid staking: why institutions are ‘front and center’ when it comes to this burgeoning DeFi strategy**](https://www.blockdata.tech/blog/roundup/the-future-of-liquid-staking-why-institutions-are-front-and-center-when-it-comes-to-this-burgeoning-defi-strategy)
 
