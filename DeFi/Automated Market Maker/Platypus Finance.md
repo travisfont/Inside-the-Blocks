@@ -23,6 +23,8 @@
 
 ## Articles
 
+- Wombat Exchange - [**Wombat Exchange and Platypus Finance: What’s the Difference**](https://medium.com/wombat-exchange/wombat-exchange-and-platypus-finance-whats-the-difference-884e3eef8590)
+
 ## Educational Videos
 
 ## Podcast Episodes
