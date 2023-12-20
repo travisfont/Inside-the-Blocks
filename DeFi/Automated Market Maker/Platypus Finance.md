@@ -24,6 +24,13 @@
 ## Articles
 
 - Wombat Exchange - [**Wombat Exchange and Platypus Finance: What’s the Difference**](https://medium.com/wombat-exchange/wombat-exchange-and-platypus-finance-whats-the-difference-884e3eef8590)
+- Platypus Blog (Medium) - [**Announcing a Native USDC Liquidity Pool on Platypus**](https://medium.com/platypus-finance/announcing-a-native-usdc-liquidity-pool-on-platypus-7eb5e157028d)
+- Platypus Blog (Medium) - [**Here Comes Platypus’ Voting Gauge**](https://medium.com/platypus-finance/here-comes-platypus-voting-gauge-c5baf17aafe5)
+- Platypus Blog (Medium) - [**Platypus Successfully Passed Hacken’s Smart Contract Audit and Omniscia’s Security Analysis**](https://medium.com/platypus-finance/platypus-successfully-passed-hackens-smart-contract-audit-and-omniscia-s-security-analysis-767d79bff5a6)
+- Platypus Blog (Medium) - [**Platypus Announcement on MIM**](https://medium.com/platypus-finance/platypus-announcement-on-mim-fc15bbd8753d)
+- Platypus Blog (Medium) - [**Platypus Staking Guide**](https://medium.com/platypus-finance/platypus-staking-guide-94f5fb3d0c7a)
+
+
 
 ## Educational Videos
 
