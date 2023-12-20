@@ -14,6 +14,7 @@
 ### WBTC (Wrapped BTC)
  - https://www.coingecko.com/en/coins/wrapped-bitcoin
  - [**Wrapped Bitcoin WBTC explained (Bitcoin on Ethereum)**](https://www.youtube.com/watch?v=ogm-BWbXvnU)
+ - https://governance.aave.com/t/wbtcs-and-others-pricing-mechanism-on-aave/10825
 ### BTC.b (Avalanche Bridged)
  - https://www.coingecko.com/en/coins/bitcoin-avalanche-bridged-btc-b
  - https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche (also add to BTC)
