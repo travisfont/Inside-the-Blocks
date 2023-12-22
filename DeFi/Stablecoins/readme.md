@@ -77,6 +77,10 @@
 
 ## Insightful Charts
 
+## Reports
+- [**Stablecoins & CBDC'S Report**](https://ccdata.io/reports/stablecoins-cbdcs-report-december-2023)
+  <br/>_CCData - December, 2023_
+
 ## Algorithmic Stablecoins
 
 - Cointelegraph - [**A Beginner's Guide on AlgorithmicStablecoins**](https://cointelegraph.com/learn/a-beginner-s-guide-on-algorithmic-stablecoins)
