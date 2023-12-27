@@ -13,3 +13,4 @@
 
 ## Articles
 - Avve Goverance Forum - [Bridging Aave: Chainlink Proof of Reserve (Phase 1 Release Candidate)](https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1-release-candidate/10972/5)
+- Avve Goverance Forum - [Bridging Aave: Chainlink Proof-of-Reserve (Phase 1)](https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1/9168)
