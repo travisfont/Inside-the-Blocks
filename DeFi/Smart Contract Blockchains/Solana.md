@@ -9,6 +9,7 @@
 - CoinGecko - [**What Is Solana's SPL Token Standard and Token-2022**](https://www.coingecko.com/learn/spl-solana-token-standards)
 - Umbra Research - [**MEV on Solana**](https://www.umbraresearch.xyz/writings/mev-on-solana)
 - Umbra Research - [**Lifecycle of a Solana Transaction**](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
+- Jake Pahor (Twitter) - [Solana the Ethereum killer or just another Layer 1 blockchain](https://twitter.com/jake_pahor/status/1736566966918537443)
 
 ## Videos
 - [**Time to Buy SOL: What You Need to Know**](https://www.youtube.com/watch?v=t8J9GNQkyyc)
