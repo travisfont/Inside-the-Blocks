@@ -10,3 +10,6 @@
   <br/>_October 31, 2023_
 - [**Aave Launches sDAI Pool As MakerDAO Weighs Reducing Yields**](https://thedefiant.io/dydx-community-votes-on-appchain-migration-and-v4-deployment)
   <br/>_The Defiant - August 29, 2023_
+
+## Articles
+- Avve Goverance Forum - [Bridging Aave: Chainlink Proof of Reserve (Phase 1 Release Candidate)](https://governance.aave.com/t/bgd-aave-chainlink-proof-of-reserve-phase-1-release-candidate/10972/5)
