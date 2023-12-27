@@ -89,6 +89,8 @@
 
 ## Misc. Stablecoin Mentions
 
+#### GHO
+- Aave - [**Introducing: GHO**](https://governance.aave.com/t/introducing-gho/8730/1)
 #### USN 
 - [**Wintermute Threatens Near Over $11.2M Soured Stablecoin Deal**](https://thedefiant.io/wintermute-threatens-near-over-usd11-2m-soured-stablecoin-deal)
   <br/>_The Defiant - November 08, 2023_
