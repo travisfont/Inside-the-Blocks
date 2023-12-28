@@ -2,15 +2,18 @@
 
 > _Click here for [**Stablecoins**](https://github.com/travisfont/Inside-the-Blocks/tree/main/DeFi/Stablecoins)_
 
-
 - [rwamarket.io](https://rwamarket.io/)
 - https://www.rwa.xyz
+- https://defillama.com/protocols/RWA
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
+- DTCC Digital Assets - [Tokenization Solutions](https://www.dtcc.com/dtcc-digital-assets/solutions/tokenization)
 
 ## News
 - [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
   <br/>_Blockworks - December 12, 2023_
+- [**DTCC closes deal to buy Securrency amid TradFi-crypto integrations**](https://blockworks.co/news/dtcc-acquisition-tradfi-crypto)
+  <br/>_Blockworks - December 11, 2023_
 - [**SocGen issues green euro-denominated bond on Ethereum**](https://blockworks.co/news/green-bond-ethereum-issued)
   <br/>_Blockworks - December 4, 2023_
 - [**JP Morgan’s Onyx Taps Avalanche for Tokenized Funds, AVAX Jumps 14%**](https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax)
@@ -55,6 +58,8 @@
   <br/>_Blockworks - September 19, 2023_
 - [**Tokeny And Klaytn Foundation Unite For Real-World Asset Tokenization Adoption In Asia**](https://www.siliconluxembourg.lu/tokeny-and-klaytn-foundation-unite-for-real-world-asset-tokenization-adoption-in-asia/)
   <br/>_Silicon Luxembourg - September 7, 2023_
+- [**TradFi, DeFi convergence continues through tokenizing real-world assets**](https://blockworks.co/news/real-world-assets-tradfi-defi-tokenization)
+  <br/>_Blockworks - August 31, 2023_
 - [**DeFi Sector Increasingly Sees Real-World Assets As Growth Area**](https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area)
   <br/>_The Defiant - August 28, 2023_
 - [**Why Proof of Reserves is Vital for Real-World Asset Tokenization**](https://decrypt.co/151992/why-proof-of-reserves-is-vital-for-real-world-asset-tokenization)
