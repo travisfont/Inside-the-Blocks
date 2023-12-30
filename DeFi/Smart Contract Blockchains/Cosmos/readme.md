@@ -1,5 +1,7 @@
 # Cosmos
 
+- https://ibc.fun
+
 ## YouTube Channels
 
 - https://www.youtube.com/@ThePodocasts1
