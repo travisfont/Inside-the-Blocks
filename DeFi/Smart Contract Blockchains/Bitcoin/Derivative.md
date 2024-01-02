@@ -26,8 +26,11 @@
 
 - [**How to Connect Core to LayerZero to Bridge BTC.b**](https://www.youtube.com/watch?v=WZKYzsZORGc)
   <br/>_Avalanche (YouTube) - November 18, 2022_
+- https://cryptorank.io/price/bitcoin-avalanche-bridged
 - https://www.geckoterminal.com/arbitrum/pools/0xcf2f020eeee1c1774c86ea70691913ae5e8affcb
 - https://www.geckoterminal.com/avax/pools/0xb2a765cbde23b871ffdea95880c8bea979720d36
+- https://defiearns.com/BTC.B
+- https://criffy.com/currencies/bitcoin-avalanche-bridged
 
 ## Threshold BTC (tBTC) - Arbitrum
 
