@@ -1,5 +1,7 @@
 # Ordinals
 
+- https://www.coingecko.com/en/coins/ordi
+
 ## News
 
 - The Defiant - [ORDI is the First BRC-20 Token to Top $1 Billion Market Cap](https://thedefiant.io/ordi-is-the-first-brc-20-token-to-top-usd1-billion-market-cap)
