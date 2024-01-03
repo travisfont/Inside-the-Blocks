@@ -10,6 +10,8 @@
 - DTCC Digital Assets - [Tokenization Solutions](https://www.dtcc.com/dtcc-digital-assets/solutions/tokenization)
 
 ## News
+- https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana
+- https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills
 - [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
   <br/>_Blockworks - December 12, 2023_
 - [**DTCC closes deal to buy Securrency amid TradFi-crypto integrations**](https://blockworks.co/news/dtcc-acquisition-tradfi-crypto)
