@@ -21,7 +21,9 @@
   * Hacken - [The Stake.com Hack Explained: Unpacking the $41M Crypto Breach](https://hacken.io/discover/stake-com-hack-sep-2023/)
   * Hacken - [Atomic Wallet Hack: Overview And Ongoing Investigation](https://hacken.io/discover/atomic-wallet-hack/)
   * Hacken - [Fintoch Rug Pull Explained](https://hacken.io/discover/fintoch-scam-explained/)
-
+  * Orbit
+    *  https://thedefiant.io/orbit-bridge-suffers-usd81-6m-exploit
+  * https://thedefiant.io/hacker-steals-usd830-000-from-cross-chain-bridge-of-solana-game-aurory
 
 ## Centralized Exchange (CEX)
 
