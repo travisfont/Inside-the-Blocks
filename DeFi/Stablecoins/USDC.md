@@ -1,4 +1,5 @@
 # Circle USD Coin (USDC)
+> Including EURC
 
 - https://www.circle.com/en/usdc
 - [**BlackRock Circle Reserve Fund**](https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund)
@@ -17,6 +18,11 @@
   <br/>_Circle Blog - August 23, 2023_
 - [**Announcing USDC on Noble**](https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk)
   <br/>_Noble - March 28, 2023_
+
+### Tweets
+
+- [**EURC is now live on Solana**](https://twitter.com/paddi_hansen/status/1736773129186206182)
+  <br/>_Patrick Hansen (@paddi_hansen) - December 18, 2023_
 
 ## Educational Articles
 
