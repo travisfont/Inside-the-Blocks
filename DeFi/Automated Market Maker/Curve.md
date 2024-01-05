@@ -7,6 +7,10 @@
 - [**Large CRV-backed Loans Threaten to Destabilize DeFi**](https://thedefiant.io/memecoin-traders-flock-to-base)
   <br/>_The Defiant - August 1, 2023_
 
+## Tweets
+- [**First Curve pool was deployed exactly 4 years ago**](https://twitter.com/CurveFinance/status/1742562038646223097)
+  <br/>_Curve Finance @(CurveFinance) - January 3, 2024_
+
 ## Hacks that Happened
 - https://www.chainalysis.com/blog/curve-finance-liquidity-pool-hack/
 - https://twitter.com/CurveFinance/status/1685693202722848768
