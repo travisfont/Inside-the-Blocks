@@ -1,6 +1,7 @@
 # Solana (SOL)
 
 ## News
+- The Defiant - [**Solana Flips Ethereum By Stablecoin Volume and Google Search Traffic**](https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic)
 - The Defiant - [Jito Unveils JTO Airdrop Eligibility and Allocation](https://thedefiant.io/jito-unveils-jto-airdrop-eligibility-and-allocation)
 - Blockworks - [What to know about Jito's $165M JTO airdrop](https://blockworks.co/news/jito-airdrop-value)
 
