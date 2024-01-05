@@ -2,6 +2,8 @@
 
 > !! **BY ANY MEANS IS INSIDE THE BLOCK A TAX ADVISORY ENTITY**
 
+- [**New IRS Rule Mandates Businesses Report Crypto Transfers Worth $10K+**](https://thedefiant.io/new-irs-rule-mandates-business-report-crypto-transfers-worth-usd10k)
+  <br/>_The Defiant - January 03, 2024_
 - CryptoSlate - [Japan ends unrealized gains tax on corporate crypto assets](https://cryptoslate.com/japan-repeals-unrealized-gains-tax-on-corporate-crypto-assets/)
 - Blockworks - [Claimed your JTO: Time to report it to the IRS, Experts say](https://blockworks.co/news/jito-airdrop-tax-implications)
 - The Wall Street Journal - [U.S. Tackles Crypto Tax Mess](https://www.wsj.com/finance/regulation/u-s-tackles-crypto-tax-mess-5a751679)
