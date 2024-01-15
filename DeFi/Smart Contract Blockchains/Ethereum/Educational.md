@@ -82,6 +82,7 @@ yearn.finance - [**The Tokenized Vault Standard (ERC-4626)**](https://twitter.co
 
 ## EIP-4844
 - The Graph (YouTube) - [EIP-4844 by Vitalik Buterin](https://www.youtube.com/watch?v=5Fp70DF1uaY)
+- eip4844.com - [**EIP-4844: Shared Blob Transactions (Proto-Danksharding)**](https://www.eip4844.com/)
 
 ## ERC-4337 (Account Abstraction)
 - [**A History of Account Abstraction**](https://www.youtube.com/watch?v=iLf8qpOmxQc)
