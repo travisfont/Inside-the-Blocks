@@ -35,6 +35,8 @@
   <br/>_The Defiant - July 12, 2023_
 
 ### Articles
+- [**MakerDAO’s plan to bring back 'DeFi summer' — Rune Christensen**](https://cointelegraph.com/magazine/makerdao-defi-summer-2024-rune-christensen-interview/)
+  <br/>_CoinTelegraph - January 10, 2024_
 - Wajahat Mughal (@0xMughal) - [**Maker DAO vs. FRAX**](https://twitter.com/0xMughal/status/1718736102268584221)
 - [**Explaining MakerDAO Acronyms: DSR, TRFM, and PSM**](https://www.publish0x.com/cryptoeq/explaining-makerdao-acronyms-dsr-trfm-and-psm-xjdjogz)
 - [**Protocol Economics Report - 2023-06**](https://forum.makerdao.com/t/protocol-economics-report-2023-06/21491/1)
