@@ -4,6 +4,9 @@
 
 - https://dune.com/projects/bnbchain
 
+## News
+- [**BNB Developers to Sunset Beacon Chain Tokens**](https://cointelegraph.com/news/bnb-developers-sunset-beacon-chain-tokens)
+  <br/>_CoinTelegraph - January 08, 2024_
 ## Articles
 
 - [**IBC is Finally Landing on BSC**](https://blog.cosmos.network/ibc-is-finally-landing-on-bsc-e78a5b9def5)
