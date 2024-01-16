@@ -3,7 +3,7 @@
  - [**Lending & Borrowing**](#Lending-amp-Borrowing)
  
   ---
-
+  - https://web3isgoinggreat.com/
   * CBS News - [**Hackers have stolen record $3 billion in cryptocurrency this year**](https://www.cbsnews.com/news/cryptocurrency-theft-hacker-chainalysis-blockchain-crime/) (October 13, 2022)
   * Ronin Network (2022)
   * PolyNetwork (2021)
@@ -24,6 +24,8 @@
   * Orbit
     *  https://thedefiant.io/orbit-bridge-suffers-usd81-6m-exploit
   * https://thedefiant.io/hacker-steals-usd830-000-from-cross-chain-bridge-of-solana-game-aurory
+  * Levana Protocol
+    - https://web3isgoinggreat.com/single/levana-protocol-exploit
 
 ## Centralized Exchange (CEX)
 
