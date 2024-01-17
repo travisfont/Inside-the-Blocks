@@ -25,7 +25,11 @@
     *  https://thedefiant.io/orbit-bridge-suffers-usd81-6m-exploit
   * https://thedefiant.io/hacker-steals-usd830-000-from-cross-chain-bridge-of-solana-game-aurory
   * Levana Protocol
+    - https://blog.levana.finance/levana-exploit-postmortem-df89a72cc92b
     - https://web3isgoinggreat.com/single/levana-protocol-exploit
+    - https://twitter.com/Levana_protocol/status/1740071199483543819
+    - https://twitter.com/l_woetzel/status/1740086038624616525
+    - https://twitter.com/Levana_protocol/status/1729840196638683641
 
 ## Centralized Exchange (CEX)
 
