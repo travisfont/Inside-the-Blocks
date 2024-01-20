@@ -86,6 +86,8 @@
 - Cointelegraph - [**A Beginner's Guide on AlgorithmicStablecoins**](https://cointelegraph.com/learn/a-beginner-s-guide-on-algorithmic-stablecoins)
 - CoinDesk - [**Algorithmic Stablecoins: What They Are and How They Can Go Terribly Wrong**](https://www.coindesk.com/learn/algorithmic-stablecoins-what-they-are-and-how-they-can-go-terribly-wrong/)
 - Decrypt - [**What Are Algorithmic Stablecoins**](https://decrypt.co/resources/what-are-algorithmic-stablecoins)
+- [**Algorithmic Stablecoins: Sexy AF or A Load of Pants**](https://www.youtube.com/watch?v=sQ9m9txjF4U)
+  <br/>_The Defiant - January 15, 2021_
 
 ## Misc. Stablecoin Mentions
 
