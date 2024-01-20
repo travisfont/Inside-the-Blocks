@@ -8,8 +8,11 @@
 - Dune Analytics - [**Tokenized Public Securities**](https://dune.com/steakhouse/tokenized-securities)
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 - DTCC Digital Assets - [Tokenization Solutions](https://www.dtcc.com/dtcc-digital-assets/solutions/tokenization)
+- https://app.rwa.xyz/treasuries
 
 ## News
+- [**ONDO Token Reaches Over $1B Market Cap in One Day**](https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day)
+  <br/>_The Defiant - January 18, 2024_
 - https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana
 - https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills
 - [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
@@ -87,6 +90,8 @@
   <br/>_Decrypt - May 22, 2023_
 - [**Tokenized Bonds Surpass $200M In Market Capitalization**](https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization)
   <br/>_The Defiant - May 22, 2023_
+- [**Flux Finance Enables Borrowing Against Tokenized Treasury Bonds**](https://thedefiant.io/flux-lending-tokenized-treasuries)
+  <br/>_The Defiant - February 13, 2023_
 - [**California Pilots Blockchain Car Title Management System on Tezos Fork**](https://blockworks.co/news/california-pilots-blockchain-car-title-management-system-on-tezos)
   <br/>_Blockworks - January 27, 2023_
 
