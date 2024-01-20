@@ -12,3 +12,8 @@
 ## Articles
 
 - CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
+
+## Videos
+
+- [**We Need to Talk About Tether**](https://www.youtube.com/watch?v=k1W_Gyerhug)
+  <br/>_The Defiant - January 22, 2021_
