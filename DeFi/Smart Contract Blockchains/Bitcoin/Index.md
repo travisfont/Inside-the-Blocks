@@ -13,6 +13,8 @@
   <br/>_CCData - January 2024_
 
 ### News
+- [**Bitcoin Surpasses Silver to Become Second Largest ETF Commodity in the US**](https://www.theblock.co/post/273317/bitcoin-surpasses-silver-to-become-second-largest-etf-commodity-in-the-us)
+  <br/>_The Block - January 18, 2024_
 - [**Bitcoin ETF starting gate: A look at the spot funds set to start trading today**](https://blockworks.co/news/bitcoin-etf-spot-launch)
   <br/>_Blockworks - January 11, 2024_
 
