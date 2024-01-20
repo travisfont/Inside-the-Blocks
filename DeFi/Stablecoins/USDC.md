@@ -28,4 +28,7 @@
 
 ## Educational Videos
 
+- [**Why Cardano Needs USDC**](https://www.youtube.com/watch?v=J973ByrXVFU)
+  <br/>_Learn Cardano - January 16, 2024_
+
 ## Discussions & Governance
