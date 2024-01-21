@@ -22,6 +22,11 @@
 ### BTCB (BNB Chain)
 - https://www.coingecko.com/en/coins/bitcoin-bep2
 - https://www.avax.network/btcb-vs-bep2
+
+nBTC (Nomic Bitcoin)
+- https://blockworks.co/news/nomic-cosmos-defi-bridging
+- https://www.theblock.co/post/259990/nomic-activates-nbtc-upgrade-to-bring-tokenized-bitcoin-into-cosmos-ecosystem
+
 ### renBTC
  - https://www.coingecko.com/en/coins/renbtc
  - [**What Is the Ren Protocol: renBTC Token Explained**](https://www.youtube.com/watch?v=mdoc-Qcc2-8)
