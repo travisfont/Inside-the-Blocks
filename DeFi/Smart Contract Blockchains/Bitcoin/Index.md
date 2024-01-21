@@ -2,7 +2,7 @@
 
 - Blockworks - [**Bitcoin ETF Tracker**](https://blockworks.co/bitcoin-etf)
 
-## Spot ETF
+## Spot Exchange-Traded Funds (ETF)
 
 ### Articles
 - [**Bitcoin ETFs Explained: What Are They & How Do They Work**](https://www.coindesk.com/learn/2024/01/11/bitcoin-etfs-explained-what-are-they-how-do-they-work/)
@@ -21,4 +21,19 @@
 ### Interviews & Podcasts
 - [**The Arrival of Bitcoin ETFs with James Seyffart & Alex Thorn**](https://www.youtube.com/watch?v=jiyId3mI8eI)
   <br/>_What Bitcoin Did - January 13, 2024_
-## Future ETF
+
+## Future Exchange-Traded Funds (ETF)
+
+### ProShares Bitcoin Strategy ETF (BITO)
+
+### ProShares Bitcoin Short ETF (BITI)
+
+- https://decrypt.co/104517/proshares-bitcoin-short-etf-grows-over-300-in-one-week
+
+### Samsung Bitcoin Futures Active ETF (3135.HK) (Hong Kong Stock Exchange)
+### CSOP Bitcoin Futures ETF (3066.HK) (Hong Kong Stock Exchange)
+### CSOP Ether Futures ETF (3068.HK) (Hong Kong Stock Exchange)
+
+### News
+
+- https://decrypt.co/83690/proshares-bitcoin-futures-etf-how-to-buy
