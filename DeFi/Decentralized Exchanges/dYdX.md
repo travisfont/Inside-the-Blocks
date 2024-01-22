@@ -6,6 +6,8 @@
 - https://dune.com/projects/dydx
 
 ## News
+- [**dYdX Becomes Top DEX By Daily Volume**](https://thedefiant.io/dydx-becomes-top-dex-by-daily-volume)
+  <br/>_The Defiant - January 18, 2024_
 - Blockworks - [Why DYDX insiders are unlikely to sell their $490M unlock](https://blockworks.co/news/dydx-unlocked-tokens-supply)
 - DYDX Blog - [Trading & Launch Rewards Now Live on dYdX Chain](https://dydx.exchange/blog/v4-full-trading)
 - [dYdX tokenomics scrutinized as staking goes live](https://blockworks.co/news/dydx-staking-goes-live)
