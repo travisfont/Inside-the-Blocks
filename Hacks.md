@@ -15,6 +15,7 @@
   * Bitfinex (2016)
   * NiceHash (2017)
   * OneCoin
+    - DW Documentary - [**Scamming Billions, then Disappearing: The Case of the "CryptoQueen"**](https://www.youtube.com/watch?v=5hiPF558-vc) (Dec 30, 2023) 
     - VICE News - [**How the Cryptoqueen Stole Billions**](https://www.youtube.com/watch?v=ZoklPHEjXl4)  (Oct 14, 2023)
   * Hacken - [Curve Finance Liquidity Pools Hack Explained](https://hacken.io/discover/curve-finance-liquidity-pools-hack-explained/)
   * Hacken - [SushiSwap DEX Hack Explained](https://hacken.io/discover/sushi-hack-explained/)
