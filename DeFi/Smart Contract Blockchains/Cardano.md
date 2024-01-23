@@ -16,6 +16,10 @@
 - [**Time to Buy ADA? What You Need to Know**](https://www.youtube.com/watch?v=aJ5hH4nT_uY)https://www.youtube.com/watch?v=aJ5hH4nT_uY
   <br/>_Coinsider - September 26, 2023_
 
+## Podcasts
+- [**Cardano’s Never Been Hacked**](https://thedefiant.io/cardano-has-never-been-hacked)
+  <br/>_The Defiant - January 10, 2024_
+
 ## Supporting YouTube Channels
 - [**Learn Cardano**](https://www.youtube.com/@LearnCardano)
 - https://www.youtube.com/@CardanoWithPaul
