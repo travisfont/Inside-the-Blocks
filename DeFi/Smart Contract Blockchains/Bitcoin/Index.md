@@ -4,7 +4,7 @@
 
 ## Spot Exchange-Traded Funds (ETF)
 
-### Articles
+#### Articles
 - [**Bitcoin ETFs Explained: What Are They & How Do They Work**](https://www.coindesk.com/learn/2024/01/11/bitcoin-etfs-explained-what-are-they-how-do-they-work/)
   <br/>_CoinDesk - January 11, 2024_
 - [**What is a Bitcoin ETF**](https://www.bitstamp.net/learn/crypto-trading/what-is-a-bitcoin-etf/)
@@ -12,15 +12,24 @@
 - [**Institutional Primer: The Impact of the First US Spot Bitcoin ETFs**](https://ccdata.io/reports/institutional-primer-the-impact-of-the-first-us-spot-bitcoin-etfs)
   <br/>_CCData - January 2024_
 
-### News
+#### News
 - [**Bitcoin Surpasses Silver to Become Second Largest ETF Commodity in the US**](https://www.theblock.co/post/273317/bitcoin-surpasses-silver-to-become-second-largest-etf-commodity-in-the-us)
   <br/>_The Block - January 18, 2024_
 - [**Bitcoin ETF starting gate: A look at the spot funds set to start trading today**](https://blockworks.co/news/bitcoin-etf-spot-launch)
   <br/>_Blockworks - January 11, 2024_
 
-### Interviews & Podcasts
+#### Interviews & Podcasts
 - [**The Arrival of Bitcoin ETFs with James Seyffart & Alex Thorn**](https://www.youtube.com/watch?v=jiyId3mI8eI)
   <br/>_What Bitcoin Did - January 13, 2024_
+
+### iShares Bitcoin Trust (IBIT)
+### Fidelity Wise Bitcoin Fund (FBTC)
+### Grayscale Bitcoin Trust (GBTC)
+
+- https://finance.yahoo.com/quote/GBTC
+- https://www.youtube.com/watch?v=RgQJ7wb8BxU
+
+---
 
 ## Future Exchange-Traded Funds (ETF)
 
