@@ -2,6 +2,7 @@
 
 - **[Liquid Staking Derivatives (LSD) / Liquid Staking Tokens (LST)](Liquid%20Staking.md)**
 - https://de.fi/scanner (Security - Smart Contract Scanner)
+- https://flipsidecrypto.xyz/
 
 ## Digital Currencies
 - **CDBC**
