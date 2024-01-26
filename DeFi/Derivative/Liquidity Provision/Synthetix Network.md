@@ -3,6 +3,10 @@
 - https://www.coingecko.com/en/coins/synthetix-network-token
 - https://dune.com/projects/synthetix
 
+## News
+- [**Synthetix Launches Perpetuals On Base**](https://thedefiant.io/synthetix-launches-perpetuals-on-base)
+  <br/>_The Defiant - January 24, 2024_
+
 ## Articles
 - [An Introduction to Synthetic Assets and Their Significance in DeFi](https://www.leewayhertz.com/synthetic-assets-their-significance-in-defi/)
 
