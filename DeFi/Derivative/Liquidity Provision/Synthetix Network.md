@@ -8,6 +8,7 @@
   <br/>_The Defiant - January 24, 2024_
 
 ## Articles
+- Blockworks - [**Synthetix: The Year Ahead**](https://app.blockworksresearch.com/research/synthetix-the-year-ahead)
 - [An Introduction to Synthetic Assets and Their Significance in DeFi](https://www.leewayhertz.com/synthetic-assets-their-significance-in-defi/)
 
 ## Interview & Podcasts
