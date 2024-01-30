@@ -1,10 +1,14 @@
 # Cosmos
 
+- https://www.ibcprotocol.dev
 - https://ibc.fun
 
 ## YouTube Channels
 
 - https://www.youtube.com/@ThePodocasts1
+
+## X Profiles
+- https://www.youtube.com/@ignitehq
 
 ## Airdop Management
 
