@@ -1,5 +1,6 @@
 # Osmosis (OSMO)
 
+- https://info.osmosis.zone/
 - https://www.coingecko.com/en/coins/osmosis
 - https://twitter.com/osmosiszone
 - https://twitter.com/OsmoSupportLab
