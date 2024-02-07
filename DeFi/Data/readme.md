@@ -8,3 +8,7 @@
 ## Analytics & Indexing
 
 - **The Graph** (GRT)
+
+Data Availability
+
+- **Celestia** (TIA)
