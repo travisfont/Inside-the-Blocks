@@ -68,6 +68,8 @@
 
 ## Podcasts & Talks
 
+- [**Creating asset-backed stablecoins with the Reserve protocol**](https://www.youtube.com/watch?v=WgsvOIjHDmg)
+  <br/>_The Defiant - Jan 31, 2024_
 - [**Nic Carter's Bull Case For Stablecoins**](https://www.youtube.com/watch?v=iecFhe2THeo)
   <br/>_Bankless - Oct 16, 2023_
 - [**Dollarization 2.0: How Stablecoins Unlock Emerging Markets with Nic Carter & Martin Carrica**](https://www.youtube.com/watch?v=27HimK7oZMw)
