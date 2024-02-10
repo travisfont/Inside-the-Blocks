@@ -20,6 +20,11 @@
 - [**Merger Between Osmosis and Umee**](https://commonwealth.im/ux/discussion/14296-merger-between-osmosis-and-umee)
   <br/>_Commonwealth (UX Chain) - December 3, 2023_
 
+## Podcasts & Interviews
+
+- [**The Return of the Updates from the Lab**](https://twitter.com/osmosiszone/status/1755969823857893687)
+  <br/>_Osmosis (X via @osmosiszone) - February 7, 2024_
+
 ## Twitters
 
 - [**Community proposal: Osmosis & Umee announce merger to build the greatest DeFi Hub**](https://twitter.com/ux_xyz/status/1731392488139808911)
