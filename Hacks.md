@@ -14,6 +14,8 @@
   * Maiar (2022)
   * Bitfinex (2016)
   * NiceHash (2017)
+  * SafeMoon
+    - The Carly P Reilly Show - [**SafeMoon CEO Out of Jail Thanks to his CIA Parents**](https://www.youtube.com/watch?v=_zcZWEoji94)
   * OneCoin
     - DW Documentary - [**Scamming Billions, then Disappearing: The Case of the "CryptoQueen"**](https://www.youtube.com/watch?v=5hiPF558-vc) (Dec 30, 2023) 
     - VICE News - [**How the Cryptoqueen Stole Billions**](https://www.youtube.com/watch?v=ZoklPHEjXl4)  (Oct 14, 2023)
