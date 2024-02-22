@@ -41,6 +41,9 @@
 
 - [**Sundaeswap meets Hydra**](https://www.youtube.com/watch?v=JXVErrOaqSI)
   <br/>_Crypto Buff - October, 2022_
-
 - [**Is Yield Farming Lucrative on Sundaeswap**](https://www.youtube.com/watch?v=QVetxDGEK4o)
-<br/>_Crypto Buff - Feburary, 2022_
+  <br/>_Crypto Buff - Feburary, 2022_
+
+# Podcasts & Interviews
+- [**SundaeSwap v3 is Bringing Alot of New Features & Improvements**](https://www.youtube.com/watch?v=GXy1K_GmC5U)
+  <br/>_Cardano With Paul - Feb 14, 2024_
