@@ -27,3 +27,5 @@
 ## Liquid Restaking
 
 - https://defillama.com/protocols/Liquid%20Restaking
+- [**What is Restaking**](https://thedefiant.io/what-is-restaking)
+  <br/>_The Defiant - February 21, 2024_
