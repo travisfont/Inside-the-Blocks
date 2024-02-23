@@ -9,6 +9,8 @@
 - Decrypt - [**What Is Tokenization**](https://decrypt.co/resources/what-is-tokenization)
 - DTCC Digital Assets - [Tokenization Solutions](https://www.dtcc.com/dtcc-digital-assets/solutions/tokenization)
 - https://app.rwa.xyz/treasuries
+- https://www.2tokens.org/
+- https://tokn1.com/
 
 ## News
 - [**ONDO Token Reaches Over $1B Market Cap in One Day**](https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day)
@@ -94,6 +96,8 @@
   <br/>_The Defiant - February 13, 2023_
 - [**California Pilots Blockchain Car Title Management System on Tezos Fork**](https://blockworks.co/news/california-pilots-blockchain-car-title-management-system-on-tezos)
   <br/>_Blockworks - January 27, 2023_
+- [**ABN AMRO registers first digital bond on public blockchain**](https://www.abnamro.com/en/news/abn-amro-registers-first-digital-bond-on-public-blockchain)
+  <br/>_ABN AMRO - January 10, 2023_
 
 ### Digital Bond
 
