@@ -27,5 +27,7 @@
 
 ## Twitters
 
+- [**Native WBTC Now on Osmosis**](https://twitter.com/osmosiszone/status/1760001481720332422/photo/1)
+  <br/>_Osmosis (@osmosiszone) - February 20, 2024_
 - [**Community proposal: Osmosis & Umee announce merger to build the greatest DeFi Hub**](https://twitter.com/ux_xyz/status/1731392488139808911)
-  <br/>_UX Chain (Twitter @ux_xyz) - December 3, 2023_
+  <br/>_UX Chain (@ux_xyz) - December 3, 2023_
