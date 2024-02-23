@@ -24,8 +24,10 @@
 - [**LSTs/LSDs Are Not Far from Flipping ETH: Exploring the World of LST-Backed Stablecoins**](https://twitter.com/zaddycoin/status/1672046836134342661)https://twitter.com/zaddycoin/status/1672046836134342661
   <br/>_Gabe (@zaddycoin) - Jun 23, 2023_
 
-## Liquid Restaking
+## Liquid Restaking (LST)
 
 - https://defillama.com/protocols/Liquid%20Restaking
+- [**The LRT Episode**](https://www.youtube.com/watch?v=80PO-2yG6Q0)
+  <br/>_Bankless - February 22, 2024_
 - [**What is Restaking**](https://thedefiant.io/what-is-restaking)
   <br/>_The Defiant - February 21, 2024_
