@@ -26,3 +26,7 @@
   <br/>_Ceazor's Snack Sandwich (YouTube) - Feb 13, 2023_
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
+
+## LsETH: Liquid Collective - Liquid Staking Ether
+
+- https://liquidcollective.io/what-is-lseth/
