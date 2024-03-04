@@ -2,7 +2,6 @@
 
 ## News
 
-
 - [**Tether posted record $2.85B profit in Q4, driven by T-bills**](https://cointelegraph.com/news/tether-posted-record-2-85-billion-profit-q4-driven-treasury-bills)
   <br/>_CoinTelegraph - Feb. 1, 2024_
 - [**Tether made nearly $1B in monthly profit during Q4**](https://blockworks.co/news/tether-monthly-profit-q4)
@@ -22,6 +21,10 @@
 ## Articles
 
 - CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
+
+## Podcasts
+- [**The Truth about Tether**](https://www.youtube.com/watch?v=w3Kh9FVOtwA)
+  <br/>_Bankless - March 4, 2024_
 
 ## Videos
 
