@@ -39,5 +39,7 @@
 
 ## Podcasts & Interviews
 
+- [**The Future of dYdX & Decentralized Trading with Antonio Juliano**](https://www.youtube.com/watch?v=Vf6hCfDF_sM)
+  <br/>_ 0xResearch - March 7, 2024_
 - [**The dYdX Appchain Vision: One of Crypto's Boldest Bets with Antonio Juliano**](https://www.youtube.com/watch?v=MZVpmSzhMls)
   <br/>_Lightspeed - Oct 10, 2023_
