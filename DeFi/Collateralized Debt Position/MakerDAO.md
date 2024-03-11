@@ -11,6 +11,10 @@
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
 
 ### Notable News
+- [**MakerDAO Hikes Fees More Than 140% To Prevent ‘DAI Demand Shock’**](https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock)
+  <br/>_The Defiant - March 10, 2024_
+- [**How Bitcoin trading frenzy almost depleted a vault in MakerDAO**](https://www.dlnews.com/articles/defi/bitcoin-trading-frenzy-nearly-depletes-a-makerdao-vault/)
+  <br/>_DL News - March 10, 2024_
 - https://www.dlnews.com/articles/defi/makerdao-to-pay-bounty-to-enforce-anonymity-of-key-members/
 - https://www.dlnews.com/articles/defi/makerdao-triples-profit-forecast-with-us-bond-carry-trade/
 - https://www.dlnews.com/articles/defi/makerdaos-endgame-plan-in-five-steps/
