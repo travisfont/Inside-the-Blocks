@@ -30,7 +30,13 @@
 - Altcoin Buzz - [**How To Stake Stacks & Earn Bitcoin**](https://www.youtube.com/watch?v=XywJYkS4nDA) *(Feb., 2022)*
 - Den Held - [**Stacks: Bitcoin DeFi & Smart Contracts**](https://www.youtube.com/watch?v=2K79H1d1DFI) *(July, 2021)*
 
-##  Development
+## Wallets
+
+- [**Xverse**](https://pool.xverse.app/) <sup>([Chrome](https://chromewebstore.google.com/detail/idnnbdplmphpflfnlkomgpfbpcgelopg))</sup>
+- [Leather](https://leather.io/) <sup>([Chrome](https://chromewebstore.google.com/detail/ldinpeekobnhjjdofggfgjlcehhmanlj))</sup>
+- [Asigna](https://asigna.io/) (Multisign)
+
+##  Development - Documentation, Walktrhoughs, Cookbooks, & Tutorials
 
 - https://www.stacks.co/build/get-started
 - https://docs.stacks.co/understand-stacks/overview
