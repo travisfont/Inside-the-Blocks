@@ -68,6 +68,8 @@
 
 ## Podcasts & Talks
 
+- [**The Future of Stablecoins & Synthetic Dollars w/ Arthur Hayes & Guy Young**](https://www.youtube.com/watch?v=odZc9nvNVAY)
+  <br/>_Empire - March 12, 2024_
 - [**Creating asset-backed stablecoins with the Reserve protocol**](https://www.youtube.com/watch?v=WgsvOIjHDmg)
   <br/>_The Defiant - Jan 31, 2024_
 - [**Nic Carter's Bull Case For Stablecoins**](https://www.youtube.com/watch?v=iecFhe2THeo)
