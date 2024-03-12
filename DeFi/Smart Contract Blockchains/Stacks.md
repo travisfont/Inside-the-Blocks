@@ -8,8 +8,12 @@
 
 - https://dune.com/babo/stacks2
 
-## News
+## Notable News
 
+- [**Blockdaemon Announces Support for Stacks, Enabling Bitcoin Rewards for Institutions**](https://www.blockdaemon.com/blog/support-for-stacks)
+  <br/>_Blockdaemon Blog - March 5, 2024_
+- [**Stacks expands with Blockdaemon, Near Foundation amid Bitcoin surge**](https://cointelegraph.com/news/stacks-welcomes-new-signers-blockdaemon-near-foundation-bitcoin-surge)
+  <br/>_CoinTelegraph - March 5, 2024_
 - https://newsbtc.com/news/company/theblock-research-pins-stacks-as-a-key-player-in-the-btc-network/
 - [**A $165 Million ‘Bitcoin Odyssey’: Okcoin, Stacks Aim to Accelerate BTC Adoption**](https://decrypt.co/94836/165-million-bitcoin-odyssey-okcoin-stacks-aim-accelerate-btc-adoption)
 - [**Stacks ecosystem becomes #1 Web3 project on Bitcoin**](https://cointelegraph.com/news/stacks-ecosystem-becomes-1-web3-project-on-bitcoin)
