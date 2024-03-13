@@ -21,6 +21,10 @@
 - [**Legacy vs. Next-Gen: What Everyone Gets Wrong About Avalanche with Luigi DeMeo & Patrick O'Grady**](https://www.youtube.com/watch?v=-zqqVKT5SfE)
   <br/>_Lightspeed - September 14, 2023_
 
+## Articles
+- [**An Analysis of the Avalanche Architecture**](https://app.blockworksresearch.com/research/an-analysis-of-the-avalanche-s-architecture)
+  <br/>_Blockworks - March 7, 2024_
+
 ## Resources
 
 - https://support.avax.network/en/
