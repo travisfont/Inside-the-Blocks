@@ -13,6 +13,8 @@
 - https://tokn1.com/
 
 ## News
+- [**Tokenized Real Estate Project PropyKeys Announces Public Launch**](https://thedefiant.io/tokenized-real-estate-project-propykeys-announces-public-launch)
+  <br/>_The Defiant - March 13, 2024_
 - [**ONDO Token Reaches Over $1B Market Cap in One Day**](https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day)
   <br/>_The Defiant - January 18, 2024_
 - https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana
