@@ -11,6 +11,8 @@
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
 
 ### Notable News
+- [**MakerDAO To Commence Endgame Overhaul This Summer**](https://thedefiant.io/makerdao-to-commence-endgame-overhaul-this-summer)
+  <br/>_The Defiant - March 13, 2024_
 - [**MakerDAO Hikes Fees More Than 140% To Prevent ‘DAI Demand Shock’**](https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock)
   <br/>_The Defiant - March 10, 2024_
 - [**How Bitcoin trading frenzy almost depleted a vault in MakerDAO**](https://www.dlnews.com/articles/defi/bitcoin-trading-frenzy-nearly-depletes-a-makerdao-vault/)
