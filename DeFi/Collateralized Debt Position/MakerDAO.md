@@ -53,6 +53,8 @@
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
+- [**From Crash of 2020 to Complaining About MakerDAO’s Rate Hike**](https://www.youtube.com/watch?v=T1Tx1FG0KQQ)
+  <br/>_The Chopping Block (Unchained) - March 14, 2024_
 - [**Crypto Has A Big Problem Says MakerDAO Co-Founder**](https://www.youtube.com/watch?v=KU8otKxaXr8)
   <br/>_The Defiant - Nov 27, 2023_
 - [**Decoding the Final Play: Unveiling Maker DAO's End Game**](https://www.youtube.com/watch?v=14bKR_gckxw)
