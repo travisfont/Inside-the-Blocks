@@ -122,21 +122,24 @@
 - [**Tokenizing the Future: When It Comes to the Potential Use Cases for Tokenized Assets, Financial Services Are Only the Start**](https://www.blockdata.tech/blog/spotlight/tokenizing-the-future-when-it-comes-to-the-potential-use-cases-for-tokenized-assets-financial-services-are-only-the-start)
   <br/>_Blockdata - May 1st, 2023_
 - [**Why RWAs Are Important to DeFi**](https://governance.aave.com/t/why-rwas-are-important-to-defi/10880)
-  <br/>_Aave Learning Center Forms - November 30, 2022
+  <br/>_Aave Learning Center Forms - November 30, 2022_
 - [**Why RWA on Goldfinch are insulated from on-chain DeFi volatility**](https://medium.com/goldfinch-fi/why-rwa-on-goldfinch-are-insulated-from-on-chain-defi-volatility-202a2e2e902d)
   <br/>_Sam Eyob at Goldfinch (Medium) - Jun 16, 2022_
 
-  ### Twitter Posting Articles
-  - https://twitter.com/0xAndrewMoh/status/1729087473895301430
-  - https://twitter.com/wacy_time1/status/1727734952492732490
-  - https://twitter.com/crypthoem/status/1732525315174301740
-  - https://twitter.com/Flowslikeosmo/status/1732429910197887263
-  - https://twitter.com/jake_pahor/status/1713812045861405179
-  - https://twitter.com/blockworksDAS/status/1714281973383106749
+### Twitter Posting Articles
+- https://twitter.com/0xAndrewMoh/status/1729087473895301430
+- https://twitter.com/wacy_time1/status/1727734952492732490
+- https://twitter.com/crypthoem/status/1732525315174301740
+- https://twitter.com/Flowslikeosmo/status/1732429910197887263
+- https://twitter.com/jake_pahor/status/1713812045861405179
+- https://twitter.com/blockworksDAS/status/1714281973383106749
 
 ## Podcasts
 
-- [**Unlocking Trillions of Dollars with RWAs with Centrifuge**](https://thedefiant.io/unlocking-trillions-of-dollars-with-rwas) ([YT](https://www.youtube.com/watch?v=emdeHLE2sfk&t=2689s))
+- [**Tokenizing Real World Assets**](https://www.youtube.com/watch?v=kdQi-N1BfO4)
+  <br/>_Bankless - March 12, 2024_
+- [**Unlocking Trillions of Dollars with RWAs with Centrifuge**](https://thedefiant.io/unlocking-trillions-of-dollars-with-rwas)
+   <sup>([YouTube](https://www.youtube.com/watch?v=emdeHLE2sfk&t=2689s))</sup>
   <br/>_The Defiant -  October 15, 2023_
 - [**The Chopping Block: Why It’s Suddenly RWA with Szn**](https://www.youtube.com/watch?v=OsMlqTAorGc)
   <br/>_Unchained - July 13, 2023_
