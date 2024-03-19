@@ -31,3 +31,25 @@
   <br/>_Bankless - February 22, 2024_
 - [**What is Restaking**](https://thedefiant.io/what-is-restaking)
   <br/>_The Defiant - February 21, 2024_
+
+-----
+
+## Liquid Staking Protocols
+
+### Stader (Ethereum)
+
+- https://www.coingecko.com/en/coins/stader
+
+### Mantle (Ethereum)
+
+### Ankr (Avalanche, Binance Smart Chain)
+
+### Stride
+
+- https://www.coingecko.com/en/coins/stride
+
+### Marinade (Solana)
+
+### Jito (Solana)
+- [**The Jito Impact: Is Jito Saving Solana with Jon Charbonneau**](https://www.youtube.com/watch?v=L6lSM0TgBGA)
+  <br/>_Lightspeed - March 14, 2024_
