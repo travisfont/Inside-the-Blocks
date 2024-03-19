@@ -1,5 +1,7 @@
 # Podcasts & Interviews
 
+- [**Cosmos Hub ICS Security Marketplace with Jehan Tremback of Informal Systems**](https://www.youtube.com/watch?v=LKZNDG-5_sU)
+  <br/>_The Interop - Mar 18, 2024_
 - [**Cosmos Can Scale Massively: Staking & Interchain Security (ICS) with Jack Zampolin**](https://www.youtube.com/watch?v=aiuDsPuLjGs)
   <br/>_Cosmos Joe - December 22, 2023_
 - [**ATOM IS MONEY with Sunny Aggarwal of Osmosis**](https://www.youtube.com/watch?v=7tAkdGSMSq0)
