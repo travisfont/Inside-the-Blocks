@@ -5,10 +5,10 @@
 - **Filecoin** (FIL)
 - **Arweave** (AR)
 
-## Analytics & Indexing
+## Analytics & Indexing  (Indexing Layer)
 
 - **The Graph** (GRT)
 
-Data Availability
+## Data Publishing / Data Availability
 
 - **Celestia** (TIA)
