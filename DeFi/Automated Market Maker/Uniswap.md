@@ -5,6 +5,8 @@
 - https://poolfish.xyz/pools/ethereum/uniswap
 
 ## Notable News
+- [**Uniswap v3 code free to fork as BSL expires**](https://cointelegraph.com/news/uniswap-v3-code-free-to-fork-as-bsl-expires)
+  <br/>_CoinTelegraph - April 1, 2023_
 - [**Uniswap Visa Card Proposal is Facing Opposition Among UNI Token Holders**](https://thedefiant.io/uniswap-visa-card-proposal-is-facing-opposition-among-token-holders)
   <br/>_The Defiant - October 23, 2023_
 
