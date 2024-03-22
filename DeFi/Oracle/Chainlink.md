@@ -13,6 +13,8 @@
 
 ## Podcasts & Interviews
 
+- [**Unmasking ChainLinkGod: Zach Rynes' Crypto Journey**](https://www.youtube.com/watch?v=sqR90k4zDDo)
+  <br/>_Empire - March 18, 2024_
 - [**Chainlink: From Price Feeds to Universal Cryptoeconomic Standards with Sergey Nazarov**](https://www.youtube.com/watch?v=aPhCD1l3CWQ)
   <br/>_Bell Curve -  March 8, 2024_
 - [**The Bull Case for Chainlink**](https://www.youtube.com/watch?v=0i1RhJ-Djr4)
