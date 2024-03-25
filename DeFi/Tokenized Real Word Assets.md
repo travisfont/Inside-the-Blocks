@@ -136,6 +136,8 @@
 
 ## Podcasts
 
+- [**The Tokenized Asset Megatrend in 2024 (with Aave's Stani Kulechov & Chainlink's Sergey Nazarov)**](https://www.youtube.com/watch?v=SoVCa6mPi2o)
+  <br/>_Chainlink - March 22, 2024_
 - [**Tokenizing Real World Assets**](https://www.youtube.com/watch?v=kdQi-N1BfO4)
   <br/>_Bankless - March 12, 2024_
 - [**Unlocking Trillions of Dollars with RWAs with Centrifuge**](https://thedefiant.io/unlocking-trillions-of-dollars-with-rwas)
