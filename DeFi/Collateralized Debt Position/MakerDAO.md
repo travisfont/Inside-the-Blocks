@@ -39,6 +39,8 @@
   <br/>_Cointelegraph - July 26, 2023_
 - [**MakerDAO Now Earns 80% Of Its Fee Revenue From Real-World Assets**](https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets)
   <br/>_The Defiant - July 12, 2023_
+- [**One Does Not Simply Destroy DAI: Maker Founder's 'Endgame' Proposal**](https://decrypt.co/108858/one-does-not-simply-destroy-dai-maker-founders-endgame-proposal)
+  <br/>_Decrypt - Sep 3, 2022_
 
 ### Articles
 - [**MakerDAO’s plan to bring back 'DeFi summer' — Rune Christensen**](https://cointelegraph.com/magazine/makerdao-defi-summer-2024-rune-christensen-interview/)
