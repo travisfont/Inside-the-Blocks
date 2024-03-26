@@ -9,6 +9,7 @@
 ## eBTC
 - The Defiant - [**Badger Launches 0% Interest Bitcoin Lending Protocol eBTC**](https://thedefiant.io/badger-launches-0-interest-bitcoin-lending-protocol-ebtc) (March 26, 2024)
 - https://www.ebtc.finance/
+- https://docs.ebtc.finance/ebtc
 
 ## hBTC
 - https://defillama.com/protocol/hbtc
