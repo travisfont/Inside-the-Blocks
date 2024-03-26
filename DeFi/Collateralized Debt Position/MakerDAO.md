@@ -55,6 +55,8 @@
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
+- [**Debating the MakerDAO Endgame with Vance Spencer, Mark Phillips, & Hasu**](https://www.youtube.com/watch?v=Sb3WPcG7HA8)
+  <br/>_0xResearch - March 8, 2024_
 - [**From Crash of 2020 to Complaining About MakerDAO’s Rate Hike**](https://www.youtube.com/watch?v=T1Tx1FG0KQQ)
   <br/>_The Chopping Block (Unchained) - March 14, 2024_
 - [**Crypto Has A Big Problem Says MakerDAO Co-Founder**](https://www.youtube.com/watch?v=KU8otKxaXr8)
