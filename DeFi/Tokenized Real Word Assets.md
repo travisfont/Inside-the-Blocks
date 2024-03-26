@@ -94,12 +94,20 @@
   <br/>_Decrypt - May 22, 2023_
 - [**Tokenized Bonds Surpass $200M In Market Capitalization**](https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization)
   <br/>_The Defiant - May 22, 2023_
+- [**What Crypto Builders Have to Say About Goldman Sachs’ New Blockchain Bid**](https://blockworks.co/news/goldman-sachs-blockchain-canton)
+  <br/>_Blockworks - May 10, 2023_
+- [**Siemens issues first digital bond on blockchain**](https://press.siemens.com/global/en/pressrelease/siemens-issues-first-digital-bond-blockchain)
+  <br/>_Siemens Press - 4 February 2023_
 - [**Flux Finance Enables Borrowing Against Tokenized Treasury Bonds**](https://thedefiant.io/flux-lending-tokenized-treasuries)
   <br/>_The Defiant - February 13, 2023_
 - [**California Pilots Blockchain Car Title Management System on Tezos Fork**](https://blockworks.co/news/california-pilots-blockchain-car-title-management-system-on-tezos)
   <br/>_Blockworks - January 27, 2023_
+- [**Goldman Sachs Tokenization Platform GS DAP - Leveraging Daml, Goes Live**](https://blog.digitalasset.com/news/goldman-sachs-tokenization-platform-gs-dap-leveraging-daml-goes-live)
+  <br/>_Digital Asset - January 10, 2023_
 - [**ABN AMRO registers first digital bond on public blockchain**](https://www.abnamro.com/en/news/abn-amro-registers-first-digital-bond-on-public-blockchain)
   <br/>_ABN AMRO - January 10, 2023_
+- [**EIB issues its first ever digital bond on a public blockchain**](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
+  <br/>_European Investment Bank (EIB) - April 28, 2021_
 
 ### Digital Bond
 
