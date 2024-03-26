@@ -1,9 +1,14 @@
 # Curve DAO (CRV)
 
+> Looking for [**crvUSD**](/DeFi/Stablecoins/Curve%20USD.md) stablecoin
+
 ## Charts
 - https://dune.com/projects/curvefi
 
 ## News
+
+- [**Curve Deploys crvUSD Stablecoin On Ethereum**](https://thedefiant.io/curve-deploys-crvusd-stablecoin-on-ethereum)
+  <br/>_The Defiant - May 4, 2023_
 - [**Large CRV-backed Loans Threaten to Destabilize DeFi**](https://thedefiant.io/memecoin-traders-flock-to-base)
   <br/>_The Defiant - August 1, 2023_
 
