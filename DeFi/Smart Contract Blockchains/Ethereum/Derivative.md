@@ -30,3 +30,9 @@
 ## LsETH: Liquid Collective - Liquid Staking Ether
 
 - https://liquidcollective.io/what-is-lseth/
+
+## eETH: Ether.Fi - Liquid Restaking Ether
+- https://app.ether.fi/portfolio
+- https://medium.com/etherfi/eeth-loyalty-points-5224715a38e7
+- https://www.coindesk.com/tech/2024/03/12/etherfi-to-introduce-ethfi-token-on-binance-launchpool-next-week/
+- https://blockworks.co/news/etherfi-airdrops-210m-token
