@@ -6,6 +6,12 @@
  - Slance - [**What are Wrapped Tokens: Explained in Detail (Animation)**](https://www.youtube.com/watch?v=SjdJWr8hgRY)
  - [Wrapping trust for interoperability. A study of wrapped tokens](https://arxiv.org/ftp/arxiv/papers/2109/2109.06847.pdf)
  - [What is a wrapped token](https://learn.radixdlt.com/article/what-is-a-wrapped-token)
+ - [Crypto derivatives 101: A beginner's guide on crypto futures, crypto options and perpetual contracts](https://cointelegraph.com/learn/crypto-derivatives)
+ - [Introduction to Crypto Derivatives, Options, and Futures](https://crypto.com/university/what-are-crypto-derivatives-options-futures)
+
+## Futures
+## Perpetuals
+## Options
 
 > _Click here for [**Tokenized Real Word Assets**](https://github.com/travisfont/Inside-the-Blocks/blob/main/DeFi/Tokenized%20Real%20Word%20Assets.md)_
 
