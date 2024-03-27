@@ -13,12 +13,20 @@
 - https://tokn1.com/
 
 ## News
+- [**RWA Tokens Rally 81% In One Week As Institutions Dive Deeper Into On-Chain Finance**](https://thedefiant.io/rwa-tokens-rally-81-in-one-week-as-institutions-dive-deeper-into-on-chain-finance)
+  <br/>_The Defiant - March 26, 2024_
+- [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
+  <br/>_FiNews - March 26, 2024_
+- [**BlackRock Creates Fund With Securitize, a Big Player in Real-World Asset Tokenization**](https://www.coindesk.com/policy/2024/03/19/blackrock-creates-tokenized-asset-fund-sec-filing-shows/)
+  <br/>_CoinDesk - March 19, 2024_
 - [**Tokenized Real Estate Project PropyKeys Announces Public Launch**](https://thedefiant.io/tokenized-real-estate-project-propykeys-announces-public-launch)
   <br/>_The Defiant - March 13, 2024_
 - [**ONDO Token Reaches Over $1B Market Cap in One Day**](https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day)
   <br/>_The Defiant - January 18, 2024_
 - https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana
 - https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills
+- [**Top 5 Crypto Projects Tokenizing Real-world Assets (RWAs) in 2024**](https://www.kucoin.com/learn/crypto/top-crypto-projects-tokenizing-real-world-assets)
+  <br/>_Kucoin - January 5, 2024_
 - [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
   <br/>_Blockworks - December 12, 2023_
 - [**DTCC closes deal to buy Securrency amid TradFi-crypto integrations**](https://blockworks.co/news/dtcc-acquisition-tradfi-crypto)
@@ -117,8 +125,11 @@
   <br/>_CoinTelegraph - October 25, 2023_
 
 ## Articles
-
+- [**Forget ETFs, Let’s Work on Tokenizing the Whole Value Chain**](https://www.coindesk.com/business/2024/02/07/forget-etfs-lets-work-on-tokenizing-the-whole-value-chain/)
+  <br/>_CoinDesk - Feb 7, 2024_
+- [What Is Tokenized Equity: How Tokenized Stock Works, and Example](https://www.investopedia.com/terms/t/tokenized-equity.asp)
 - Zee Prime - [**RWA vs. NWA**](https://zeeprime.capital/rwa-vs-nwa)
+- CoinTelegraph - [Asset tokenization: A beginner's guide to converting real assets into digital assets](https://cointelegraph.com/learn/asset-tokenization)
 - [**What Are Real-world Assets? DeFi’s Newest Yield**](https://blockworks.co/news/what-are-real-world-assets-defis-newest-yield)
   <br/>_Blockworks - October 27, 2022_
 - [**Tokenized Real World Assets (RWA): Where Are They Now**](https://cryptoslate.com/tokenized-real-world-assets-rwa-where-are-they-now/)
