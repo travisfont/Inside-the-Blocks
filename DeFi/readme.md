@@ -4,6 +4,7 @@
 - https://de.fi/scanner (Security - Smart Contract Scanner)
 - https://flipsidecrypto.xyz/
 - https://app.santiment.net/
+- Coinglass - [Liquidation Heatmap](https://www.coinglass.com/LiquidationData)
 
 ## Digital Currencies
 - **CDBC**
