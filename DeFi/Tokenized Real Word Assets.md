@@ -155,6 +155,10 @@
 
 ## Podcasts
 
+- [**A Trillion Dollar Opportunity: How Tokenization Will Transform Finance (at SALT iConnections in New York)**](https://www.youtube.com/watch?v=GSk9GzBeJV4)
+  <br/>_SALT - May 24, 2023_
+- [**Tokenizing the Future: How abrdn is utilizing blockchain technology for fund tokenization**](https://www.youtube.com/watch?v=zmlaD4ugTFc)
+  <br/>_Hedera - March, 2024_
 - [**The Tokenized Asset Megatrend in 2024 (with Aave's Stani Kulechov & Chainlink's Sergey Nazarov)**](https://www.youtube.com/watch?v=SoVCa6mPi2o)
   <br/>_Chainlink - March 22, 2024_
 - [**Tokenizing Real World Assets**](https://www.youtube.com/watch?v=kdQi-N1BfO4)
