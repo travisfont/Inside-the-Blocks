@@ -25,6 +25,8 @@
 ## Videos
 
 ## Tweets
+- [**Officially hit ATH for monthly Uniswap volume on L2s**](https://twitter.com/Uniswap/status/1773719843147010463)
+  <br/>_Uniswap Labs (@Uniswap) - March 29, 2024_
 - [**$982M in swaps on the Uniswap mobile app**](https://twitter.com/Uniswap/status/1734672461235736923)
   <br/>_Uniswap Labs (@Uniswap) - December 12, 2023_
 
