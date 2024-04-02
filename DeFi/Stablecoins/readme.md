@@ -100,6 +100,9 @@
 #### USN 
 - [**Wintermute Threatens Near Over $11.2M Soured Stablecoin Deal**](https://thedefiant.io/wintermute-threatens-near-over-usd11-2m-soured-stablecoin-deal)
   <br/>_The Defiant - November 08, 2023_
+#### USDe / sUSDe
+- [**DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral**](https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral)
+  <br/>_The Defiant - April ??, 2024_
 #### USDR 
 - [**Tangible’s USDR Stablecoin Crashes To $0.51**](https://thedefiant.io/tangible-s-usdr-stablecoin-depegs-to-50-cents)
   <br/>_The Defiant - October 11, 2023_
