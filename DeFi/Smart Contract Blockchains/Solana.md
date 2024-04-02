@@ -30,3 +30,8 @@
 - https://www.youtube.com/watch?v=Rg5Lp1lPRus
 - https://www.youtube.com/watch?v=2uRFojEnYsM
 - https://www.youtube.com/watch?v=weKMWVbLWaA
+
+## Supporting Projects
+
+### Kamino Finance
+- CoinGecko - [**What Is Kamino Finance: A Concentrated Liquidity Layer on Solana**](https://www.coingecko.com/learn/what-is-kamino-finance-kmno)
