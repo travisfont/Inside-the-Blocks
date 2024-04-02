@@ -12,3 +12,7 @@
 ## Data Publishing / Data Availability
 
 - **Celestia** (TIA)
+
+### Articles
+
+- CoinGecko - [**What Is Data Availability in Blockchains**](https://www.coingecko.com/learn/data-availability-blockchain-crypto)
