@@ -11,6 +11,10 @@
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
 
 ### Notable News
+- [**DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral**](https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral)
+  <br/>_The Defiant - April ??, 2024_
+- [**Maker DAO To Reduce Borrowing Fees And Increase Spark Debt Ceiling**](https://thedefiant.io/maker-dao-to-reduce-borrowing-fees-and-increase-spark-debt-ceiling)
+  <br/>_The Defiant - March 29, 2024_
 - [**MakerDAO To Commence Endgame Overhaul This Summer**](https://thedefiant.io/makerdao-to-commence-endgame-overhaul-this-summer)
   <br/>_The Defiant - March 13, 2024_
 - [**MakerDAO Hikes Fees More Than 140% To Prevent ‘DAI Demand Shock’**](https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock)
