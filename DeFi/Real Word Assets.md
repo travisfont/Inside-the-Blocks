@@ -1,4 +1,4 @@
-# Tokenized Real Word Assets (Securities & Commodity Tokenization)
+# Real World Assets (RWA) / Tokenized Assets (Securities & Commodity Tokenization)
 
 > _Click here for [**Stablecoins**](https://github.com/travisfont/Inside-the-Blocks/tree/main/DeFi/Stablecoins)_
 
