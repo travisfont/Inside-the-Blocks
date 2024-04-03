@@ -155,8 +155,8 @@
 
 ## Podcasts
 
-- [**A Trillion Dollar Opportunity: How Tokenization Will Transform Finance (at SALT iConnections in New York)**](https://www.youtube.com/watch?v=GSk9GzBeJV4)
-  <br/>_SALT - May 24, 2023_
+- [**Blackrock's $10T Bet on Ethereum with BUIDL Fund**](https://www.youtube.com/watch?v=hA5UxV2WFXg)
+  <br/>_Bankless -  April 2, 2024_
 - [**Tokenizing the Future: How abrdn is utilizing blockchain technology for fund tokenization**](https://www.youtube.com/watch?v=zmlaD4ugTFc)
   <br/>_Hedera - March, 2024_
 - [**The Tokenized Asset Megatrend in 2024 (with Aave's Stani Kulechov & Chainlink's Sergey Nazarov)**](https://www.youtube.com/watch?v=SoVCa6mPi2o)
@@ -170,6 +170,8 @@
   <br/>_Unchained - July 13, 2023_
 - [**Superstate: Unlocking On-Chain RWAs with Rob Leshner**](https://www.youtube.com/watch?v=0SYSgGiQLk8)
   <br/>_Empire (Blockworks) - July 11, 2023_
+- [**A Trillion Dollar Opportunity: How Tokenization Will Transform Finance (at SALT iConnections in New York)**](https://www.youtube.com/watch?v=GSk9GzBeJV4)
+  <br/>_SALT - May 24, 2023_
 
 ## Videos
 - [**The Risk of Real World Assets (RWAs)**](https://www.youtube.com/watch?v=sbKoNEFo1vk)
