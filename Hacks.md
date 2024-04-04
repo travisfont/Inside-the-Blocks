@@ -16,6 +16,8 @@
   * NiceHash (2017)
   * SafeMoon
     - The Carly P Reilly Show - [**SafeMoon CEO Out of Jail Thanks to his CIA Parents**](https://www.youtube.com/watch?v=_zcZWEoji94)
+  * Ankr
+     - https://blockworks.co/news/ankr-exploit-causes-collateral-damage
   * OneCoin
     - DW Documentary - [**Scamming Billions, then Disappearing: The Case of the "CryptoQueen"**](https://www.youtube.com/watch?v=5hiPF558-vc) (Dec 30, 2023) 
     - VICE News - [**How the Cryptoqueen Stole Billions**](https://www.youtube.com/watch?v=ZoklPHEjXl4)  (Oct 14, 2023)
@@ -33,6 +35,7 @@
     - https://twitter.com/Levana_protocol/status/1740071199483543819
     - https://twitter.com/l_woetzel/status/1740086038624616525
     - https://twitter.com/Levana_protocol/status/1729840196638683641
+    
 
 ## Centralized Exchange (CEX)
 
