@@ -174,5 +174,9 @@
   <br/>_SALT - May 24, 2023_
 
 ## Videos
+- [**My Top 5 RWA Investments**](https://www.youtube.com/watch?v=gt0plHaW-OM)
+  <br/>_Full Value Dan - March 28, 2024_
+- [**What is RWA Crypto: 5 Altcoins Changing the Future of DeFi**](https://www.youtube.com/watch?v=KfnN3-MVMfs)
+  <br/>_VirtualBacon - May 7, 2023_
 - [**The Risk of Real World Assets (RWAs)**](https://www.youtube.com/watch?v=sbKoNEFo1vk)
   <br/>_The Defiant (YouTube) - Oct 13, 2023_
