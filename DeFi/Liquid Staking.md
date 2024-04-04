@@ -24,9 +24,19 @@
 - [**LSTs/LSDs Are Not Far from Flipping ETH: Exploring the World of LST-Backed Stablecoins**](https://twitter.com/zaddycoin/status/1672046836134342661)https://twitter.com/zaddycoin/status/1672046836134342661
   <br/>_Gabe (@zaddycoin) - Jun 23, 2023_
 
-## Liquid Restaking (LST)
+## Restaking
+
+- https://defillama.com/protocols/Restaking
+- https://tangem.com/en/blog/post/liquid-restaking-lrt/
+- https://www.ledger.com/academy/what-is-ethereum-restaking
+- https://www.coindesk.com/tech/2024/03/06/liquid-restaking-tokens-what-are-they-and-why-do-they-matter/
+- https://vitalik.eth.limo/general/2023/05/21/dont_overload.html
+  
+### Liquid Restaking (LRT)
 
 - https://defillama.com/protocols/Liquid%20Restaking
+- [**Restaking is a ticking time bomb**](https://blockworks.co/news/restaking-ticking-time-bomb-eth)
+  <br/>_Blockworks - April 4, 2024
 - [**The LRT Episode**](https://www.youtube.com/watch?v=80PO-2yG6Q0)
   <br/>_Bankless - February 22, 2024_
 - [**What is Restaking**](https://thedefiant.io/what-is-restaking)
