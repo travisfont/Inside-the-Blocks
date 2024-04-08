@@ -12,7 +12,7 @@
 
 ### Notable News
 - [**MakerDAO Founder Says Having “Rando’s” Participate in Governance Makes DAOs Unpredictable**](https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable)
-  <br/>_The Defiant - April x, 2024_
+  <br/>_The Defiant - April 5, 2024_
 - [**DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral**](https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral)
   <br/>_The Defiant - April ??, 2024_
 - [**Maker DAO To Reduce Borrowing Fees And Increase Spark Debt Ceiling**](https://thedefiant.io/maker-dao-to-reduce-borrowing-fees-and-increase-spark-debt-ceiling)
