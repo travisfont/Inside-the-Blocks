@@ -11,6 +11,8 @@
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
 
 ### Notable News
+- [**MakerDAO Founder Says Having “Rando’s” Participate in Governance Makes DAOs Unpredictable**](https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable)
+  <br/>_The Defiant - April x, 2024_
 - [**DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral**](https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral)
   <br/>_The Defiant - April ??, 2024_
 - [**Maker DAO To Reduce Borrowing Fees And Increase Spark Debt Ceiling**](https://thedefiant.io/maker-dao-to-reduce-borrowing-fees-and-increase-spark-debt-ceiling)
