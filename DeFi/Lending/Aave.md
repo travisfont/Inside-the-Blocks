@@ -5,6 +5,8 @@
 - https://dune.com/projects/aave
 
 ## Notable News
+- [**Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It**](https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it)
+  <br/>_The Defiant - April 5, 2024_
 - [DeFi Rebounds as Aave v3 Loan Volume Spikes to Record](https://thedefiant.io/defi-rebounds-as-aave-v3-loan-volume-spikes-to-record)
 - [**Aave Floats New Plan To Restore GHO Peg**](https://thedefiant.io/aave-floats-new-plan-to-restore-gho-peg)
   <br/>_October 31, 2023_
