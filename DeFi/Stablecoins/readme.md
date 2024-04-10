@@ -103,6 +103,8 @@
 #### USDe / sUSDe
 - [**DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral**](https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral)
   <br/>_The Defiant - April ??, 2024_
+#### Stasis Euro (EURS)
+- https://www.coingecko.com/en/coins/stasis-eurs
 #### USDR 
 - [**Tangible’s USDR Stablecoin Crashes To $0.51**](https://thedefiant.io/tangible-s-usdr-stablecoin-depegs-to-50-cents)
   <br/>_The Defiant - October 11, 2023_
