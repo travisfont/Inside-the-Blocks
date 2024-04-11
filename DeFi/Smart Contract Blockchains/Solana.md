@@ -18,6 +18,8 @@
 
 ## Podcasts & Inteviews
 
+- [**Why Are Solana Transactions Dropping with Mert Mumtaz & Dan Smith**](https://www.youtube.com/watch?v=FwuQupayblk)
+  <br/>_ Lightspeed - April 6, 2024_
 - [**Has Solana Earned The Hype with Mert Mumtaz & Garrett Harper**](https://www.youtube.com/watch?v=Zawc3J7No9w)
   <br/>_Lightspeed - November 10, 2023_
 - [**Solana vs. Ethereum: What We Really Think**](https://www.youtube.com/watch?v=yN7h88gImHc)
