@@ -32,6 +32,14 @@
 - https://www.coingecko.com/en/coins/huobi-btc
 - https://www.hecochain.com/en-us/assets/
 
+
+## Liquid Staked Bitcoin
+
+- [**Liquid staked bitcoin provides new yield option for BTC holders**](https://blockworks.co/news/liquid-staked-bitcoin-yield-option-btc-holders)
+  <br/>_Blockworks - April 10, 2024_
+
+### stBTC
+
 ----
 
 ### Articles
