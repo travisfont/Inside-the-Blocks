@@ -13,6 +13,8 @@
 - https://tokn1.com/
 
 ## News
+- [**Circle debuts way to trade BlackRock tokenized fund shares for USDC**](https://blockworks.co/news/blackrock-tokenized-fund-trading-circle-usdc)
+  <br/>_Blockworks - April 11, 2024_
 - [**RWA Tokens Rally 81% In One Week As Institutions Dive Deeper Into On-Chain Finance**](https://thedefiant.io/rwa-tokens-rally-81-in-one-week-as-institutions-dive-deeper-into-on-chain-finance)
   <br/>_The Defiant - March 26, 2024_
 - [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
