@@ -22,7 +22,7 @@
 
 ## Podcast
 - [**"We Plan to Win" with Hayden Adams on Uniswap vs. the SEC**](https://www.youtube.com/watch?v=S2r35SDiCAY)
-  <br/>_Bankless - April 12, 2024
+  <br/>_Bankless - April 12, 2024_
 
 ## Videos
 
