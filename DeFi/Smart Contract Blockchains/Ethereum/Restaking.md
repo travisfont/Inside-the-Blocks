@@ -1,4 +1,4 @@
-# Restaking 
+# Native Restaking 
 
 ## EigenLayer
 
@@ -10,3 +10,5 @@
 ### Videos
 - [**13 year old VC explains Eigen Layer**](https://www.youtube.com/watch?v=fJ2HTxHfc_Q)
   <br/>_The Defiant - December, 2023_
+
+## Ether.fi
