@@ -9,7 +9,11 @@
 - [What Are Liquid Staking Derivatives](https://www.datawallet.com/crypto/what-are-liquid-staking-derivatives)
 - [What Are Staking Derivatives](https://limechain.tech/blog/liquid-staking-derivatives-explained/)
 
-### Lido
+## Liquid Staking Tokens (LST)
+
+![image](https://github.com/travisfont/Inside-the-Blocks/assets/2539998/2ab3fe01-a812-4dba-8edc-5a5cb8f6e0cc)
+
+### stETH: Lido (LDO)
 
 ### rETH: Rocket Pool (RPL)
 
@@ -27,12 +31,6 @@
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
 
-## LsETH: Liquid Collective - Liquid Staking Ether
+## LsETH: Liquid Collective
 
 - https://liquidcollective.io/what-is-lseth/
-
-## eETH: Ether.Fi - Liquid Restaking Ether
-- https://app.ether.fi/portfolio
-- https://medium.com/etherfi/eeth-loyalty-points-5224715a38e7
-- https://www.coindesk.com/tech/2024/03/12/etherfi-to-introduce-ethfi-token-on-binance-launchpool-next-week/
-- https://blockworks.co/news/etherfi-airdrops-210m-token
