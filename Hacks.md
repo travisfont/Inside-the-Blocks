@@ -35,7 +35,8 @@
     - https://twitter.com/Levana_protocol/status/1740071199483543819
     - https://twitter.com/l_woetzel/status/1740086038624616525
     - https://twitter.com/Levana_protocol/status/1729840196638683641
-    
+  * Crema Finance
+    - https://www.web3isgoinggreat.com/?id=nirvana-finance-hacker-sentenced 
 
 ## Centralized Exchange (CEX)
 
