@@ -2,6 +2,10 @@
 
 - https://poolfish.xyz/calculators/sushi
 
+
+## News
+- [SushiSwap team votes to give themselves control of much of the "decentralized" project's treasury](https://www.web3isgoinggreat.com/?id=sushiswap-treasury-vote)
+
 ## Hacks & Exploits
 
 - https://www.coindesk.com/tech/2023/04/10/sushi-dex-recovers-100-ether-after-millions-lost-on-weekend-exploit
