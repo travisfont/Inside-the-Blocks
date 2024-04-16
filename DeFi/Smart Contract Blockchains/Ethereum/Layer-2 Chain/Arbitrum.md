@@ -6,6 +6,7 @@
 
 
 ## News
+
 - Blockworks - [**Arbitrum suffers ‘partial outage’ amid traffic influx**](https://blockworks.co/news/arbitrum-suffers-partial-outage)
 - Decrypt - [**Arbitrum Airdrops $120 Million in ARB to DAOs**](https://decrypt.co/137848/arbitrum-airdrops-120-million-in-arb-to-daos)
 - Decrypt - [**Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs**](https://decrypt.co/123727/ethereum-layer-2-solution-arbitrum-announces-token-airdrop-opens-tech-stack-devs)
@@ -13,6 +14,11 @@
 
 ## Articles
 
+- https://dablendo.medium.com/an-analogy-of-arbitrum-one-vs-arbitrum-nova-6d4aa88dbac3
+- https://docs.arbitrum.io/build-decentralized-apps/public-chains
+- https://docs.arbitrum.io/why-nitro
+- https://koreablockchainweek.com/blogs/kbw-blog/arbitrum-101
+- https://www.tastycrypto.com/blog/layer-2-networks/
 - CoinGecko - [How to Bridge Tokens From Arbitrum](https://www.coingecko.com/learn/bridge-tokens-from-arbitrum)
 - CoinGecko - [How to Bridge Tokens From Arbitrum Nova](https://www.coingecko.com/learn/bridge-crypto-arbitrum-nova)
 - Token Terminal Research - [**The fundamentals of Arbitrum**](https://tokenterminal.com/resources/crypto-research/arbitrum)
