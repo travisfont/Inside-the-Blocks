@@ -19,3 +19,18 @@
   <br/>_Blockworks - November 3, 2023_
 - [**BitGo Granted German Crypto Custody License by BaFin**](https://www.coindesk.com/policy/2023/11/01/bitgo-granted-german-crypto-custody-license-by-bafin/)
   <br/>_CoinDesk - November 1, 2023_
+
+## Havling
+
+- [**Welcome to 'Halve Time'**](https://blog.bitpanda.com/en/welcome-halve-time)
+  <br/>_Bitpanda - March 3, 2024_
+- [**What is a Bitcoin halving**](https://www.bitstamp.net/learn/crypto-101/what-is-a-bitcoin-halving/)
+  <br/>_Bitstamp - December 21st, 2023_
+  
+### 2004
+- [Bitcoin Halving 2024 – This Time It’s Different](https://www.cmegroup.com/articles/2024/bitcoin-halving-2024-this-time-its-different.html)
+  <br/>_CME Group - April 3, 2024_
+
+### 2020
+### 2016
+### 2012
