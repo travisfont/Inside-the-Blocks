@@ -10,6 +10,12 @@
 
 ## News
 - Decrypt - [**Stacks, Bitcoin Layers, and the Nakamoto Upgrade: Here’s What’s Going On**](https://decrypt.co/225801/stacks-stx-nakamoto-upgrade-bitvm-rollups-defi)
+
+## Podcasts
+
+- [**His Idea Will Change Bitcoin Forever**](https://www.youtube.com/watch?v=q9RDE8U6CkI)
+  <br/>_Bankless - April 18, 2024_
+
 ---
 
 ### Core Chain
