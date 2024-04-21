@@ -7,6 +7,8 @@
 
 ## Podcast Disccusions (& Interviews)
 
+- [**Bitcoin Halving Is Not Priced in: Supply Shock Incoming**](https://www.youtube.com/watch?v=ST_960wTJnY)
+  <br/>_Anthony Pompliano - Apr 19, 2024_
 - [**Why Bitcoin Will Take Over The World with Coinbase CEO Brian Armstrong**](https://www.youtube.com/watch?v=KgUlxorY0Vc)
   <br/>_Hoover Institution (Uncommon Knowledge) - March 19, 2024_
 - [**Bitcoin ETFs Have Changed the Game with Nik Bhatia**](https://www.youtube.com/watch?v=48r0VO9m1yc)
