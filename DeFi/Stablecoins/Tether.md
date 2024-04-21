@@ -22,7 +22,9 @@
 
 - CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
 
-## Podcasts
+## Podcasts & Interviews
+- [**What's Next for USDT: Interview with Tether CEO**](https://www.youtube.com/watch?v=1oDgxAvQVQk)
+  <br/>_Coin Bureau - April 21, 2024_
 - [**The Truth about Tether**](https://www.youtube.com/watch?v=w3Kh9FVOtwA)
   <br/>_Bankless - March 4, 2024_
 
