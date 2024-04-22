@@ -2,6 +2,10 @@
 
 ## EigenLayer
 
+### News
+- [EigenLayer’s biggest risk may be centralization, report suggests](https://blockworks.co/news/eigenlayer-at-risk-of-centralization)
+- [EigenLayer operators are losing money — here’s why they’re signing up anyway](https://www.dlnews.com/articles/defi/why-eigenlayer-operators-are-in-the-red/)
+
 ### Articles
 
 - CoinGecko - [**EigenLayer: ETH Restaking and How It Works**](https://www.coingecko.com/learn/eigenlayer-restaking-ethereum)
