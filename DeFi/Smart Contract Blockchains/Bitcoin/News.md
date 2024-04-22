@@ -21,13 +21,16 @@
   <br/>_CoinDesk - November 1, 2023_
 
 ## Havling
-
+- [The Bitcoin Halving Is Happening: Supply to Drop to 3.125 BTC Today](https://bitcoinmagazine.com/markets/the-bitcoin-halving-is-happening-supply-to-drop-to-3-125-btc-today)
+- [Fun Facts About The Halving](https://bitcoinmagazine.com/technical/fun-facts-about-the-halving)
+- [Bitcoin’s block reward slashed by 50% following 2024 halving](https://blockworks.co/news/bitcoin-halving-2024-occurs)
 - [**Welcome to 'Halve Time'**](https://blog.bitpanda.com/en/welcome-halve-time)
   <br/>_Bitpanda - March 3, 2024_
 - [**What is a Bitcoin halving**](https://www.bitstamp.net/learn/crypto-101/what-is-a-bitcoin-halving/)
   <br/>_Bitstamp - December 21st, 2023_
   
 ### 2004
+- 
 - [Bitcoin Halving 2024 – This Time It’s Different](https://www.cmegroup.com/articles/2024/bitcoin-halving-2024-this-time-its-different.html)
   <br/>_CME Group - April 3, 2024_
 
