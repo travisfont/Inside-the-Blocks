@@ -182,3 +182,25 @@
   <br/>_VirtualBacon - May 7, 2023_
 - [**The Risk of Real World Assets (RWAs)**](https://www.youtube.com/watch?v=sbKoNEFo1vk)
   <br/>_The Defiant (YouTube) - Oct 13, 2023_
+
+----
+### Franklin OnChain U.S. Government Money Fund (FOBXX)
+- https://app.rwa.xyz/assets/FOBXX
+- [**$1.4 Trillion Investment Firm Launches Tokenized Mutual Fund on Polygon**](https://thedefiant.io/news/defi/templeton-money-fund-polygon)
+  <br/>_The Defiant - April 29, 2023_
+
+### Ondo Short-Term US Government Bond Fund** (OUSG)
+- [**Ondo Finance To Deploy OUSG Assets In Blackrock’s BUIDL Fund**](https://thedefiant.io/news/defi/ondo-finance-to-deploy-ousg-assets-in-blackrock-s-buidl-fund)
+  <br/>_The Defiant - March 28, 2024_
+  
+### BlackRock USD Institutional Digital Liquidity Fund (BUILD)
+- [**BlackRock’s Tokenized Treasuries Fund BUIDL Sucks Up $245M In First Week**](https://thedefiant.io/news/defi/blackrock-s-tokenized-treasuries-fund-buidl-sucks-up-usd245m-in-first-week)
+  <br/>_The Defiant - March 28, 2024_
+- [**BlackRock Tokenizes Fund for Accredited Investors on Ethereum Blockchain**](https://thedefiant.io/news/defi/blackrock-tokenizes-fund-for-accredited-investors-on-ethereum-blockchain)
+  <br/>_The Defiant - March 19, 2024_
+
+### HSBC Gold Token
+- [**HSBC launches tokenised gold for retail customers in Hong Kong as government pushes for publicly accessible digital assets**](https://www.scmp.com/business/banking-finance/article/3256859/hsbc-launches-tokenised-gold-retail-customers-hong-kong-government-pushes-publicly-accessible)
+  <br/>_South China Morning Post - March 27, 2024_
+- [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
+  <br/>_FiNews - March 26, 2024_
