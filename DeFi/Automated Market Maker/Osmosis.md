@@ -22,6 +22,8 @@
 
 ## Podcasts & Interviews
 
+- [**TFM x Osmosis: Liquidity Hub of Cosmos**](https://twitter.com/i/spaces/1MYxNoqQvZnKw)
+  <br/>_FTM (X via @tfm_com) - April 25, 2024_
 - [**The Return of the Updates from the Lab**](https://twitter.com/osmosiszone/status/1755969823857893687)
   <br/>_Osmosis (X via @osmosiszone) - February 7, 2024_
 
