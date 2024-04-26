@@ -10,7 +10,8 @@
 - https://app.dexhunter.io
 
 ## Videos
-
+- [**New Standard for Cardano Native Tokens**](https://www.youtube.com/watch?v=8dZBDohgnzQ)
+  <br/>_Learn Cardano - April 26, 2024_
 - [**Why Cardano Needs USDC**](https://www.youtube.com/watch?v=J973ByrXVFU)
   <br/>_Learn Cardano - January 16, 2024_
 - [**Time to Buy ADA? What You Need to Know**](https://www.youtube.com/watch?v=aJ5hH4nT_uY)
