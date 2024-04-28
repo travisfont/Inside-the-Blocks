@@ -157,6 +157,8 @@
 
 ## Podcasts
 
+- [**Yield on Tokenised RWAs Through TVVIN**](https://www.youtube.com/watch?v=CHD6sKqys58)
+  <br/>_Cardano With Paul - Apr 28, 2024_
 - [**Blackrock's $10T Bet on Ethereum with BUIDL Fund**](https://www.youtube.com/watch?v=hA5UxV2WFXg)
   <br/>_Bankless -  April 2, 2024_
 - [**Tokenizing the Future: How abrdn is utilizing blockchain technology for fund tokenization**](https://www.youtube.com/watch?v=zmlaD4ugTFc)
