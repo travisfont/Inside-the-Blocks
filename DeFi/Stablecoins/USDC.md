@@ -6,6 +6,7 @@
 - https://www.circle.com/blog/tag/usdc
 
 ## Notable News
+
 - [**Circle moves native USDC offering to Cosmos mainnet**](https://blockworks.co/news/circle-moves-usdc-to-cosmos)
   <br/>_Blockworks - November 28, 2023_
 - [**Circle Launches Bridged USDC Contract For EVM Chains**](https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains)
@@ -30,5 +31,10 @@
 
 - [**Why Cardano Needs USDC**](https://www.youtube.com/watch?v=J973ByrXVFU)
   <br/>_Learn Cardano - January 16, 2024_
+
+## Podscasts
+
+- [**USDC Founder Jeremy Allaire: The Future of Dollars**](https://www.youtube.com/watch?v=4lmmIO2n87w)
+  <br/>_Bankless - April 29, 2024_
 
 ## Discussions & Governance
