@@ -14,6 +14,8 @@
 
 ## Podcasts
 
+- [**Bitcoin Layer 2s Aim to Attract Ethereum-Like Dapps: Will They Succeed**](https://www.youtube.com/watch?v=Gx2e608iZ2Q)
+  <br/>_Unchained - April 30, 2024_
 - [**His Idea Will Change Bitcoin Forever**](https://www.youtube.com/watch?v=q9RDE8U6CkI)
   <br/>_Bankless - April 18, 2024_
 
