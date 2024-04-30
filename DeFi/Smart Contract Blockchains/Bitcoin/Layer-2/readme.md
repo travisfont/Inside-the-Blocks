@@ -35,6 +35,7 @@
 - [Here’s Everything We Know About Runes, Bitcoin’s New Fungible Token Standard](https://community.magiceden.io/learn/runes-guide)
 - [Runes, Casey Rodarmor's Protocol for 'Sh!tcoins' on Bitcoin, Set to Go Live at Halving](https://www.coindesk.com/tech/2024/04/17/runes-casey-rodarmors-protocol-for-shtcoins-on-bitcoin-set-to-go-live-at-halving/)
 - [Bitcoin Traders Brace for Runes Launch by Setting Up Their Own Nodes—Why](https://decrypt.co/226688/bitcoin-traders-brace-runes-launch-setting-up-nodes-why)
+- Bitcoin Magazine - [**Bitcoin Runes Launch Amid Controversy, As Inscription Protocols Dominate Blockchain**](https://bmpro.substack.com/p/bitcoin-runes-launch-amid-controversy)
 - https://cointelegraph.com/news/real-opportunity-bitcoin-runes-after-first-wave-investor-hype
 - https://decrypt.co/221962/bitcoin-runes-launch-at-the-halving-heres-everything-you-need-to-know
 - https://decrypt.co/226630/bitcoin-runes-arrive-halving-internet-computer-support
