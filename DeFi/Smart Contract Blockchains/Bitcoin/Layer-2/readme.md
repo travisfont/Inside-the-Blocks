@@ -26,6 +26,9 @@
 - [Bitcoin Staking Is Now Possible With Core Chain](https://decrypt.co/226776/bitcoin-staking-on-core-chain)
 
 ### Runes
+
+- [**A New Era In Bitcoin: Runes Protocol**](https://www.youtube.com/watch?v=2HZBTj7dY0w)
+  <br/>_The Defiant - April 24, 2024_
 - [**What Are Bitcoin Runes? A New Fungible Token Protocol on Bitcoin**](https://www.coingecko.com/learn/what-are-bitcoin-runes)
 - [What Are Runes? A Guide to the New Fungible Token Protocol on Bitcoin](https://unchainedcrypto.com/runes-protocol/)
 - [Bitcoin Runes look to spice up the halving party](https://blockworks.co/news/bitcoin-halving-runes-launch)
