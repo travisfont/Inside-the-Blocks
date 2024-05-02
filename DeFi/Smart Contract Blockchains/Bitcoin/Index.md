@@ -29,6 +29,22 @@
 - https://finance.yahoo.com/quote/GBTC
 - https://www.youtube.com/watch?v=RgQJ7wb8BxU
 
+### ChinaAMC Bitcoin ETF (3042 HK / 83042 HK / 9042 HK)
+- https://www.chinaamc.com.hk/product/chinaamc-bitcoin-etf/
+
+### Bosera HashKey Bitcoin ETF (9008-HK:Hong Kong Stock Exchange) / 3008.HK (HKD); 9008.HK (USD) 
+- https://www.bloomberg.com/quote/9008:HK
+- https://www.cnbc.com/quotes/9008-HK
+- https://medium.com/@HashKeycapitalofficial/bosera-hashkey-spot-etfs-listing-ceremony-221b9ca8317a
+- https://www.theblock.co/post/291599/hong-kong-officially-debuts-asias-first-spot-bitcoin-ether-etfs
+
+### Harvest Bitcoin Spot ETF (HKD 03439; USD 09439)
+
+### Harvest Ether Spot ETF (HKD 03179; USD 09179)
+
+### Bosera HashKey Ether ETF (3009.HK (HKD); 9009.HK (USD))
+
+
 ---
 
 ## Future Exchange-Traded Funds (ETF)
@@ -40,7 +56,10 @@
 - https://decrypt.co/104517/proshares-bitcoin-short-etf-grows-over-300-in-one-week
 
 ### Samsung Bitcoin Futures Active ETF (3135.HK) (Hong Kong Stock Exchange)
+- https://www.samsungetfhk.com/about3135/
+
 ### CSOP Bitcoin Futures ETF (3066.HK) (Hong Kong Stock Exchange)
+- https://www.csopasset.com/en/products/hk-btcfut
 ### CSOP Ether Futures ETF (3068.HK) (Hong Kong Stock Exchange)
 
 ### News
