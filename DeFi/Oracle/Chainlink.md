@@ -4,6 +4,11 @@
 - https://www.coingecko.com/en/coins/chainlink
 
 ## News
+
+- [**Tokenizations next phase requires real-world data integration — Chainlink**](https://cointelegraph.com/news/tokenization-next-phase-real-world-data-integration)
+  <br/>_CoinTelegraph - April 25, 2024_
+- [**Chainlink debuts new protocol aimed at boosting cross-chain interoperability**](https://cointelegraph.com/news/chainlink-protocol-boost-cross-chain-interoperability)
+  <br/>_CoinTelegraph - April 24, 2024_
 - [**Grayscale Chainlink Trust Shares Rocket To 200% Premium**](https://thedefiant.io/grayscale-chainlink-trust-shares-rocket-to-200-premium)
   <br/>_The Defiant - November 08, 2023_
 
