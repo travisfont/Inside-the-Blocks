@@ -10,6 +10,9 @@
 
 ## News
 
+
+- [**Osmosis founder envisions Cosmos as Bitcoin's application layer in DeFi future**](https://cryptoslate.com/podcasts/osmosis-founder-envisions-cosmos-as-bitcoins-application-layer-in-defi-future/)
+  <br/>_CryptoSlate - April 29, 2024_
 - [**Cosmos chain Osmosis to hook up with Umee’s borrow/lend protocol**](https://blockworks.co/news/cosmos-dex-osmosis-merger-umee)
   <br/>_Blockworks - December 4, 2023_
 
