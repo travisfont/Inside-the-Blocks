@@ -1,5 +1,7 @@
 # Gravity Bridge
 
+- https://mapofzones.com/zones/gravity-bridge-3/overview
+
 ## Videos
 - https://www.youtube.com/watch?v=keD5gS-tRdU
 
