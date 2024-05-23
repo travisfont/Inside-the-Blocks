@@ -60,6 +60,7 @@
 - [**Real-World Asset Report - 2023-05**](https://forum.makerdao.com/t/real-world-asset-report-2023-05/21225)
 
 ### Discussions
+- https://forum.makerdao.com/t/reconciling-the-two-opposing-paths-for-decentralized-stablecoins/24280
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
