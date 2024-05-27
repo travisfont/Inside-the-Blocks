@@ -68,6 +68,8 @@
 
 ## Podcasts & Talks
 
+- [**Are Stablecoins a Threat to National Security**](https://www.youtube.com/watch?v=LRRrhpPPIlo)
+  <br/>_Bankless - May 27, 2024_
 - [**The Future of Stablecoins & Synthetic Dollars w/ Arthur Hayes & Guy Young**](https://www.youtube.com/watch?v=odZc9nvNVAY)
   <br/>_Empire - March 12, 2024_
 - [**Creating asset-backed stablecoins with the Reserve protocol**](https://www.youtube.com/watch?v=WgsvOIjHDmg)
