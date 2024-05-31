@@ -2,6 +2,7 @@
 
 - [**SEC Approves Spot Ethereum ETFs in Landmark Decision**](https://thedefiant.io/news/tradfi-and-fintech/u-s-securities-regulator-approves-spot-ether-etfs-in-landmark-decision)
   <br/>_The Defiant - May 23, 2024_
+- [**Bitcoin ETF Debuts in Hong Kong After Lengthy Approval Period**](https://bmpro.substack.com/p/bitcoin-etf-debuts-in-hong-kong-after)
 - The Defiant - [**Ethereum Software Client Centralization Sparks Concern**](https://thedefiant.io/ethereum-software-client-centralization-sparks-concern)
 - https://blockworks.co/news/reddit-community-points-ethereum
 - CoinDesk - [**Ethereum’s Shanghai Upgrade Is Complete, Starting New Era of Staking Withdrawals**](https://www.coindesk.com/tech/2023/04/12/ethereums-shanghai-upgrade-activates-starting-new-era-of-staking-withdrawals/)
