@@ -13,3 +13,7 @@
 ## Articles
 - [**Pay How You Want**](https://pyusd.mirror.xyz/Ss1e0V8A01CA3YFkayridGSYNhvOwK8norKFmdo61DQ)
   <br/>_PYUSD (Mirror) - November 14th, 2023_
+
+# Interviews
+- [**Inside PayPal's Blockchain Strategy: Insights from the Head of Crypto**](https://www.youtube.com/watch?v=MJUqfKr_QRY)
+  <br/>_The Defiant - May 27, 2024_
