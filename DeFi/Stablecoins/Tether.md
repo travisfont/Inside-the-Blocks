@@ -2,6 +2,8 @@
 
 ## News
 
+- [**Tether moves deeper into bitcoin mining with Bitdeer investment**](https://blockworks.co/news/tether-bitdeer-bitcoin-mining-investment)
+  <br/>_May 31, 2024_
 - [**Tether posted record $2.85B profit in Q4, driven by T-bills**](https://cointelegraph.com/news/tether-posted-record-2-85-billion-profit-q4-driven-treasury-bills)
   <br/>_CoinTelegraph - Feb. 1, 2024_
 - [**Tether made nearly $1B in monthly profit during Q4**](https://blockworks.co/news/tether-monthly-profit-q4)
