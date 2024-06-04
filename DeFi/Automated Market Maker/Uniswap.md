@@ -3,6 +3,8 @@
 - https://dune.com/projects/uniswap
 - https://app.intotheblock.com/insights/defi/protocols/uniswap
 - https://poolfish.xyz/pools/ethereum/uniswap
+- https://vote.uniswapfoundation.org/voters
+- https://www.tally.xyz/gov/uniswap/delegates
 
 ## Notable News
 - CoinDesk - [DeFi Exchange Uniswap Receives Enforcement Notice From the SEC](https://www.coindesk.com/policy/2024/04/10/defi-exchange-uniswap-receives-enforcement-notice-from-the-sec/)
