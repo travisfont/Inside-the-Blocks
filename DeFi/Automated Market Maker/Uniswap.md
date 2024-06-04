@@ -7,6 +7,7 @@
 - https://www.tally.xyz/gov/uniswap/delegates
 
 ## Notable News
+- CoinDesk - [Uniswap Postpones Protocol Upgrade Vote; UNI Tumbles 9%](https://www.coindesk.com/business/2024/05/31/uniswap-postpones-protocol-upgrade-vote-uni-tumbles-9/)
 - CoinDesk - [DeFi Exchange Uniswap Receives Enforcement Notice From the SEC](https://www.coindesk.com/policy/2024/04/10/defi-exchange-uniswap-receives-enforcement-notice-from-the-sec/)
 - Web3 is Going Just Great - [SEC sends Wells notice to Uniswap](https://www.web3isgoinggreat.com/single/uniswap-wells-notice)
 - [**Uniswap v3 code free to fork as BSL expires**](https://cointelegraph.com/news/uniswap-v3-code-free-to-fork-as-bsl-expires)
