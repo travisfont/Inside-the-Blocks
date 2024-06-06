@@ -1,5 +1,7 @@
 # Vidoes
 
+- [**New Bitcoin ETF Inflows Coming: Watch Out for Vanguard**](https://www.youtube.com/watch?v=3TLVyRoLlJs)
+  <br/>_Coin Bureau - June 2, 2024_
 - [**Why Bitcoin's Scarcity is an Illusion**](https://www.youtube.com/watch?v=zPQieyxTgRg)
   <br/>_Quantonomy - Mar 3, 2024_
 - [**Cryptocurrencies: The future of money**](https://www.youtube.com/watch?v=QTyzyP2Afy) (42:26)
