@@ -1,5 +1,13 @@
 # Articles
 
+## Staking & Validators
+- https://blocksunited.com/how-to-stake-cosmos-atom-tokens/
+- https://blocksunited.com/staking-atom-tokens-a-smart-investment-strategy/
+- https://blocksunited.com/stake-with-small-validators/
+- https://blocksunited.com/stake-directly-with-a-validator-vs-joining-a-staking-pool/
+- https://blocksunited.com/your-validator-was-jailed/
+- https://blocksunited.com/staking-cosmos-atom-on-coinbase/
+
 ## App-Chain Thesis
 
 - CoinGecko - [**What Are Appchains (Application-Specific Blockchains)**](https://www.coingecko.com/learn/what-are-appchains-application-specific-blockchains)
