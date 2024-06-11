@@ -29,6 +29,8 @@
 - https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills
 - [**Top 5 Crypto Projects Tokenizing Real-world Assets (RWAs) in 2024**](https://www.kucoin.com/learn/crypto/top-crypto-projects-tokenizing-real-world-assets)
   <br/>_Kucoin - January 5, 2024_
+- [**Deutsche Bank-Backed Taurus Starts Tokenizing German SME Loans**](https://www.coindesk.com/business/2023/12/14/deutsche-bank-backed-taurus-starts-tokenizing-german-sme-loans/)
+  <br/>_CoinDesk - Dec 14, 2023_
 - [**Coinbase uses Base to build digital asset platform for TradFi institutions**](https://blockworks.co/news/coinbase-platform-for-tradfi-institutions)
   <br/>_Blockworks - December 12, 2023_
 - [**DTCC closes deal to buy Securrency amid TradFi-crypto integrations**](https://blockworks.co/news/dtcc-acquisition-tradfi-crypto)
