@@ -31,6 +31,8 @@
 - https://www.ledger.com/academy/what-is-ethereum-restaking
 - https://www.coindesk.com/tech/2024/03/06/liquid-restaking-tokens-what-are-they-and-why-do-they-matter/
 - https://vitalik.eth.limo/general/2023/05/21/dont_overload.html
+- [**How AVSs Enable Scalable, Secure and Customizable Execution**](https://youtu.be/nPgxoZHrCIU?si=bCEgt6cQbrLLwFe6)
+  <br/>_Bell Curve - Jun 11, 2024_
 - [**DeFi Risk Modelling & Management with Marijo Radman and Benedikt Eikmanns of Alterscope**](https://www.youtube.com/watch?v=92DygbPDX10)
   <br/>_The Interop - April 30, 2024_
   
