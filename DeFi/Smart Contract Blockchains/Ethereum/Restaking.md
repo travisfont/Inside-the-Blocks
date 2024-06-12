@@ -1,5 +1,7 @@
 # Native Restaking 
 
+> See [**Restaking**](https://github.com/travisfont/Inside-the-Blocks/blob/main/DeFi/Liquid%20Staking.md#restaking) with Liquid Staking
+
 ## EigenLayer
 
 ### News
