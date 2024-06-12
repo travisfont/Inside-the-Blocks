@@ -15,6 +15,8 @@
 
 ### stETH: Lido (LDO)
 
+- https://blog.lido.fi/
+
 ### rETH: Rocket Pool (RPL)
 
 - https://messari.io/project/rocket-pool
