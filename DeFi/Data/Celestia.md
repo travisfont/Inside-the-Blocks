@@ -1,5 +1,14 @@
 # Celestia (TIA)
 
+## Official Resources
+- https://blog.celestia.org/
+- https://forum.celestia.org
+
+## Public Chain Overview
+- https://ping.pub/celestia
+
+---
+
 ## YouTube
 - Frens Validator - [**Dymension vs. Celestia: Strong Synergies or Competitors**](https://www.youtube.com/watch?v=kHirt1MgoS4)
 
