@@ -13,6 +13,8 @@
 - https://tokn1.com/
 
 ## News
+- [**Index Coop RWA basket builds on hyETH experiment**](https://blockworks.co/news/index-coop-rwa-token)
+  <br/>_Blockworks - June 19, 2024_
 - [**Circle debuts way to trade BlackRock tokenized fund shares for USDC**](https://blockworks.co/news/blackrock-tokenized-fund-trading-circle-usdc)
   <br/>_Blockworks - April 11, 2024_
 - [**RWA Tokens Rally 81% In One Week As Institutions Dive Deeper Into On-Chain Finance**](https://thedefiant.io/rwa-tokens-rally-81-in-one-week-as-institutions-dive-deeper-into-on-chain-finance)
