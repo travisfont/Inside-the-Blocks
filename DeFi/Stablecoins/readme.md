@@ -24,6 +24,10 @@
 
 ## Notable News
 
+- [**Binance's Stablecoins shakeup**](https://www.linkedin.com/posts/thepixelpai_binance-to-restrict-unauthorized-stablecoins-activity-7203878264107331585-OCpX/)
+  <br/>_PixelPai - June 18, 2024_
+- [**Uphold to delist USDT and 5 stablecoins by July 1, citing MiCA**](https://cointelegraph.com/news/uphold-delist-6-stablecoins-by-july-1-citing-mi-ca)
+  <br/>_CoinTelegraph - June 18, 2024_
 - Blockworks - [**SocGen’s crypto unit debuts euro-pegged stablecoin**](https://blockworks.co/news/socgen-euro-pegged-stablecoin)
 - [**European Banking Authority has new rules for stablecoin issuer recovery plans**](https://blockworks.co/news/european-union-stablecoins-regulation)
   <br/>_Blockworks - November 8, 2023_
