@@ -21,6 +21,7 @@
 
 - https://messari.io/project/rocket-pool
 - https://www.reddit.com/r/rocketpool/
+- https://www.youtube.com/@RocketFuel-RPL
 
 ### ETHx: Stader (SD)
 
