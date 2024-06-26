@@ -70,6 +70,10 @@
 - Threshold Network - [**tBTC is Taking Bitcoin Cross-Chain with Wormhole**](https://blog.threshold.network/tbtc-is-taking-bitcoin-cross-chain-integration-of-wormhole-will-enable-deployment-on-20-side-chains-catalyze-bridging-of-750m-in-value-across-defi/)
 - Arbitrum Foundation - [**tBTC (STIP - Round 1)**](https://forum.arbitrum.foundation/t/tbtc-final-stip-round-1/17022)
 
+## SolvBTC
+- https://app.solv.finance/solvbtc
+- https://pancakeswap.finance/info/v3/pairs/0x12197d7a4fE2d67F9f97ae64D82A44c24B7Ad407?chain=bsc
+
 ## ETH Derivatives
 
 - [**Bitcoin on Ethereum (renBTC, wBTC, tBTC, sBTC)**](https://www.youtube.com/watch?v=iExly7FGKAQ)
