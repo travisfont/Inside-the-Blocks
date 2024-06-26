@@ -7,6 +7,8 @@
 
 ## News
 
+- [**Arbitrum DAO Plans To Invest $29M Worth Of ARB Into On-Chain RWAs**](https://thedefiant.io/news/defi/arbitrum-dao-plans-35m-arb-investment-into-on-chain-rwas)
+  <br/>_The Defiant - June 25, 2024_
 - Blockworks - [**Arbitrum suffers ‘partial outage’ amid traffic influx**](https://blockworks.co/news/arbitrum-suffers-partial-outage)
 - Decrypt - [**Arbitrum Airdrops $120 Million in ARB to DAOs**](https://decrypt.co/137848/arbitrum-airdrops-120-million-in-arb-to-daos)
 - Decrypt - [**Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs**](https://decrypt.co/123727/ethereum-layer-2-solution-arbitrum-announces-token-airdrop-opens-tech-stack-devs)
