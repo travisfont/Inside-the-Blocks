@@ -6,6 +6,8 @@
 
 ## Derivatives
 
+### Liquid Staking Tokens (LSTs)
+
 - **Jito** (jitoSOL)
 - **Marinade** (mSOL)
 - **Jupiter** (jupSOL)
