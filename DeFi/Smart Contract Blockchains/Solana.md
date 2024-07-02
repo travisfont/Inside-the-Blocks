@@ -6,6 +6,12 @@
 
 ## Derivatives
 
+### Wrapped Tokens
+
+- Wrapped SOL (wSOL)
+  -  https://www.coingecko.com/en/coins/wrapped-solana 
+  - https://station.jup.ag/guides/general/wrapped-sol
+
 ### Liquid Staking Tokens (LSTs)
 
 - **Jito** (jitoSOL)
