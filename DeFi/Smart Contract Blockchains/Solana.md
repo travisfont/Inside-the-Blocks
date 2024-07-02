@@ -8,7 +8,7 @@
 
 ### Wrapped Tokens
 
-- Wrapped SOL (wSOL)
+- **Wrapped SOL** (wSOL)
   -  https://www.coingecko.com/en/coins/wrapped-solana 
   - https://station.jup.ag/guides/general/wrapped-sol
 
