@@ -1,5 +1,9 @@
 # Solana (SOL)
 
+## Charts
+
+- Dune (by @21co) - [**Solana Liquid Staking Tokens**](https://dune.com/21co/solana-liquid-staking-tokens)
+
 ## Deriavates
 
 - jitoSOL
