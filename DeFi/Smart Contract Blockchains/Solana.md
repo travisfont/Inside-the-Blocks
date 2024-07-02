@@ -4,11 +4,29 @@
 
 - Dune (by @21co) - [**Solana Liquid Staking Tokens**](https://dune.com/21co/solana-liquid-staking-tokens)
 
-## Deriavates
+## Derivatives
 
-- jitoSOL
-- mSOL
-- bSOL
+- **Jito** (jitoSOL)
+- **Marinade** (mSOL)
+- **Jupiter** (jupSOL)
+- **Lido** (stSOL)
+- **Drift** (dSOL)
+- SolBlaze (bSOL)
+- The Vault (vSOL)
+- Helius (hSO)
+- Solana Compass (compassSOL)
+- Bonk (bonkSOL)
+- Edgevana (edgeSO)
+- Juicy Stake (jucySOL)
+- Laine (laineSOL)
+- Stronghold LST (strongSOL)
+- Pumpkins Staked SOL (pumpkinSOL)
+- SolanaHub (hubSOL)
+- Overclock (clockSOL)
+- Pathfinders SOL (pathSOL)
+- Power Staked SOL (pwrSOL)
+- Superfast Staked SOL (superSOL)
+- Lantern Staked SOL (lanternSOL)
 
 ---
 
