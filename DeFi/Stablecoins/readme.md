@@ -23,7 +23,8 @@
 - -..
 
 ## Notable News
-
+- [**Circle Becomes Europe’s First Compliant Stablecoin Issuer**](https://thedefiant.io/news/defi/circle-becomes-europe-s-first-compliant-stablecoin-issuer)
+  <br/>_The Defiant - July 01, 2024_
 - [**Binance's Stablecoins shakeup**](https://www.linkedin.com/posts/thepixelpai_binance-to-restrict-unauthorized-stablecoins-activity-7203878264107331585-OCpX/)
   <br/>_PixelPai - June 18, 2024_
 - [**Uphold to delist USDT and 5 stablecoins by July 1, citing MiCA**](https://cointelegraph.com/news/uphold-delist-6-stablecoins-by-july-1-citing-mi-ca)
