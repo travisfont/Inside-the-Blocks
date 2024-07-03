@@ -5,6 +5,7 @@
 - https://flipsidecrypto.xyz/
 - https://app.santiment.net/
 - Coinglass - [Liquidation Heatmap](https://www.coinglass.com/LiquidationData)
+- https://ccdata.io/research/chart-of-the-week
 
 ## Digital Currencies
 - **CDBC**
