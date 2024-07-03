@@ -1,17 +1,17 @@
 # Derivatives
 
+## Charts
+
 - https://dune.com/queries/3295364/5517192
 - mETH, wBETH, oETH, sfrxETH, stETH, swETH, osETH, cbETH, ankrETH, LsETH
 
-## Liquid Staking Derivatives (LSD)
+---
 
-- [What Are Staking Derivatives](https://medium.com/citadel-one/what-are-staking-derivatives-8fd86ed315a2)
-- [What Are Liquid Staking Derivatives](https://www.datawallet.com/crypto/what-are-liquid-staking-derivatives)
-- [What Are Staking Derivatives](https://limechain.tech/blog/liquid-staking-derivatives-explained/)
+## Wrapped Tokens
 
-## Liquid Staking Tokens (LST)
+### WETH
 
-![image](https://github.com/travisfont/Inside-the-Blocks/assets/2539998/2ab3fe01-a812-4dba-8edc-5a5cb8f6e0cc)
+## Liquid Staking Tokens (LST) / Liquid Staking Derivatives (LSD)
 
 ### stETH: Lido (LDO)
 
@@ -34,6 +34,8 @@
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
 
-## LsETH: Liquid Collective
+#### LsETH: Liquid Collective
 
 - https://liquidcollective.io/what-is-lseth/
+
+#### MegaETH (MegaLabs)
