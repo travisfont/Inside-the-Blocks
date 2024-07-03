@@ -6,20 +6,36 @@
 - [**The Different Types of Cryptocurrency Tokens Explained**](https://blog.makerdao.com/the-different-types-of-cryptocurrency-tokens-explained/)
 - [**What is a blockchain token: 5 functions in DeFi**](https://academy.youngplatform.com/en/cryptonomics/what-is-a-blockchain-token-5-functions-in-defi/)
 - [**What types of crypto tokens exist**](https://vivid.money/en-eu/feed/what-types-of-crypto-tokens-exist/)
+
 ### Transactional Tokens
 - [**Transactional Coins vs. Utility Tokens**](https://medium.com/acreapp/transactional-coins-vs-utility-tokens-ad5632c8f4cf)
+
 ### Governance Tokens
 - CoinGecko - [**What Are the Differences Between Governance and Utility Tokens**](https://www.coingecko.com/learn/governance-vs-utility-tokens)
+
 ### Utility Tokens
 - [**Transactional Coins vs. Utility Tokens**](https://medium.com/acreapp/transactional-coins-vs-utility-tokens-ad5632c8f4cf)
+
 ### Vote Escrowed Tokens
 - CoinGecko - [**What are veTokens and Understanding veTokenomics**](https://www.coingecko.com/learn/vetokens-and-vetokenomics)
+
 ### Interest-Bearing Tokens (ibTokens)
 - [Aalpaca Finance](https://docs.alpacafinance.org/tokenomics/ibtokens)
+
 ### Compound Tokens (cTokens)
 - [Compound Protocol](https://docs.compound.finance/v2/ctokens)
 
 ## Derivatives
+
+### Liquid Staking Derivatives (LSD)
+
+- [What Are Staking Derivatives](https://medium.com/citadel-one/what-are-staking-derivatives-8fd86ed315a2)
+- [What Are Liquid Staking Derivatives](https://www.datawallet.com/crypto/what-are-liquid-staking-derivatives)
+- [What Are Staking Derivatives](https://limechain.tech/blog/liquid-staking-derivatives-explained/)
+
+### Liquid Staking Tokens (LST)
+
+![image](https://github.com/travisfont/Inside-the-Blocks/assets/2539998/2ab3fe01-a812-4dba-8edc-5a5cb8f6e0cc)
 
 ### Briged Bitcoin
 
