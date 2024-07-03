@@ -28,3 +28,4 @@
 ## To Review
 - > https://www.compoundingquality.net/p/how-philip-fisher-selects-the-best
 - > https://www.compoundingquality.net/p/the-importance-of-growth
+- Monthly Recurring Revenue (MRR)
