@@ -51,6 +51,8 @@
 - Jake Pahor (Twitter) - [Solana the Ethereum killer or just another Layer 1 blockchain](https://twitter.com/jake_pahor/status/1736566966918537443)
 
 ## Videos
+- [**The Rise & Fall & Rise of Solana**](https://www.youtube.com/watch?v=QHP3cIJiVBs)
+  <br/>_The Defiant - Jun 26, 2024_
 - [**Time to Buy SOL: What You Need to Know**](https://www.youtube.com/watch?v=t8J9GNQkyyc)
   <br/>_Coinsider - November 10, 2023_
 
