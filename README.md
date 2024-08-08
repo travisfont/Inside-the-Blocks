@@ -37,6 +37,7 @@ Format References:
 	- [Proof of Reserves by Cryptocurrency Exchanges](https://www.geckoterminal.com/proof_of_reserves/exchanges)
 	- [ZkSync Pools](https://www.geckoterminal.com/zksync/pools)
  - [CryptoQuant](https://cryptoquant.com/analytics/dashboard)
+ - https://platform.arkhamintelligence.com
 
 ### Timeline of Events
 - **CRV Launch** -Aug 15, 2020 <sup>[[ref-dl](https://defillama.com/protocol/curve)]<sup>
