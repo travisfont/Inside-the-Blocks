@@ -20,6 +20,10 @@
 - [**BitGo Granted German Crypto Custody License by BaFin**](https://www.coindesk.com/policy/2023/11/01/bitgo-granted-german-crypto-custody-license-by-bafin/)
   <br/>_CoinDesk - November 1, 2023_
 
+## MicroStrategy
+- [**MicroStrategy raises holdings to 226,500 bitcoin, introduces BTC yield metric**](https://www.theblock.co/post/309000/microstrategy-raises-holdings-to-226500-bitcoin-introduces-btc-yield-metric)
+  <br/>_The Block - August 1, 2024_
+
 ## Havling
 
 - [**Welcome to 'Halve Time'**](https://blog.bitpanda.com/en/welcome-halve-time)
