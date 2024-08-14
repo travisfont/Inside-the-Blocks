@@ -1,5 +1,6 @@
 # Articles
 
+- CCData - [**Into the Ether: Weighing up the Impact of the ETH ETFs**](https://ccdata.io/blogs/into-the-ether-weighing-up-the-impact-of-the-eth-etfs)
 - Vitalik - [**Ethereum has blobs: Where do we go from here**](https://vitalik.eth.limo/general/2024/03/28/blobs.html)
 - Token Terminal Research - [**The Ethereum Investment Framework**](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework)
 - Umbra Research - [**Ethereum's Supply Chain, Part 1**](https://www.umbraresearch.xyz/writings/ethereum-supply-chain-part-1)
