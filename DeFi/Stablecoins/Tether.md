@@ -2,6 +2,8 @@
 
 ## News
 
+- [**$5.2 Billion: Tether Reports Record Profit as Bitcoin Holdings Soar to 80,000 BTC**](https://www.cryptoglobe.com/latest/2024/08/5-2-billion-tether-reports-record-profit-as-bitcoin-holdings-soar-to-80000-btc/)
+  <br/>_Cryptoglobe - August 1, 2024_
 - [**Tether moves deeper into bitcoin mining with Bitdeer investment**](https://blockworks.co/news/tether-bitdeer-bitcoin-mining-investment)
   <br/>_May 31, 2024_
 - [**Tether posted record $2.85B profit in Q4, driven by T-bills**](https://cointelegraph.com/news/tether-posted-record-2-85-billion-profit-q4-driven-treasury-bills)
