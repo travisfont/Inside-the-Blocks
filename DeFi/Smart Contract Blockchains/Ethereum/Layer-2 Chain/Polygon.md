@@ -7,3 +7,6 @@
   <br/>_The Defiant - October 27, 2023_
 - [**Polygon Deploys POL Token On Ethereum**](https://thedefiant.io/polygon-deploys-pol-token-on-ethereum)
   <br/>_The Defiant - October 25, 2023_
+
+## Articles
+- Blockworks - [**Polygon Protocol Governance Call (PPGC) #20**](https://app.blockworksresearch.com/unlocked/polygon-protocol-governance-call-ppgc-20)
