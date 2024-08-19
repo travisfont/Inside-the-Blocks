@@ -17,6 +17,8 @@
 - https://cryptorank.io/price/tbtc
 - https://defillama.com/protocol/tbtc
 - https://dune.com/threshold/tbtc
+- [**BitGo Integrates Stacks L2 and Supports sBTC Post Nakamoto Upgrade Amid Institutional Demand**](https://thedefiant.io/news/cefi/bitgo-integrates-stacks-l2-supports-sbtc-post-nakamoto-upgrade-amid-demand)
+  <br/>_The Defiant - xxx, 2024_
 
 ### Stacks Bitcoin (sBTC)
 - https://stacks-network.github.io/stacks/sbtc.pdf
