@@ -23,6 +23,8 @@
 - -..
 
 ## Notable News
+- [**6 Stablecoins That Are Driving the Sector’s Two-Year High in Market Capitalization**](https://unchainedcrypto.com/6-stablecoins-that-are-driving-the-sectors-two-year-high-in-market-capitalization/)
+  <br/>_Unchained - August 30, 2024_
 - [**Circle Becomes Europe’s First Compliant Stablecoin Issuer**](https://thedefiant.io/news/defi/circle-becomes-europe-s-first-compliant-stablecoin-issuer)
   <br/>_The Defiant - July 01, 2024_
 - [**Binance's Stablecoins shakeup**](https://www.linkedin.com/posts/thepixelpai_binance-to-restrict-unauthorized-stablecoins-activity-7203878264107331585-OCpX/)
