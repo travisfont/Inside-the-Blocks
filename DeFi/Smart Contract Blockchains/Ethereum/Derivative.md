@@ -10,6 +10,10 @@
 ## Wrapped Tokens
 
 ### WETH
+- https://www.coingecko.com/en/coins/weth
+
+### Wrapped eETH
+- https://www.coingecko.com/en/coins/wrapped-eeth
 
 ## Liquid Staking Tokens (LST) / Liquid Staking Derivatives (LSD)
 
