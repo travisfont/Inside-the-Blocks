@@ -8,6 +8,7 @@
 
 ## Articles
 
+- CoinGeck - [Automated Market Makers (AMMs)](https://www.coingecko.com/learn/automated-market-makers-amms)
 - https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm
 - https://www.coindesk.com/learn/what-is-an-automated-market-maker/
 - https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers
