@@ -18,6 +18,9 @@
 - ibEUR
   - https://www.geckoterminal.com/eth/pools/0xb37d6c07482bc11cd28a1f11f1a6ad7b66dec933
 
+## Charts & Data
+- https://dune.com/21co/stablecoin-monitor
+
 ## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
