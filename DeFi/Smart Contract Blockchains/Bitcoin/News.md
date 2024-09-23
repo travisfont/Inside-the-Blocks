@@ -15,6 +15,8 @@
 
 ## BitGo
 
+- [**BitGo launches regulated custody platform for native protocol tokens**](https://cointelegraph.com/news/bit-go-launches-regulated-custody-platform-native-protocol-tokens)
+  <br/>_CoinTelegraph - September 16, 2024_
 - [**BitGo Wants to Be 'Exchange Agnostic' as A Qualified Custodian**](https://blockworks.co/news/bitgo-crypto-cold-storage-custodian)
   <br/>_Blockworks - November 3, 2023_
 - [**BitGo Granted German Crypto Custody License by BaFin**](https://www.coindesk.com/policy/2023/11/01/bitgo-granted-german-crypto-custody-license-by-bafin/)
