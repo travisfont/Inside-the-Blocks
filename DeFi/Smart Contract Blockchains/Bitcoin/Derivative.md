@@ -12,6 +12,27 @@
 - https://wbtc.network/dashboard/partners
 - Hiro Mempool - [sBTC vs WBTC: A Comparison of Tokenized Bitcoin](https://www.hiro.so/blog/sbtc-vs-wbtc-a-comparison-of-tokenized-bitcoin)
 
+# Coinbase Bitcoin (cbBTC)
+
+## News
+- https://blockworks.co/news/coinbase-wrapped-bitcoin-competitor-cbbtc
+- [Coinbase Promotes cbBTC, Wrapped Bitcoin Alternative for Base Blockchain](https://www.coindesk.com/business/2024/08/14/coinbase-promotes-cbbtc-wrapped-bitcoin-version-for-base-blockchain)
+- https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout
+- https://thedefiant.io/news/tokens/coinbase-begins-cbbtc-rollout
+- https://cryptoslate.com/coinbase-cbbtc-could-challenge-bitgos-wbtc-supply-in-6-months/
+- https://cointelegraph.com/news/coinbase-cbbtc-boost-bitcoin-defi
+- https://cointelegraph.com/news/coinbase-cb-btc-surges-third-largest-wrapped-btc-token-just-one-week
+- https://www.coindesk.com/business/2024/09/12/coinbases-wrapped-bitcoin-cbbtc-goes-live
+- https://cryptoslate.com/coinbases-cbbtc-launches-seeking-defi-boom-on-base-and-ethereum/
+- https://cryptoslate.com/aaves-bid-to-integrate-coinbases-cbbtc-sparks-community-concerns/
+- https://cryptoslate.com/coinbases-cbbtc-soars-to-100m-in-first-day-despite-justin-suns-criticism/
+- https://cointelegraph.com/news/coinbase-s-cb-btc-wrapped-bitcoin-coming-to-solana
+- https://cointelegraph.com/news/coinbase-launches-wrapped-bitcoin-product
+- https://cointelegraph.com/news/coinbase-chief-legal-officer-responds-to-cb-btc-service-terms-fears
+- https://decrypt.co/250733/coinbase-wrapped-bitcoin-solana
+- https://decrypt.co/248976/aave-considers-coinbases-cbbtc-wrapped-bitcoin-sparking-decentralization-debate
+- https://www.dlnews.com/articles/defi/coinbase-adds-solana-cbbtc-support-bitcoin-backed-token-race/
+
 ### Threshold Bitcoin (tBTC)
 - https://threshold.network/earn/btc/
 - https://cryptorank.io/price/tbtc
