@@ -12,6 +12,21 @@
 - https://wbtc.network/dashboard/partners
 - Hiro Mempool - [sBTC vs WBTC: A Comparison of Tokenized Bitcoin](https://www.hiro.so/blog/sbtc-vs-wbtc-a-comparison-of-tokenized-bitcoin)
 
+### News
+- [BitGo moves to allay fears over WBTC custodial changes](https://blockworks.co/news/bitgo-wbtc-custodial-changes)
+- [With wBTC facing scrutiny, Solana-based competitors have an opportunity](https://blockworks.co/news/lightspeed-newsletter-wbtc-solana-opportunity)
+- https://thedefiant.io/news/tokens/bitgo-taps-layerzero-for-multi-chain-wbtc-rollout
+- https://cointelegraph.com/news/bitgo-ceo-argues-wbtc-security-unchanged-amid-concerns
+- https://cointelegraph.com/news/bitgo-wrapped-bitcoin-custody-multi-jurisdictions-institutions-tron-united-states
+- https://www.coindesk.com/business/2024/09/03/bitgo-ceo-says-wrapped-bitcoins-critics-arent-being-intellectually-honest-about-their-concerns
+- https://thedefiant.io/news/defi/bitcoin-defi-protocol-seeks-to-save-wbtc-from-justin-sun
+- https://cointelegraph.com/news/bitgo-deploys-wrapped-bitcoin-avalanche-bnb-chain-omnichain-expansion
+- https://cryptoslate.com/wbtc-creator-bitgo-challenges-tether-circle-with-reward-focused-usds-stablecoin/
+- https://thedefiant.io/news/defi/aave-community-opposes-offboarding-wbtc-despite-looming-restructure
+- https://thedefiant.io/news/tradfi-and-fintech/21shares-21co-integrate-chainlink-proof-reserve-21btc-on-ethereum-solana-c84089a6
+- https://cryptoslate.com/wbtc-creator-bitgo-challenges-tether-circle-with-reward-focused-usds-stablecoin/
+- https://thedefiant.io/news/defi/aave-community-opposes-offboarding-wbtc-despite-looming-restructure
+
 # Coinbase Bitcoin (cbBTC)
 
 ## News
