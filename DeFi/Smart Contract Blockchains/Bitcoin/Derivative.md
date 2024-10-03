@@ -55,10 +55,18 @@
 - https://dune.com/threshold/tbtc
 - [**BitGo Integrates Stacks L2 and Supports sBTC Post Nakamoto Upgrade Amid Institutional Demand**](https://thedefiant.io/news/cefi/bitgo-integrates-stacks-l2-supports-sbtc-post-nakamoto-upgrade-amid-demand)
   <br/>_The Defiant - xxx, 2024_
+ 
+#### News
+- https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration
+- https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46
 
 ### Stacks Bitcoin (sBTC)
 - https://stacks-network.github.io/stacks/sbtc.pdf
 - https://www.hiro.so/blog/unlocking-bitcoins-full-potential-with-sbtc-the-first-decentralized-bitcoin-peg
+- https://decrypt.co/249825/bitcoin-stacks-l2-brings-its-sbtc-to-the-aptos-network
+
+### nBTC
+- https://cointelegraph.com/news/nomic-ethereum-support-decentralized-bitcoin-custody-testnet
 
 ### eBTC
 - The Defiant - [**Badger Launches 0% Interest Bitcoin Lending Protocol eBTC**](https://thedefiant.io/badger-launches-0-interest-bitcoin-lending-protocol-ebtc) (March 26, 2024)
@@ -70,7 +78,6 @@
 - https://www.coingecko.com/en/coins/huobi-btc
 - https://www.hecochain.com/en-us/assets/
 
-
 ## Liquid Staked Bitcoin
 
 - [**Liquid staked bitcoin provides new yield option for BTC holders**](https://blockworks.co/news/liquid-staked-bitcoin-yield-option-btc-holders)
@@ -78,6 +85,20 @@
 
 ### stBTC
 
+### Swell BTC (swBTC)
+https://www.coindesk.com/tech/2024/08/14/ethereum-based-swell-imports-wrapped-bitcoin-to-serve-as-liquid-restaking-token
+
+### Lombard Staked BTC (LBTC)
+
+### Core Blockchain Liquid Staking BTC (lstBTC)
+https://decrypt.co/247896/core-lstbtc-bitcoin-staking-liquidity
+
+### yBTC
+https://thedefiant.io/news/defi/bnb-chain-welcomes-ybtc-and-core-launches-lstbtc-as-bitcoin-staking-heats-up
+
+Stacks Zest Protocol (BTCz)
+https://cointelegraph.com/news/binance-labs-zest-protocol-btcz-token-bitcoin-defi
+https://decrypt.co/247944/zest-protocol-says-liquid-staking-is-coming-to-bitcoin-with-btcz
 ----
 
 ### Articles
