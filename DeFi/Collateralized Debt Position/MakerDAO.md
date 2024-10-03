@@ -64,6 +64,8 @@
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
 ### Podcasts & Interviews
+- [**Sky Aave Force and the DeFi Renaissance w/ Stani Kulechov & Rune Christensen**](https://www.youtube.com/watch?v=2n_5xL2Hbh8)
+  <br/>_Bell Curve - Oct 2, 2024_
 - [**Debating the MakerDAO Endgame with Vance Spencer, Mark Phillips, & Hasu**](https://www.youtube.com/watch?v=Sb3WPcG7HA8)
   <br/>_0xResearch - March 8, 2024_
 - [**From Crash of 2020 to Complaining About MakerDAO’s Rate Hike**](https://www.youtube.com/watch?v=T1Tx1FG0KQQ)
@@ -71,11 +73,11 @@
 - [**Crypto Has A Big Problem Says MakerDAO Co-Founder**](https://www.youtube.com/watch?v=KU8otKxaXr8)
   <br/>_The Defiant - Nov 27, 2023_
 - [**Decoding the Final Play: Unveiling Maker DAO's End Game**](https://www.youtube.com/watch?v=14bKR_gckxw)
-  <br/>_xxx - October 11, 2023_
+  <br/>_Korea Blockchain Week - October 11, 2023_
 - [**MakerDAO's Endgame with Rune Christensen**](https://tokenterminal.com/interview/makerdao-endgame) <sup>([YouTube](https://www.youtube.com/watch?v=_MaAnF97Qiw))</sup>
   <br/>_Token Terminal - Jun 7, 2023_
 - [**Rune Christensen’s Audacious Plan to Fix DAO Governance**](https://www.youtube.com/watch?v=A1igTqpoPHg)
-  <br/>_Unchained - August 22, 2023 _
+  <br/>_Unchained - August 22, 2023_
 
 ## Spark Protocol
 
