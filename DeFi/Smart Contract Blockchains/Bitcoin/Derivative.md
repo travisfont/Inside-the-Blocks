@@ -78,6 +78,13 @@
 - https://www.coingecko.com/en/coins/huobi-btc
 - https://www.hecochain.com/en-us/assets/
 
+### 21.co Wrapped Bitcoin (21BTC)
+https://cointelegraph.com/news/21-co-launches-bitcoin-wrapper-ethereum
+https://cointelegraph.com/news/21-co-bitcoin-wrapper-chainlink-proof-of-reserve
+https://thedefiant.io/news/tradfi-and-fintech/21shares-21co-integrate-chainlink-proof-reserve-21btc-on-ethereum-solana-c84089a6
+https://cryptoslate.com/21-co-integrates-chainlink-to-enhance-21btc-transparency-via-real-time-proof-of-reserves
+https://cryptoslate.com/21shares-launches-wrapped-bitcoin-21btc-on-ethereum-amid-wbtc-challenges
+
 ## Liquid Staked Bitcoin
 
 - [**Liquid staked bitcoin provides new yield option for BTC holders**](https://blockworks.co/news/liquid-staked-bitcoin-yield-option-btc-holders)
@@ -96,9 +103,13 @@ https://decrypt.co/247896/core-lstbtc-bitcoin-staking-liquidity
 ### yBTC
 https://thedefiant.io/news/defi/bnb-chain-welcomes-ybtc-and-core-launches-lstbtc-as-bitcoin-staking-heats-up
 
-Stacks Zest Protocol (BTCz)
+## External Blockchains
+
+### Stacks Zest Protocol (BTCz)
 https://cointelegraph.com/news/binance-labs-zest-protocol-btcz-token-bitcoin-defi
 https://decrypt.co/247944/zest-protocol-says-liquid-staking-is-coming-to-bitcoin-with-btcz
+
+
 ----
 
 ### Articles
