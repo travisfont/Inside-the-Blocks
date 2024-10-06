@@ -109,6 +109,9 @@ https://thedefiant.io/news/defi/bnb-chain-welcomes-ybtc-and-core-launches-lstbtc
 https://cointelegraph.com/news/binance-labs-zest-protocol-btcz-token-bitcoin-defi
 https://decrypt.co/247944/zest-protocol-says-liquid-staking-is-coming-to-bitcoin-with-btcz
 
+### ckBTC
+
+- Strategist (via X) - [ckBTC on ICP Is Coming to Cosmos Ecosystem](https://x.com/strategist_pr/status/1838154217716122013)
 
 ----
 
