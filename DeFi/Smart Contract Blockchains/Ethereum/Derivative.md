@@ -38,6 +38,9 @@
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
 
+### Spark Wrapped Ethereum tokens (spWETH)
+- CoinTelegraph - [User loses $32 million spWETH in a sophisticated phishing attack](https://cointelegraph.com/news/user-loses-32-million-sp-weth-sophisticated-phishing-attack)
+
 #### LsETH: Liquid Collective
 
 - https://liquidcollective.io/what-is-lseth/
