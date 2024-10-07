@@ -113,6 +113,10 @@
 
 - Strategist (via X) - [ckBTC on ICP Is Coming to Cosmos Ecosystem](https://x.com/strategist_pr/status/1838154217716122013)
 
+### UniBTC 
+
+- [Bedrock Vulnerability Allows Hacker To Drain $2M From UniBTC Liquidity Pools](https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools)
+
 ----
 
 ### Articles
