@@ -14,6 +14,7 @@
 
 ### News
 - https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring
+- https://thedefiant.io/news/defi/wrapped-bitcoin-transfers-reserves-ahead-of-controversial-restructure
 - [BitGo moves to allay fears over WBTC custodial changes](https://blockworks.co/news/bitgo-wbtc-custodial-changes)
 - [With wBTC facing scrutiny, Solana-based competitors have an opportunity](https://blockworks.co/news/lightspeed-newsletter-wbtc-solana-opportunity)
 - https://thedefiant.io/news/tokens/bitgo-taps-layerzero-for-multi-chain-wbtc-rollout
