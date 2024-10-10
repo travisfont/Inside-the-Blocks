@@ -13,6 +13,7 @@
 - Hiro Mempool - [sBTC vs WBTC: A Comparison of Tokenized Bitcoin](https://www.hiro.so/blog/sbtc-vs-wbtc-a-comparison-of-tokenized-bitcoin)
 
 ### News
+- https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring
 - [BitGo moves to allay fears over WBTC custodial changes](https://blockworks.co/news/bitgo-wbtc-custodial-changes)
 - [With wBTC facing scrutiny, Solana-based competitors have an opportunity](https://blockworks.co/news/lightspeed-newsletter-wbtc-solana-opportunity)
 - https://thedefiant.io/news/tokens/bitgo-taps-layerzero-for-multi-chain-wbtc-rollout
