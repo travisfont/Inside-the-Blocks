@@ -6,6 +6,8 @@
 - https://app.santiment.net/
 - Coinglass - [Liquidation Heatmap](https://www.coinglass.com/LiquidationData)
 - https://ccdata.io/research/chart-of-the-week
+- [**CoinDesk Indices**](https://www.coindesk.com/indices)
+- [**BitPanda Indices**](https://www.bitpanda.com/en/invest/bci-bitpanda-crypto-index)
 
 ## Digital Currencies
 - **CDBC**
