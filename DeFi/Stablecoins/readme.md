@@ -107,6 +107,11 @@
 
 ## Misc. Stablecoin Mentions
 
+####  Global Dollar (USDG)
+- [**Robinhood and Kraken launch new global stablecoin network with Paxos's USDG**](https://cryptobriefing.com/launch-usdg-stablecoin-network/)
+  <br/>_Crypto Briefing - November 04, 2024_
+- [**Introducing Global Dollar Network**](https://www.prnewswire.com/news-releases/introducing-global-dollar-network---an-open-network-to-accelerate-and-reward-global-stablecoin-adoption-driven-by-anchorage-digital-bullish-galaxy-digital-kraken-nuvei-paxos-and-robinhood-302295847.html)
+  <br/>_PR Newswire - November 04, 2024_
 #### GHO
 - Aave - [**Introducing: GHO**](https://governance.aave.com/t/introducing-gho/8730/1)
 #### USN 
