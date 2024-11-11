@@ -1,4 +1,6 @@
-# Curve USD (crvUSD)
+# Curve.Fi USD (crvUSD)
+
+- https://etherscan.io/token/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e
 
 ## News
 
