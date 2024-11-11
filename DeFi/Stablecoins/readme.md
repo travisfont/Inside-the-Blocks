@@ -6,6 +6,7 @@
 - Dai (DAI)
 - USD Coin (USDC) 
 - Tether (USDT)
+- [**Curve.Fi USD**](/DeFi/Stablecoins/Curve%20USD.md) (crvUSD)
 - Binance (BUSD)
 - FRAX
 - PAXG
