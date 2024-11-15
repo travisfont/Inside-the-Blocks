@@ -7,6 +7,8 @@
 
 ## News
 
+- [**Arbitrum to unlock $2.32B in vested tokens on March 16**](https://cointelegraph.com/news/arbitrum-2-billion-vested-token-unlock)
+  <br/>_CoinTelegraph - March 11, 2024_
 - [**Arbitrum DAO Plans To Invest $29M Worth Of ARB Into On-Chain RWAs**](https://thedefiant.io/news/defi/arbitrum-dao-plans-35m-arb-investment-into-on-chain-rwas)
   <br/>_The Defiant - June 25, 2024_
 - Blockworks - [**Arbitrum suffers ‘partial outage’ amid traffic influx**](https://blockworks.co/news/arbitrum-suffers-partial-outage)
