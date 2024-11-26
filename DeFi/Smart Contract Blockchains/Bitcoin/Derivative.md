@@ -49,6 +49,7 @@
 - https://decrypt.co/250733/coinbase-wrapped-bitcoin-solana
 - https://decrypt.co/248976/aave-considers-coinbases-cbbtc-wrapped-bitcoin-sparking-decentralization-debate
 - https://www.dlnews.com/articles/defi/coinbase-adds-solana-cbbtc-support-bitcoin-backed-token-race/
+- https://thedefiant.io/education/premium-tutorials/a-guide-to-getting-started-with-coinbase-s-new-cbbtc
 
 ### Threshold Bitcoin (tBTC)
 - https://threshold.network/earn/btc/
@@ -69,6 +70,10 @@
 
 ### nBTC
 - https://cointelegraph.com/news/nomic-ethereum-support-decentralized-bitcoin-custody-testnet
+
+### Ether.fi Liquid Restaking Bitcoin (eBTC)
+- [**eBTC: Ether.fi’s New Bitcoin LRT**](https://thedefiant.io/education/premium-tutorials/ebtc-ether-fi-s-new-bitcoin-lrt)
+  <br/>_The Defiant - September 09, 2024_
 
 ### eBTC
 - The Defiant - [**Badger Launches 0% Interest Bitcoin Lending Protocol eBTC**](https://thedefiant.io/badger-launches-0-interest-bitcoin-lending-protocol-ebtc) (March 26, 2024)
