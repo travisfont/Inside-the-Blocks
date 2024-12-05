@@ -1,22 +1,28 @@
 # Inside-the-Blocks
 
-# Fundemential Education
-	- DeFi
-		- Decentralized Exchanges
-		- Lending
-		- Asset Management
-		- Liquid Staking
-		- DAO
-	- General Finance
-	- Airdrops
-
-
-- [**Hacks & Exploits**](/Hacks.md)
-- **Stablecoins**
-
-## AMM
-
-- [**SundaeSwap (SUNDAE)**](/DeFi/AMM/SundaeSwap.md)
+- [Crypto Total Market Cap Exclude BTC](https://www.tradingview.com/symbols/CRYPTOCAP-TOTAL2) (CRYPTOCAP:**TOTAL2**)
+- [Market Cap DeFi Dominance](https://www.tradingview.com/chart?symbol=CRYPTOCAP%3ATOTALDEFI.D) (by percentage) (**TOTALDEFI.D**)
+- [Crypto Total DeFi Market Cap](https://www.tradingview.com/chart?symbol=CRYPTOCAP%3ATOTALDEFI) (by USD) (**TOTALDEFI**)
+- [DeFi Index - Perpetual Futures](https://www.tradingview.com/chart?symbol=FTX%3ADEFIPERP) (FTX:**DEFIPERP**)
+- https://www.tradingview.com/chart?symbol=BNC%3ABLX
+- [Flipside Crypto - Fundamental Asset Score (FCAS) 25](https://flipsidecrypto.com/fcas-25)
+- https://en.wikipedia.org/wiki/List_of_cryptocurrencies
+- https://unstoppabledomains.com/
+- [https://altfins.com](https://altfins.com/) (Market analysis)
+- https://data.cryptocompare.com/indices/digital-assets-indices
+- [**DefiLlama - Defi Platforms - Total Value Locked](https://defillama.com/home) ****
+- [Top Assets by Market Cap](https://companiesmarketcap.com/assets-by-market-cap/)
+- [DEX Tracker - Trading Pairs (ETH)](https://etherscan.io/dex#tradingpairs)
+- [**Meme Tokens Coins by Market Capitalization (CoinGecko)**](https://www.coingecko.com/en/categories/meme-token)
+- [Cryptorank - Crypto Market Insights & Analytics](https://cryptorank.io/)
+- [**Crypto Fees**](https://cryptofees.info/)
+- [**https://www.stakingrewards.com/cryptoassets/](https://www.stakingrewards.com/cryptoassets/) *******
+- [https://rekt.news/leaderboard](https://rekt.news/leaderboard/) (move to theft subpage)
+- Layer2: [l2beat.com](https://l2beat.com/) / [l2fees.info](https://l2fees.info/)
+- https://aluna.social/insights
+- https://dexscreener.com/trends
+- [https://whale-alert.io](https://whale-alert.io/)
+- https://dune.com/hagaetc/dex-metrics
 
 ------
 
