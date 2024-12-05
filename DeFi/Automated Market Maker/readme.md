@@ -1,8 +1,8 @@
 # Automated Market Makers (AAM)
 
-## Stableswap
+- [**SundaeSwap (SUNDAE)**](/DeFi/Automated Market Maker/SundaeSwap.md)
 
-- PTP
+## Stableswap
 
 -----
 
