@@ -1,5 +1,10 @@
 # Mining
 
+- https://www.amazon.com/Altairtech-io-GekkoScience-220-400-Bitcoin-IglooPac/dp/B0BVBWP21P
+- https://bitcoinmerch.com/products/bitcoin-merch%C2%AE-mars-lander-solo-bitcoin-miner-up-to-250gh-s
+- https://privacypros.io/products/the-billfodl/?p1
+- https://privacypros.io/products/faraday-bag-bundle/
+
 ## News
 
 ### Halving
