@@ -1,6 +1,6 @@
 # Podcasts
 
-- **The Future of Ethereum w/ Vitalik Buterin**
+- [**The Future of Ethereum w/ Vitalik Buterin**](https://www.youtube.com/watch?v=hYU5JvMu7F4)
   <br/>_Steady Lads Podcast - December 13, 2024_
 - [**Dencun: The Catalyst for Ethereum's L2 Vision**](https://www.youtube.com/watch?v=AlYW10q32K4)
   <br/>_Bell Curve - March 15, 2024_
