@@ -38,6 +38,12 @@
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
 
+### Kelp Airdrop Gain (Liquid Restaked)
+- https://kelpdao.xyz/gain/airdrop-gain/
+
+### Kelp High Growth 
+- https://kelpdao.xyz/gain/growth-vault/
+
 ### Spark Wrapped Ethereum tokens (spWETH)
 - CoinTelegraph - [User loses $32 million spWETH in a sophisticated phishing attack](https://cointelegraph.com/news/user-loses-32-million-sp-weth-sophisticated-phishing-attack)
 
