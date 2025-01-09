@@ -11,6 +11,7 @@
 - https://defillama.com/protocol/wbtc
 - https://wbtc.network/dashboard/partners
 - Hiro Mempool - [sBTC vs WBTC: A Comparison of Tokenized Bitcoin](https://www.hiro.so/blog/sbtc-vs-wbtc-a-comparison-of-tokenized-bitcoin)
+- https://cointelegraph.com/news/wrapped-bitcoin-in-defi-evaluating-wbtc-cbbtc-and-tbtc
 
 ### News
 - https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring
@@ -32,6 +33,7 @@
 # Coinbase Bitcoin (cbBTC)
 
 ## News
+- https://cointelegraph.com/news/wrapped-bitcoin-in-defi-evaluating-wbtc-cbbtc-and-tbtc
 - https://blockworks.co/news/coinbase-wrapped-bitcoin-competitor-cbbtc
 - [Coinbase Promotes cbBTC, Wrapped Bitcoin Alternative for Base Blockchain](https://www.coindesk.com/business/2024/08/14/coinbase-promotes-cbbtc-wrapped-bitcoin-version-for-base-blockchain)
 - https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout
@@ -58,6 +60,7 @@
 - https://dune.com/threshold/tbtc
 - [**BitGo Integrates Stacks L2 and Supports sBTC Post Nakamoto Upgrade Amid Institutional Demand**](https://thedefiant.io/news/cefi/bitgo-integrates-stacks-l2-supports-sbtc-post-nakamoto-upgrade-amid-demand)
   <br/>_The Defiant - xxx, 2024_
+- https://cointelegraph.com/news/wrapped-bitcoin-in-defi-evaluating-wbtc-cbbtc-and-tbtc
  
 #### News
 - https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration
@@ -119,6 +122,7 @@
 ### ckBTC
 
 - Strategist (via X) - [ckBTC on ICP Is Coming to Cosmos Ecosystem](https://x.com/strategist_pr/status/1838154217716122013)
+- https://thedefiant.io/news/defi/icp-based-bitcoin-token-ckbtc-to-bridge-to-cosmos-via-osmosis-dex-collaboration-c5e84178
 
 ### UniBTC 
 
