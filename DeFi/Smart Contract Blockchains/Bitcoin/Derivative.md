@@ -2,6 +2,15 @@
 
 - https://coinmarketcap.com/view/bitcoin-ecosystem/
 
+## Bitcoion Restaking
+
+### Charts & Data
+
+- Dune - [**Babylon Chain: Native BTC Restaking**](https://dune.com/pyor_xyz/babylon-chain)
+- Dune - [**Lombard (Bitcoin Restaking)**](https://dune.com/lombard_protocol/lombard)
+- Dune - [**SolvBTC Babylon (Excluding Merlin Data)**](https://dune.com/picnicmou/solvbtc-babylon)
+- https://dune.com/xx44/babylon
+
 ## Tokenized Synthetics
 
 - https://www.coingecko.com/en/categories/tokenized-btc
