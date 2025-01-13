@@ -2,7 +2,7 @@
 
 - https://coinmarketcap.com/view/bitcoin-ecosystem/
 
-## Bitcoion Restaking
+## Bitcoin Restaking
 
 ### Charts & Data
 
