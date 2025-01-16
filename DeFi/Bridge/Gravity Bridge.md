@@ -8,6 +8,7 @@
 - https://www.coingecko.com/en/coins/graviton
 - https://github.com/Gravity-Bridge
 - https://discord.com/invite/SKCEbzMKmm
+- https://cosmos.directory/gravitybridge
 
 ## Videos
 - https://www.youtube.com/watch?v=keD5gS-tRdU
