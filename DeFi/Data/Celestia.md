@@ -4,6 +4,7 @@
 - https://blog.celestia.org/
 - https://forum.celestia.org
 - https://x.com/celestia
+- https://cosmos.directory/celestia
 
 ## Public Chain Overview
 - https://ping.pub/celestia
