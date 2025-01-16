@@ -1,6 +1,7 @@
 # dYdX
 
 - https://blockworks.co/price/dydx
+- https://cosmos.directory/dydx
 
 ## Charts
 - https://dune.com/projects/dydx
