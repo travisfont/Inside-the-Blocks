@@ -7,3 +7,4 @@
 - https://agoric.com/validators/
 - https://agoric.com/develop/
 - https://x.com/agoric
+- https://cosmos.directory/agoric
