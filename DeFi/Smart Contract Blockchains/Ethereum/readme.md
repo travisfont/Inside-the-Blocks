@@ -8,3 +8,4 @@
 - https://www.growthepie.xyz
 - https://simplestakers.info
 - https://rollup.wtf
+- https://leorpc.com
