@@ -1,5 +1,7 @@
 # Axelar (AXL)
 
+- https://x.com/axelar
+
 ## News
 
 - [**Axelar prepares tokenomic overhaul for AXL**](https://blockworks.co/news/axelear-tokenomics-axl-overhaul-deflationary-blockchain-integration)
