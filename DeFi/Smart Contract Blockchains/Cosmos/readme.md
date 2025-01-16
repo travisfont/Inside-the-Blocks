@@ -1,5 +1,7 @@
 # Cosmos
 
+- https://cosmos.directory
+- https://cosmos.directory/cosmoshub
 - https://www.ibcprotocol.dev
 - https://ibc.fun
 
