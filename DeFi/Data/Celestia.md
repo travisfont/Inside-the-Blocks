@@ -3,6 +3,7 @@
 ## Official Resources
 - https://blog.celestia.org/
 - https://forum.celestia.org
+- https://x.com/celestia
 
 ## Public Chain Overview
 - https://ping.pub/celestia
