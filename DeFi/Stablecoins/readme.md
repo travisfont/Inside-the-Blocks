@@ -26,6 +26,38 @@
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
 
+## Educational Articles
+
+- [**Can MiCA spark a euro stablecoin renaissance**](https://blockworks.co/news/mica-euro-stablecoin-renaissance)
+  <br/>_Blockworks - January 3, 2025_
+- CoinGecko - [**General Risks for All Stablecoins**](https://www.coingecko.com/learn/general-risks-for-all-stablecoins)
+- Dovey Wan - [**Dollar Alternatives: Distrubtion & Mass Adoption**](https://twitter.com/DoveyWan/status/1725183674868699391)
+- Coinbase - [**What is a stablecoin**](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)
+- Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
+- Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
+- https://twitter.com/DefiIgnas/status/1561995715823673344
+- 
+## Podcasts & Talks
+
+- [**Are Stablecoins a Threat to National Security**](https://www.youtube.com/watch?v=LRRrhpPPIlo)
+  <br/>_Bankless - May 27, 2024_
+- [**The Future of Stablecoins & Synthetic Dollars w/ Arthur Hayes & Guy Young**](https://www.youtube.com/watch?v=odZc9nvNVAY)
+  <br/>_Empire - March 12, 2024_
+- [**Creating asset-backed stablecoins with the Reserve protocol**](https://www.youtube.com/watch?v=WgsvOIjHDmg)
+  <br/>_The Defiant - Jan 31, 2024_
+- [**Nic Carter's Bull Case For Stablecoins**](https://www.youtube.com/watch?v=iecFhe2THeo)
+  <br/>_Bankless - Oct 16, 2023_
+- [**Dollarization 2.0: How Stablecoins Unlock Emerging Markets with Nic Carter & Martin Carrica**](https://www.youtube.com/watch?v=27HimK7oZMw)
+  <br/>_Empire - October 10, 2023_
+- [**The future of euro stablecoins**](https://www.youtube.com/watch?v=WF__4bId9zU)
+  <br/>_Patrick Hansen (EthCC) - Jul 17, 2023_
+
+## Insightful Charts
+
+## Reports
+- [**Stablecoins & CBDC'S Report**](https://ccdata.io/reports/stablecoins-cbdcs-report-december-2023)
+  <br/>_CCData - December, 2023_
+
 ## Notable News
 - [**6 Stablecoins That Are Driving the Sector’s Two-Year High in Market Capitalization**](https://unchainedcrypto.com/6-stablecoins-that-are-driving-the-sectors-two-year-high-in-market-capitalization/)
   <br/>_Unchained - August 30, 2024_
@@ -67,36 +99,6 @@
   <br/>_The Defiant (YouTube) - March 17, 2023_
 - [**How Top Stablecoins Depegged After The Second Largest US Bank Failure**](https://www.youtube.com/watch?v=3bzvrQPBuO4)
   <br/>_The Defiant (YouTube) - March 14, 2023_
-
-## Educational Articles
-
-- CoinGecko - [**General Risks for All Stablecoins**](https://www.coingecko.com/learn/general-risks-for-all-stablecoins)
-- Dovey Wan - [**Dollar Alternatives: Distrubtion & Mass Adoption**](https://twitter.com/DoveyWan/status/1725183674868699391)
-- Coinbase - [**What is a stablecoin**](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)
-- Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
-- Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
-- https://twitter.com/DefiIgnas/status/1561995715823673344
-
-## Podcasts & Talks
-
-- [**Are Stablecoins a Threat to National Security**](https://www.youtube.com/watch?v=LRRrhpPPIlo)
-  <br/>_Bankless - May 27, 2024_
-- [**The Future of Stablecoins & Synthetic Dollars w/ Arthur Hayes & Guy Young**](https://www.youtube.com/watch?v=odZc9nvNVAY)
-  <br/>_Empire - March 12, 2024_
-- [**Creating asset-backed stablecoins with the Reserve protocol**](https://www.youtube.com/watch?v=WgsvOIjHDmg)
-  <br/>_The Defiant - Jan 31, 2024_
-- [**Nic Carter's Bull Case For Stablecoins**](https://www.youtube.com/watch?v=iecFhe2THeo)
-  <br/>_Bankless - Oct 16, 2023_
-- [**Dollarization 2.0: How Stablecoins Unlock Emerging Markets with Nic Carter & Martin Carrica**](https://www.youtube.com/watch?v=27HimK7oZMw)
-  <br/>_Empire - October 10, 2023_
-- [**The future of euro stablecoins**](https://www.youtube.com/watch?v=WF__4bId9zU)
-  <br/>_Patrick Hansen (EthCC) - Jul 17, 2023_
-
-## Insightful Charts
-
-## Reports
-- [**Stablecoins & CBDC'S Report**](https://ccdata.io/reports/stablecoins-cbdcs-report-december-2023)
-  <br/>_CCData - December, 2023_
 
 ## Algorithmic Stablecoins
 
