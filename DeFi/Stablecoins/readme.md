@@ -19,6 +19,13 @@
 - ibEUR
   - https://www.geckoterminal.com/eth/pools/0xb37d6c07482bc11cd28a1f11f1a6ad7b66dec933
 
+### Swiss France
+
+#### Frankencoin (ZCHF)
+- https://www.coingecko.com/en/coins/frankencoin
+- [**Frankencoin, The Rise of The Oracle Free Swiss Franc Stablecoin**](https://www.youtube.com/watch?v=4h2gClJt9mg)
+  <br/>_Leviathan News - January 9, 2025_
+
 ## Charts & Data
 - https://dune.com/21co/stablecoin-monitor
 
