@@ -19,7 +19,8 @@
 
 ### stETH: Lido (LDO)
 
-- https://blog.lido.fi/
+- https://blog.lido.fi
+- https://cointelegraph.com/news/lido-community-vote-steth-binance-bnb-chain
 
 ### rETH: Rocket Pool (RPL)
 
@@ -37,6 +38,10 @@
   <br/>_Ceazor's Snack Sandwich (YouTube) - Feb 13, 2023_
 - [**Liquid Staking with Stader (Polygon and more)**](https://www.youtube.com/watch?v=V0W8abretag) (Add to POL)
   <br/>_Cryptosetups (YouTube) - Feb 27, 2023_
+
+### wstETH 
+- https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain
+
 
 ### Kelp Airdrop Gain (Liquid Restaked)
 - https://kelpdao.xyz/gain/airdrop-gain/
