@@ -8,6 +8,7 @@
 - [**Osmosis Governance Statutes**](https://hackmd.io/U37CDcTDTC60v1JW-0e4sA)
 - https://www.coingecko.com/en/exchanges/levana-perps-osmosis
 - https://score.bronbro.io/network?network=osmosis
+- https://www.datalenses.zone/chain/osmosis/overview
 
 ## News
 
