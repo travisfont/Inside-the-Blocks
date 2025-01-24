@@ -9,6 +9,9 @@
 - [**Curve.Fi USD**](/DeFi/Stablecoins/Curve%20USD.md) (crvUSD)
 - Binance (BUSD)
 - FRAX
+- Synth sUSD (sUSD)
+  - OP: https://optimistic.etherscan.io/address/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9
+  - https://app.aave.com/reserve-overview/?underlyingAsset=0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9&marketName=proto_optimism_v3
 - PAXG
 
 ### Euro
