@@ -13,6 +13,9 @@
   - OP: https://optimistic.etherscan.io/address/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9
   - https://app.aave.com/reserve-overview/?underlyingAsset=0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9&marketName=proto_optimism_v3
 - PAXG
+- First Digital USD (FDUSD)
+  - BSC: https://bscscan.com/address/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409
+  - BSC: https://app.aave.com/reserve-overview/?underlyingAsset=0xc5f0f7b66764f6ec8c8dff7ba683102295e16409&marketName=proto_bnb_v3 
 
 ### Euro
 - EUROC
