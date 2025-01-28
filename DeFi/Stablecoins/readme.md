@@ -49,9 +49,11 @@
 - Cointelegraph - [**Stablecoins 101: What are crypto stablecoins, and how do they work**](https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work)
 - Mastercard - [**Stablecoins explained: An FAQ on these digital assets**](https://www.mastercard.com/news/perspectives/2022/stablecoin-crypto-explainer-faq/)
 - https://twitter.com/DefiIgnas/status/1561995715823673344
-- 
+ 
 ## Podcasts & Talks
 
+- [**Reshaping the Future of Stablecoins**](https://www.chainalysis.com/blog/future-of-global-digital-payments-with-stablecoins/)
+  <br/>_Public Key by Chainalysis - January 21, 2025_
 - [**Are Stablecoins a Threat to National Security**](https://www.youtube.com/watch?v=LRRrhpPPIlo)
   <br/>_Bankless - May 27, 2024_
 - [**The Future of Stablecoins & Synthetic Dollars w/ Arthur Hayes & Guy Young**](https://www.youtube.com/watch?v=odZc9nvNVAY)
