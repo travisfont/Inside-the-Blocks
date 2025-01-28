@@ -1,5 +1,22 @@
 # Tether (USDT)
 
+## Articles
+- CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
+
+## Videos
+- [**Why Your USDT Holdings Are at Risk**](https://www.youtube.com/watch?v=LQ4ae7w71kI)
+  <br/>_Mitchell Weijerman - January 23, 2025_
+- [**We Need to Talk About Tether**](https://www.youtube.com/watch?v=k1W_Gyerhug)
+  <br/>_The Defiant - January 22, 2021_
+
+## Podcasts & Interviews
+- [**What's Next for USDT: Interview with Tether CEO**](https://www.youtube.com/watch?v=1oDgxAvQVQk)
+  <br/>_Coin Bureau - April 21, 2024_
+- [**The Truth about Tether**](https://www.youtube.com/watch?v=w3Kh9FVOtwA)
+  <br/>_Bankless - March 4, 2024_
+
+----
+
 ## News
 
 - [**$5.2 Billion: Tether Reports Record Profit as Bitcoin Holdings Soar to 80,000 BTC**](https://www.cryptoglobe.com/latest/2024/08/5-2-billion-tether-reports-record-profit-as-bitcoin-holdings-soar-to-80000-btc/)
@@ -22,17 +39,5 @@
 - [**Tether Purchased 1,529 Bitcoin in Q2 - CTO Confirms**](https://bitcoinmagazine.com/markets/exclusive-tether-purchased-1529-bitcoin-in-q2-cto-confirms)
   <br/>_Bitcoin Magazine - August 3, 2023_
 
-## Articles
 
-- CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
 
-## Podcasts & Interviews
-- [**What's Next for USDT: Interview with Tether CEO**](https://www.youtube.com/watch?v=1oDgxAvQVQk)
-  <br/>_Coin Bureau - April 21, 2024_
-- [**The Truth about Tether**](https://www.youtube.com/watch?v=w3Kh9FVOtwA)
-  <br/>_Bankless - March 4, 2024_
-
-## Videos
-
-- [**We Need to Talk About Tether**](https://www.youtube.com/watch?v=k1W_Gyerhug)
-  <br/>_The Defiant - January 22, 2021_
