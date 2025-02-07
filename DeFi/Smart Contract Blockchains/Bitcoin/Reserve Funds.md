@@ -1,6 +1,7 @@
 # Bitcoin Reserve
 
 ## USA
+- https://www.coindesk.com/coindesk-indices/2025/02/05/the-great-accumulation-a-corporate-race-for-bitcoin **
 - https://cointelegraph.com/news/us-bitcoin-reserves-sovereign-wealth-funds-explained
 - https://cointelegraph.com/news/strategic-bitcoin-reserve
 - https://cointelegraph.com/news/ecb-president-christine-lagarde-bitcoin-central-bank-reserves
@@ -15,3 +16,5 @@
 - https://thedefiant.io/news/regulation/arizona-advances-legislation-to-create-strategic-bitcoin-reserve
 - https://cointelegraph.com/news/czech-national-bank-governor-proposes-7b-bitcoin-reserve-plan
   - https://cointelegraph.com/news/czech-national-bank-bitcoin-reserve-debate
+- https://www.coindesk.com/daybook-us/2025/02/05/crypto-daybook-americas-somber-crypto-market-eyes-slow-progress-on-u-s-bitcoin-reserve
+- 
