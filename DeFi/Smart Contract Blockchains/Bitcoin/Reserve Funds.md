@@ -6,7 +6,10 @@
 - https://cointelegraph.com/news/strategic-bitcoin-reserve
 - https://cointelegraph.com/news/ecb-president-christine-lagarde-bitcoin-central-bank-reserves
 - https://cointelegraph.com/news/bitcoin-political-weapon-reserve-asset-arthur-hayes
+- https://cryptoslate.com/ecb-will-assess-ties-with-national-banks-holding-bitcoin-reserves/
+- https://www.dlnews.com/articles/regulation/bitcoin-reserves-fuel-state-level-showdown-for-the-top-spot/
 - https://thedefiant.io/news/people/binance-founder-confirms-u-s-strategic-bitcoin-reserve-pretty-much-confirmed-f755bb80
+- https://www.coindesk.com/news-analysis/2025/02/03/u-s-bitcoin-reserve-may-be-coming-but-states-are-winning-the-race
 - https://cointelegraph.com/news/missouri-bitcoin-strategic-reserve-fund-hb-1217
 - https://cointelegraph.com/news/utah-takes-lead-potentially-enacting-bitcoin-reserve-bill
 - https://cointelegraph.com/news/ohio-senator-state-second-bitcoin-reserve-bill
@@ -16,5 +19,14 @@
 - https://thedefiant.io/news/regulation/arizona-advances-legislation-to-create-strategic-bitcoin-reserve
 - https://cointelegraph.com/news/czech-national-bank-governor-proposes-7b-bitcoin-reserve-plan
   - https://cointelegraph.com/news/czech-national-bank-bitcoin-reserve-debate
+  - https://decrypt.co/303304/czech-central-bank-bitcoin-reserve
+  - https://cryptoslate.com/cnb-considers-shifting-up-to-5-percent-of-czech-reserves-into-bitcoin/
+  - https://cryptoslate.com/czech-central-bank-to-pursue-studying-bitcoin-reserves-despite-ecb-opposition
+  - https://www.coindesk.com/markets/2025/01/29/czech-central-bank-governor-to-present-plan-to-add-bitcoin-to-its-reserve-ft
 - https://www.coindesk.com/daybook-us/2025/02/05/crypto-daybook-americas-somber-crypto-market-eyes-slow-progress-on-u-s-bitcoin-reserve
-- 
+- https://decrypt.co/305098/kentucky-maryland-latest-states-bitcoin-reserve
+- https://decrypt.co/304545/semler-scientific-88-million-bitcoin-treasury
+- https://cryptoslate.com/south-dakota-and-kentucky-lawmakers-to-propose-bitcoin-reserve-legislation
+- https://cryptoslate.com/maryland-iowa-and-kentucky-propose-legislation-to-establish-bitcoin-reserves
+- https://cointelegraph.com/news/missouri-bitcoin-strategic-reserve-fund-hb-1217
+- https://cointelegraph.com/news/florida-senator-joe-gruters-bitcoin-investment-state-funds
