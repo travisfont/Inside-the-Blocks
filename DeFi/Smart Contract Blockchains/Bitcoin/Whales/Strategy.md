@@ -1,5 +1,7 @@
 # Strategy (formely MicroStrategy)
 
+- [**Breaking Down MicroStrategy’s $80B Bitcoin Blueprint**](https://www.youtube.com/watch?v=zezOqImvXR0)
+  <br/>_WSJ Podcast - Feb 9, 2025_
 - https://www.coindesk.com/markets/2025/02/05/microstrategy-reports-q4-loss-bitcoin-holdings-remain-at-471-107
 - https://www.coindesk.com/business/2025/02/05/microstrategy-rebrands-to-strategy
 - https://thedefiant.io/news/tradfi-and-fintech/microstrategy-rebrands-to-strategy-new-bitcoin-logo-orange-color-earnings-call-5-9f85f4c5
