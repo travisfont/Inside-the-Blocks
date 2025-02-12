@@ -1,5 +1,8 @@
 # Strategy (formely MicroStrategy)
 
+- https://x.com/saylor
+
+## News
 - [**Breaking Down MicroStrategy’s $80B Bitcoin Blueprint**](https://www.youtube.com/watch?v=zezOqImvXR0)
   <br/>_WSJ Podcast - Feb 9, 2025_
 - https://www.coindesk.com/markets/2025/02/05/microstrategy-reports-q4-loss-bitcoin-holdings-remain-at-471-107
