@@ -17,3 +17,5 @@
 - https://cryptoslate.com/microstrategy-rebrands-to-strategy-reinforces-bitcoin-treasury-focus/
 - https://cryptoslate.com/strategy-expands-bitcoin-holdings-with-record-acquisition-despite-q4-loss/
 - https://cointelegraph.com/news/microstrategy-now-strategy-reports-670-million-loss-q4
+
+![image](https://github.com/user-attachments/assets/434b4fd4-cf80-4608-8de5-dfc50658b0cc)
