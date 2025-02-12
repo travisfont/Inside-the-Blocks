@@ -26,6 +26,8 @@
 <br/>_ETHGlobal - September 26, 2023_
 
 ## Podcast
+- [**Unichain is Live: What This Means For The Future of DeFi**](https://www.youtube.com/watch?v=KGra52kncZA)
+  <br/>_Bankless - Feb 11, 2025_
 - [**"We Plan to Win" with Hayden Adams on Uniswap vs. the SEC**](https://www.youtube.com/watch?v=S2r35SDiCAY)
   <br/>_Bankless - April 12, 2024_
 
