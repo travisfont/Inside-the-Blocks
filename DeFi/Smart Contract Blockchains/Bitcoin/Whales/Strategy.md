@@ -8,6 +8,8 @@
   <br/>_WSJ Podcast - Feb 9, 2025_
 - [**Microstrategy 2024 Q4 Earnings Call**](https://www.youtube.com/watch?v=-gZ-Pl4ltVQ)
   <br/>_Shaun Trades - Feb 5, 2025_
+- [**Could bitcoin make Michael Saylor the richest man alive? with NYU Stern adjunct professor Tad Smith**](https://www.youtube.com/watch?v=pPxPk2Du0wM)
+  <br/>_Unchained - Jan 21, 2025_
 
 ## News
 
