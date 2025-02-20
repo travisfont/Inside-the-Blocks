@@ -42,6 +42,13 @@
 ### wstETH 
 - https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain
 
+### Spark Wrapped Ethereum tokens (spWETH)
+- CoinTelegraph - [User loses $32 million spWETH in a sophisticated phishing attack](https://cointelegraph.com/news/user-loses-32-million-sp-weth-sophisticated-phishing-attack)
+
+## Liquid Restaking Tokens (LRT)
+
+### rstETH
+- https://p2p.org/economy/rsteth-restaking-guide-on-mellow/?
 
 ### Kelp Airdrop Gain (Liquid Restaked)
 - https://kelpdao.xyz/gain/airdrop-gain/
@@ -49,8 +56,6 @@
 ### Kelp High Growth 
 - https://kelpdao.xyz/gain/growth-vault/
 
-### Spark Wrapped Ethereum tokens (spWETH)
-- CoinTelegraph - [User loses $32 million spWETH in a sophisticated phishing attack](https://cointelegraph.com/news/user-loses-32-million-sp-weth-sophisticated-phishing-attack)
 
 #### LsETH: Liquid Collective
 
