@@ -1,14 +1,20 @@
 # Maker DAO (MKR)
+> **MakerDAO** is now **Sky**
 
 ## Maker
 
 - https://www.coingecko.com/en/coins/maker
 - http://makerburn.com
+- https://info.sky.money/
 
 # Charts
 - https://dune.com/projects/makerdao
 - https://dune.com/steakhouse/makerdao
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
+
+## Videos
+- [**Selling Fartcoin to Full Port MKR (Midcurve Taiki is Back)**](https://www.youtube.com/watch?v=yqU0iXsoZOk)
+  <br/>_Taiki Maeda - Feb 22, 2025_
 
 ### Notable News
 - [**MakerDAO Founder Unveils Two New Stablecoins**](https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins)
@@ -60,6 +66,11 @@
 - [**Real-World Asset Report - 2023-05**](https://forum.makerdao.com/t/real-world-asset-report-2023-05/21225)
 
 ### Discussions
+- https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033
+- https://forum.sky.money/t/smart-burn-engine-liquidity-unwind/26027
+- https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003
+- https://forum.sky.money/t/the-economics-of-star-creation/25975
+- https://forum.sky.money/t/sky-2025-towards-parallel-growth-and-0-core-expenses-by-end-of-year/26009
 - https://forum.makerdao.com/t/reconciling-the-two-opposing-paths-for-decentralized-stablecoins/24280
 - [**Introduction of Smart Burn Engine and Initial Parameters**](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201/2)
 
