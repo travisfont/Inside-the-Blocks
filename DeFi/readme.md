@@ -31,4 +31,6 @@
   <br/>_The Defiant - November 21, 2023_
 - [**Rebrand DeFi to 'On-Chain Finance'**](https://twitter.com/DefiIgnas/status/1635980049437585409)
   <br/>_Ignas (@DefiIgnas via Twitter) - June 7, 2023_
+- https://a16zcrypto.com/posts/article/defining-tokens/
+- https://a16zcrypto.com/posts/article/network-tokens-vs-company-backed-tokens/
 
