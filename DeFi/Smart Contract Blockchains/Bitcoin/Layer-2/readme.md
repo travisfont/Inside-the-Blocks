@@ -3,6 +3,7 @@
 - **Lightning Network**
 - **Stacks Network**
 - **Rootstock Network**
+- **Merlin**
 
 ## Articles
 - Blockworks - [**Q&A: What will the Bitcoin halving mean for Bitcoin L2s**](https://blockworks.co/news/bitcoin-halving-layer-2-impact-stacks)
@@ -20,6 +21,14 @@
   <br/>_Bankless - April 18, 2024_
 
 ---
+
+### Lightning Network
+### Stacks Network
+- https://x.com/@Stacks
+### Rootstock Network
+- https://x.com/@rootstock_io
+### Merlin
+- https://x.com/@MerlinLayer2
 
 ### Core Chain
 - https://coredao.org
