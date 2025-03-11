@@ -1,9 +1,9 @@
 # Bitcoin Layer-2 
 
-- **Lightning Network**
-- **Stacks Network**
-- **Rootstock Network**
-- **Merlin**
+- [**Lightning Network**](#lightning-network)
+- [**Stacks Network**](#stacks-network)
+- [**Rootstock Network**](#rootstock-network)
+- [**Merlin**](#merlin)
 
 ## Articles
 - Blockworks - [**Q&A: What will the Bitcoin halving mean for Bitcoin L2s**](https://blockworks.co/news/bitcoin-halving-layer-2-impact-stacks)
