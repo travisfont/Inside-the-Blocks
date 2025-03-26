@@ -12,3 +12,9 @@
 ## Supporting YouTube Channels
 - [**ETHGlobal**](https://www.youtube.com/@ETHGlobal)
 - [The Daily Gwei](https://www.youtube.com/@TheDailyGwei)
+
+### Conferences
+- [EthCC Livestream 4](https://www.youtube.com/@amphisorbonne7368/streams)
+- [**EthCC Livestream 3**](https://www.youtube.com/@amphistgermain3634/streams)
+- [**EthCC Livestream 2**](https://www.youtube.com/@livestream2387/streams)
+- [**Ethereum France**](https://www.youtube.com/@ethereum_france/streams)
