@@ -1,4 +1,4 @@
-# Bitoin Derivatives
+# Bitcoin Derivatives
 
 - https://coinmarketcap.com/view/bitcoin-ecosystem/
 
@@ -103,6 +103,9 @@
 - https://thedefiant.io/news/tradfi-and-fintech/21shares-21co-integrate-chainlink-proof-reserve-21btc-on-ethereum-solana-c84089a6
 - https://cryptoslate.com/21-co-integrates-chainlink-to-enhance-21btc-transparency-via-real-time-proof-of-reserves
 - https://cryptoslate.com/21shares-launches-wrapped-bitcoin-21btc-on-ethereum-amid-wbtc-challenges
+
+### Side Bitcoin (sBTC)
+- https://app.osmosis.zone/assets/sBTC
 
 ## Liquid Staked Bitcoin
 
