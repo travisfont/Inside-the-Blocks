@@ -13,3 +13,6 @@
   <br/>_Blockworks - September 11, 2024_
 - [**Blockchain Bridges 101: How Do They Work**](https://hacken.io/discover/blockchain-bridges/)
   <br/>_Hacken - April 13, 2023_
+
+## References
+- https://github.com/Inside-the-Blocks/Education/blob/main/Decentralized%20Finance/Interoperability.md
