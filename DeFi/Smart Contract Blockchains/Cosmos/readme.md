@@ -4,6 +4,7 @@
 - https://cosmos.directory/cosmoshub
 - https://www.ibcprotocol.dev
 - https://ibc.fun
+- https://github.com/Inside-the-Blocks/Education/blob/main/Decentralized%20Finance/Interoperability.md
 
 ## YouTube Channels
 
