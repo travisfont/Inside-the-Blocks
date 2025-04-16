@@ -2,6 +2,7 @@
 
 - https://www.youtube.com/@chainlink
 - https://www.coingecko.com/en/coins/chainlink
+- https://github.com/Inside-the-Blocks/Education/blob/main/Decentralized%20Finance/Interoperability.md
 
 ## News
 
