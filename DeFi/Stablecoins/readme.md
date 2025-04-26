@@ -41,6 +41,7 @@
 
 ## Educational Articles
 
+- https://www.investopedia.com/terms/s/stablecoin.asp
 - [**Can MiCA spark a euro stablecoin renaissance**](https://blockworks.co/news/mica-euro-stablecoin-renaissance)
   <br/>_Blockworks - January 3, 2025_
 - CoinGecko - [**General Risks for All Stablecoins**](https://www.coingecko.com/learn/general-risks-for-all-stablecoins)
