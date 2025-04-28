@@ -2,6 +2,8 @@
 
 - [**Cosmos patches ‘critical’ IBC protocol bug, saving $126M**](https://cointelegraph.com/news/cosmos-patches-bug-ibc-protocol-saves-126m)
   <br/>_April 24, 2024_
+- [**Cosmos is expanding: Skip joins the Interchain Foundation**](https://blog.cosmos.network/cosmos-is-expanding-skip-joins-the-interchain-foundation-235753c9e5a3)
+  <br/>_December 11, 2024_
 - [**Circle moves native USDC offering to Cosmos mainnet**](https://blockworks.co/news/circle-moves-usdc-to-cosmos)
   <br/>_Blockworks - November 28, 2023_
 - https://blockworks.co/news/stride-atom-token-conversion
