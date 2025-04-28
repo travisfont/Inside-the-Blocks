@@ -9,6 +9,8 @@
 
 ## Multisig Wallet
 
+- [**What Is a Multi-Sig Wallet: A Beginner’s Guide**](https://decrypt.co/resources/what-is-a-multi-sig-wallet-a-beginners-guide)
+  <br/>_Decrypt - March 18, 2025_
 - https://bitcoinmagazine.com/guides/what-is-a-multisignature-wallet
 - https://www.bitpanda.com/academy/en/lessons/what-are-multi-signature-wallets-and-how-do-they-work/
 - https://support.bitpay.com/hc/en-us/articles/360032618692-What-is-a-Multisignature-Multisig-or-Shared-Wallet-
