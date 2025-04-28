@@ -11,6 +11,7 @@
 - https://app.rwa.xyz/treasuries
 - https://www.2tokens.org/
 - https://tokn1.com/
+- [**Tokenized Podcast**](https://tokenized.simplecast.com/)
 
 ## News
 - [**Index Coop RWA basket builds on hyETH experiment**](https://blockworks.co/news/index-coop-rwa-token)
