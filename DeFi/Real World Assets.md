@@ -124,6 +124,10 @@
 - [**EIB issues its first ever digital bond on a public blockchain**](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
   <br/>_European Investment Bank (EIB) - April 28, 2021_
 
+### Tokenized Private Credit
+- [**How tokenized private credit could hit $17.5B**](https://blockworks.co/news/tokenized-private-credit-centrifuge-keyrock-report)
+  <br/>_Blockworks - April 7, 2025_
+
 ### Digital Bond
 
 - [**World Bank rolls out first digital bond issuance on Euroclear**](https://blockworks.co/news/world-bank-digital-bond-euroclear)
