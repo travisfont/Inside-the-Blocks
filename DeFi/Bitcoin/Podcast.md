@@ -15,3 +15,5 @@
   <br/>_What Bitcoin Did -  March 20, 2024_
 - [**The Truth About Bitcoin ETFs**](https://www.youtube.com/watch?v=uPAV9Qmr6c0)
   <br/>_Bankless - July 11, 2023_
+- [**Finextra interview with IBM architect Richard G Brown about Bitcoin and Litecoin**](https://www.youtube.com/watch?v=gERNbqUNMm4)
+  <br/>_Mike Schmidt - November 8, 2013_
