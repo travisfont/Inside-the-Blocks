@@ -109,3 +109,31 @@
 - https://twitter.com/nay_gmy/status/1680223785327427584
 - https://twitter.com/hexonaut/status/1657034239936790535
 
+======
+
+(below links need to be reviewed)
+
+- [**Stablecoin Farms / Yield**](https://daomaker.com/stablecoin-farms)
+
+## News
+
+- [**Maker Offboards RenBTC Vault After Alameda-Related Uncertainty](https://unchainedpodcast.com/maker-offboards-renbtc-vault-after-alameda-related-uncertainty/)**
+  <br/>*Unchained - November 25, 2022*
+- [**MakerDAO initiates $500 million investment in US treasuries, corporate bonds**](https://www.theblock.co/post/175311/makerdao-initiates-500-million-investment-in-us-treasuries-corporate-bonds)
+  <br/>*The Block - October 6,  2022*
+- [**MakerDAO approves $100 million stablecoin loan vault for 151-year-old US bank**](https://www.theblock.co/post/156301/makerdao-approves-100-million-stablecoin-loan-vault-for-151-year-old-us-bank)
+
+## Video
+
+- [**Awesome Launchpad Platform: How to Set Up & Register for an Upcoming Public Sale**](https://www.youtube.com/watch?v=gltJrQB9yWo)
+  <br/>*Decrypting Crypto - June, 2021*
+- [Crypto with Leo - **DAO Maker: Simply Explained**](https://www.youtube.com/watch?v=nSRHLxd0OqA) *(December, 2021)*
+- [Han Dol Kim - **DAO Maker Venture Yields Explained**](https://www.youtube.com/watch?v=jIhWjiVN3iw) *(Nov., 2021)*
+
+## Articles
+
+- [**Community Investigates**](https://rekt.news/dao-maker-community-investigates/)
+  <br/>Rekt - Oct 14, 2022
+- [**Maker DAO's Existential Crisis**](https://newsletter.banklesshq.com/p/maker-dao-defi-governance)
+  <br/>*Bankless - September, 2022*
+- https://medium.com/daomaker/introduction-to-venture-yield-9b0926f539ab
