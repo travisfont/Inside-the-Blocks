@@ -34,3 +34,10 @@
 - https://a16zcrypto.com/posts/article/defining-tokens/
 - https://a16zcrypto.com/posts/article/network-tokens-vs-company-backed-tokens/
 
+===
+
+## Privacy
+- Monero (XMR)
+- Zcash (ZEC)
+- DASH
+- Secret
