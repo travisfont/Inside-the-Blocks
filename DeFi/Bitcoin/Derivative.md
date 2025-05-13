@@ -62,6 +62,10 @@
 - https://www.dlnews.com/articles/defi/coinbase-adds-solana-cbbtc-support-bitcoin-backed-token-race/
 - https://thedefiant.io/education/premium-tutorials/a-guide-to-getting-started-with-coinbase-s-new-cbbtc
 
+# Coinbase Bitcoin Yield Fund (CBYF)
+## News
+- https://www.linkedin.com/posts/offchain-luxembourg_coinbase-chooses-apex-malta-to-administer-activity-7326160426524667904-TqHH
+
 ### Threshold Bitcoin (tBTC)
 - https://threshold.network/earn/btc/
 - https://cryptorank.io/price/tbtc
