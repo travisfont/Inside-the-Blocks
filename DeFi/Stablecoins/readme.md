@@ -41,6 +41,8 @@
 
 ## Educational Articles
 
+- [**The stablecoin market map**](https://www.cbinsights.com/research/stablecoin-market-map/)
+  <br>_CB Insights - May 29, 2025_
 - https://www.investopedia.com/terms/s/stablecoin.asp
 - [**Can MiCA spark a euro stablecoin renaissance**](https://blockworks.co/news/mica-euro-stablecoin-renaissance)
   <br/>_Blockworks - January 3, 2025_
