@@ -21,3 +21,9 @@
 ## IBC & Relayers
 - [**Scaling The Interchain: A Deep Dive Into IBC Relayer Operations**](https://www.reddit.com/r/cryptocrewvalidators/comments/17my5d6/scaling_the_interchain_a_deep_dive_into_ibc/)
   <br/>_CryptoCrew Validator (Reddit via r/cryptocrewvalidators) - November 3, 2023_
+
+## Technical
+- [**EVM – Cosmos Convergence Research From Security Base: Part 1**](https://www.certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-1)
+  <br/>_Certik - April 17, 2025_
+- [**EVM – Cosmos Convergence Research From Security Base: Part 2**](https://www.certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-2)
+  <br/>_Certik - June 9, 2025_
