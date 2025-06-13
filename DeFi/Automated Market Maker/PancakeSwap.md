@@ -7,6 +7,10 @@ _(BNB Smart Chain)_
 - GeckoTerminal: https://www.geckoterminal.com/bsc/pancakeswap_v2/pools
 - https://poolfish.xyz/calculators/pancakeswap
 
+## Technical Articles
+- [**PancakeSwap Infinity: Hooks Security Considerations**](https://www.certik.com/resources/blog/pancakeswap-infinity-hooks-security-considerations)
+  <br/>_Certik - May 7, 2025_
+
 ## News
 
 - [**CAKE Plummets On Syrup Pool Unlocks**](https://thedefiant.io/pancakeswap-tokenomics-overhaul)
