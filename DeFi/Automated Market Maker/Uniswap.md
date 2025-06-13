@@ -16,6 +16,8 @@
   <br/>_The Defiant - October 23, 2023_
 
 ## Articles
+- [Uniswap V4: Hooks Security Considerations](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations)
+  <br/>_Certik - January 28, 2025_
 - [**Uniswap v4: The liquidity Marketplace**](https://www.shoal.gg/p/uniswap-v4-the-liquidity-marketplace)
   <br/>_Shoal Research - June 30, 2023_
 - [**Uniswap Wallet Is Available Now**](https://blog.uniswap.org/uniswap-mobile-wallet-release)
