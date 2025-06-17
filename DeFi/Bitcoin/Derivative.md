@@ -140,6 +140,9 @@
 - Strategist (via X) - [ckBTC on ICP Is Coming to Cosmos Ecosystem](https://x.com/strategist_pr/status/1838154217716122013)
 - https://thedefiant.io/news/defi/icp-based-bitcoin-token-ckbtc-to-bridge-to-cosmos-via-osmosis-dex-collaboration-c5e84178
 
+### BTCfi 
+- Decrypt - [**Bitcoin DeFi Is Taking Root on Sui—Here’s How It Works**](https://decrypt.co/325274/bitcoin-defi-taking-root-sui-heres-how-works)
+
 ### UniBTC 
 
 - [Bedrock Vulnerability Allows Hacker To Drain $2M From UniBTC Liquidity Pools](https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools)
