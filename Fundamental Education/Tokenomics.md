@@ -1,6 +1,8 @@
 # Tokenomics
 
 - Wikipedia (EN) - [**Tokenomics**](https://en.wikipedia.org/wiki/Tokenomics)
+- [**Bad tokenomics kill good projects (here’s how to improve them)**](https://cryptoslate.com/bad-tokenomics-kill-good-projects-heres-how-to-improve-them/)
+  <br/>_cryptoslate - May. 24, 2025_
 
 ## Tokens
 - [**The Different Types of Cryptocurrency Tokens Explained**](https://blog.makerdao.com/the-different-types-of-cryptocurrency-tokens-explained/)
