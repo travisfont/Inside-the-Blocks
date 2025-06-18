@@ -55,6 +55,8 @@
  
 ## Podcasts & Talks
 
+> - [**Stable School Podcast**](https://stableschool.org/podcast)
+
 - [**The End Game For Stablecoins With Edward Woodford**](https://www.youtube.com/watch?v=rV3Wt6fkHGQ)
   <br/>Empire - April 21, 2025_
 - [**Reshaping the Future of Stablecoins**](https://www.chainalysis.com/blog/future-of-global-digital-payments-with-stablecoins/)
