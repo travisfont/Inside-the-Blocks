@@ -136,6 +136,8 @@
   <br/>_CoinTelegraph - October 25, 2023_
 
 ## Articles
+- [**What Are Tokenized Real-World Assets? Putting Physical Value On-Chain With RWAs**](https://decrypt.co/resources/what-are-tokenized-real-world-assets-rwa)
+  <br/>_Decrypt - May 18, 2025_
 - [**Forget ETFs, Let’s Work on Tokenizing the Whole Value Chain**](https://www.coindesk.com/business/2024/02/07/forget-etfs-lets-work-on-tokenizing-the-whole-value-chain/)
   <br/>_CoinDesk - Feb 7, 2024_
 - [What Is Tokenized Equity: How Tokenized Stock Works, and Example](https://www.investopedia.com/terms/t/tokenized-equity.asp)
