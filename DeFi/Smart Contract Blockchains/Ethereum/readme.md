@@ -22,6 +22,7 @@
 - https://etherscan.io
 - https://ethplorer.io
 - https://beaconcha.in
+- https://explorer.bitquery.io/ethereum
 
 ## Utility
 
