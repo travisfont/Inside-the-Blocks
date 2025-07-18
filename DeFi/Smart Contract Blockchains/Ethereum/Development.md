@@ -2,6 +2,7 @@
 
 - https://www.evm.codes
 - https://solodit.cyfrin.io
+- https://www.quicknode.com/guides/ethereum
 
 ## Solidity
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
