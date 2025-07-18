@@ -3,7 +3,7 @@
 - https://defillama.com/chain/Arbitrum
 - https://l2beat.com/scaling/projects/arbitrum
 - https://forum.arbitrum.foundation
-
+- https://www.quicknode.com/chains/arb
 
 ## News
 
