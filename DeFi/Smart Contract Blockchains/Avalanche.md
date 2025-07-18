@@ -1,7 +1,8 @@
 # Avalanche (AVAX)
 
+- https://x.com/avax ([$avax](https://x.com/search?q=%24avax)) ([#avax](https://x.com/search?q=%23avax))
 - https://www.linkedin.com/company/avalancheavax/
-- https://twitter.com/avax
+- https://www.quicknode.com/chains/avax
   
 ## News
 
