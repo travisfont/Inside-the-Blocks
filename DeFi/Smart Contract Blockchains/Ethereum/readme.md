@@ -16,6 +16,7 @@
 - https://simplestakers.info
 - https://rollup.wtf
 - https://leorpc.com
+- https://www.quicknode.com/chains/eth
 
 ## Ethereum Explorer
 
@@ -42,6 +43,7 @@
 - [**Ethereum Average Transaction Fee (YCharts)**](https://ycharts.com/indicators/ethereum_average_transaction_fee)
 - Etherscan - [**Ethereum Gas Tracker**](https://etherscan.io/gastracker)
 - Etherscan - [**Ethereum Average Gas Price Chart**](https://etherscan.io/chart/gasprice)
+- https://www.quicknode.com/gas-tracker/ethereum
 
 ### Charts
 
