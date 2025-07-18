@@ -1,5 +1,7 @@
 # BNB Smart Chain (BSC)
 
+- https://www.quicknode.com/chains/bsc
+
 ## Charts
 
 - https://dune.com/projects/bnbchain
