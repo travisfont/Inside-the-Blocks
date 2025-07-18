@@ -38,6 +38,7 @@
 ## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
 - -..
+- https://www.quicknode.com/stablecoins
 
 ## Educational Articles
 
