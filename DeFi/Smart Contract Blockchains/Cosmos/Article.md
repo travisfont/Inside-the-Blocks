@@ -1,5 +1,8 @@
 # Articles
 
+## Newsletters
+- https://cosmconnection.substack.com/
+
 ## Staking & Validators
 - https://blocksunited.com/how-to-stake-cosmos-atom-tokens/
 - https://blocksunited.com/staking-atom-tokens-a-smart-investment-strategy/
