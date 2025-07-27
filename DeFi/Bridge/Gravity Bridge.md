@@ -23,6 +23,10 @@
 - https://blog.althea.net/the-gravity-well/
 - https://blog.althea.net/cosmos-gravity-v2/
 - https://www.gravitybridge.net/post/the-gravity-bridge-blockchain
+## News
+
+- [**Gravity Bridge brings Ethereum to the multichain**](https://cointelegraph.com/news/gravity-bridge-brings-ethereum-to-the-multichain)
+  <br/>_Cointelegraph - Dec. 15, 2021_
 
 ## Discussions
 - https://www.reddit.com/r/cosmosnetwork/comments/ye5e7j/gravity_bridge/
