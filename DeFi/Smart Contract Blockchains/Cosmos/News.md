@@ -20,3 +20,8 @@
 ## Tweets
 
 - https://twitter.com/notionaldao/status/1732712213734178942
+
+## Supporting Projects
+
+- [**STARS Token Distribution and Airdrop**](https://mirror.xyz/stargazezone.eth/h9Bc7jODUrYB1Jw4mve3QEGVkBwBsyVebN6NP7tRl_Y)
+- Confident in Crypto - [**Stargaze Tokenomics, Airdrop, & Osmosis LBP Explained**](https://www.youtube.com/watch?v=oXvt6oUuEVk) *(Dec., 2021)*
