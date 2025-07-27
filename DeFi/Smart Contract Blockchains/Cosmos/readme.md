@@ -5,6 +5,12 @@
 - https://www.ibcprotocol.dev
 - https://ibc.fun
 - https://github.com/Inside-the-Blocks/Education/blob/main/Decentralized%20Finance/Interoperability.md
+- [**Kava**](https://www.notion.so/879bc42b5e7d46dc855599a910b1a974?pvs=21)
+- https://twitter.com/cronos_chain
+- https://tendermint.com/
+- https://research.binance.com/en/projects/cosmos-network
+- https://cryptorank.io/tag/cosmos-ecosystem
+- [**https://airdrops.one/**](https://airdrops.one/)
 
 ## YouTube Channels
 
