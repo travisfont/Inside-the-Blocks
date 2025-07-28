@@ -1,6 +1,7 @@
 # Axelar (AXL)
 
 - https://x.com/axelar
+- https://www.youtube.com/@axelar-network
 - https://cosmos.directory/axelar
 
 ## News
