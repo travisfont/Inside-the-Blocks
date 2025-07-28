@@ -14,3 +14,12 @@
   <br/>_Axelar Blog - February, 2025_
 - [Axelar's Mobius Development Stack (MDS): Unlocking a New Web3 Design Space](https://www.axelar.network/blog/mobius-development-stack-launch)
 - blockscapeLab - [**A Beginners Guide: When and How to Use the Gravity Bridge Portal**](https://blockscape-network.medium.com/a-beginners-guide-when-and-how-to-use-the-gravity-bridge-portal-97d5745025dd)
+
+## Interchain Amplifier
+
+- https://www.axelar.network/blog/amplifier-advisory-committee
+- https://stakin.com/blog/understanding-axelar-interchain-amplifier
+- https://medium.com/@grandyjules1/axelars-interchain-amplifier-so-far-0e7e7652a30d
+
+## Axelar Virtual Machine
+- https://www.axelar.network/blog/axelar-virtual-machine-future-of-interoperability
