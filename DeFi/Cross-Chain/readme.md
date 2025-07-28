@@ -1,4 +1,4 @@
-# Bridges
+# Cross-Chain Layer (Interoperability & Bridges)
 
 - **Wormhole**       (W)
 - **Axelar**         (AXL)
