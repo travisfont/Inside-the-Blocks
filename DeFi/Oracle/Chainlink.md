@@ -30,6 +30,12 @@
 
 ## Technical
 
+### Articles
+
+- [**Chainlink Functions**](https://docs.chain.link/chainlink-functions#overview)
+  <sup>[GitHub MDX](https://github.com/smartcontractkit/documentation/blob/main/src/content/chainlink-functions/index.mdx)</sup>
+  <br/>_Chainlink DevHub - June, 2025_
+
 ### Videos
 - [**Chainlink CCIP Walkthrough**](https://www.youtube.com/watch?v=yZ-vRNciSq4)
   <br/>_ETHGlobal - October 5, 2023_
