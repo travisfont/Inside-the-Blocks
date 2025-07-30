@@ -14,4 +14,7 @@
 - https://faucet.quicknode.com/drip
  
 ## Learning Solidity
+- [**Cyfrin Updraft**](https://updraft.cyfrin.io/)
 - [**Speed Run Ethereum**](https://speedrunethereum.com/)
+- [**Solidity by Example**](https://solidity-by-example.org/sending-ether/)
+  - [Sending Ether (transfer, send, call w/ receive and fallback) ](https://solidity-by-example.org/sending-ether/)
