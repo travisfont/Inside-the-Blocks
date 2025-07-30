@@ -12,3 +12,6 @@
 
 # Testnets
 - https://faucet.quicknode.com/drip
+ 
+## Learning Solidity
+- [**Speed Run Ethereum**](https://speedrunethereum.com/)
