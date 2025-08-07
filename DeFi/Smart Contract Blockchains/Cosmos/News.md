@@ -17,8 +17,10 @@
 - [**Stride temporarily shelves plans to convert STRD to ATOM**](https://blockworks.co/news/stride-atom-token-conversion)
   <br/>_Blockworks - October 13, 2023_
 
-## Tweets
+## Discussions & Tweets
 
+- [**How decentralized is the Cosmos Hub**](https://x.com/tonyler_/status/1949780678213849210)
+  _<br/>Tony (@tonyler_) - Jul 28, 2025_
 - https://twitter.com/notionaldao/status/1732712213734178942
 
 ## Supporting Projects
