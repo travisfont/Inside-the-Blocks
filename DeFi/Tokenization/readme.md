@@ -1,4 +1,16 @@
-# Real World Assets (RWA) / Tokenized Assets (Securities & Commodity Tokenization)
+# Tokenization (Tokenized Aseets / RWAs)
+
+## Securities Tokenization
+
+## Commodity Tokenization
+
+### HSBC Gold Token
+- [**HSBC launches tokenised gold for retail customers in Hong Kong as government pushes for publicly accessible digital assets**](https://www.scmp.com/business/banking-finance/article/3256859/hsbc-launches-tokenised-gold-retail-customers-hong-kong-government-pushes-publicly-accessible)
+  <br/>_South China Morning Post - March 27, 2024_
+- [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
+  <br/>_FiNews - March 26, 2024_
+
+--------
 
 > _Click here for [**Stablecoins**](https://github.com/travisfont/Inside-the-Blocks/tree/main/DeFi/Stablecoins)_
 
@@ -212,8 +224,6 @@
 - [**BlackRock Tokenizes Fund for Accredited Investors on Ethereum Blockchain**](https://thedefiant.io/news/defi/blackrock-tokenizes-fund-for-accredited-investors-on-ethereum-blockchain)
   <br/>_The Defiant - March 19, 2024_
 
-### HSBC Gold Token
-- [**HSBC launches tokenised gold for retail customers in Hong Kong as government pushes for publicly accessible digital assets**](https://www.scmp.com/business/banking-finance/article/3256859/hsbc-launches-tokenised-gold-retail-customers-hong-kong-government-pushes-publicly-accessible)
-  <br/>_South China Morning Post - March 27, 2024_
-- [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
-  <br/>_FiNews - March 26, 2024_
+
+
+### Lombard, Provenance
