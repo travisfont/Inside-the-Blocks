@@ -20,6 +20,8 @@
 ### Euro
 - EUROC
   - https://www.geckoterminal.com/eth/pools/0xba3436fd341f2c8a928452db3c5a3670d1d5cc73
+- EURAU
+  - https://allunity.com/eurau/
 - agEUR
   - https://www.geckoterminal.com/eth/pools/0xba3436fd341f2c8a928452db3c5a3670d1d5cc73
 - ibEUR
