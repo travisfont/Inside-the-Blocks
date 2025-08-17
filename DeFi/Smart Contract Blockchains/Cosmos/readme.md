@@ -19,6 +19,15 @@
 ## X Profiles
 - https://www.youtube.com/@ignitehq
 
+## liquid staking providers (LST providers)
+- https://www.stride.zone/
+- https://persistence.one/
+- https://quicksilver.zone/
+
+## Infra/validators
+- https://validator.stakeflow.io/
+- https://www.linkedin.com/company/chorus-one/
+
 ## Airdop Management
 
 > **High security risk awareness**
