@@ -25,8 +25,21 @@
 - [**Scaling The Interchain: A Deep Dive Into IBC Relayer Operations**](https://www.reddit.com/r/cryptocrewvalidators/comments/17my5d6/scaling_the_interchain_a_deep_dive_into_ibc/)
   <br/>_CryptoCrew Validator (Reddit via r/cryptocrewvalidators) - November 3, 2023_
 
+## Replicated Security
+
 ## Technical
 - [**EVM – Cosmos Convergence Research From Security Base: Part 1**](https://www.certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-1)
   <br/>_Certik - April 17, 2025_
 - [**EVM – Cosmos Convergence Research From Security Base: Part 2**](https://www.certik.com/resources/blog/evm-cosmos-convergence-research-from-security-base-part-2)
   <br/>_Certik - June 9, 2025_
+
+ ## Liquid Staking Module (LSM)
+- https://medium.com/dragonstake/introducing-liquid-staking-in-cosmos-the-gaia-v12-upgrade-and-its-implications-53e777c46b23
+- https://blog.stakeflow.io/liquid-staking-module-of-the-cosmos-hub-a1e662128577
+
+## Interchain Accounts
+
+## Interchain Queries
+
+## Architecture Decision Records (ADR)
+- https://github.com/iqlusioninc/cosmos-sdk/blob/v0.45.16-ics-lsm/docs/architecture/adr-061-liquid-staking.md
