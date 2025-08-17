@@ -11,6 +11,7 @@
 - https://research.binance.com/en/projects/cosmos-network
 - https://cryptorank.io/tag/cosmos-ecosystem
 - [**https://airdrops.one/**](https://airdrops.one/)
+- https://github.com/cosmos/gaia
 
 ## YouTube Channels
 
@@ -38,3 +39,11 @@
 - https://cosmospug.com/airdrops
 - https://twitter.com/cosmos_airdrops
 - https://www.reddit.com/r/CosmosAirdrops/ (https://www.reddit.com/r/CosmosAirdrops/comments/rcs16g/cosmos_airdrops_full_list_of_all_known_previous/)
+
+# Development
+
+- https://iqlusion.io (https://www.linkedin.com/company/iqlusion/) (https://github.com/iqlusioninc)
+- https://www.linkedin.com/company/allinbits/
+- https://www.linkedin.com/company/interchain-foundation/
+- https://www.linkedin.com/company/axelarnetwork/
+- https://github.com/iqlusioninc/liquidity-staking-module
