@@ -36,10 +36,12 @@
  ## Liquid Staking Module (LSM)
 - https://medium.com/dragonstake/introducing-liquid-staking-in-cosmos-the-gaia-v12-upgrade-and-its-implications-53e777c46b23
 - https://blog.stakeflow.io/liquid-staking-module-of-the-cosmos-hub-a1e662128577
+- [**ADR 061: Liquid Staking Module**](https://github.com/iqlusioninc/cosmos-sdk/blob/v0.45.16-ics-lsm/docs/architecture/adr-061-liquid-staking.md)
+  <br/>_Cosmos SDK Architecture Docs by Iqlusion (GitHub) - August, 2023_
 
 ## Interchain Accounts
 
 ## Interchain Queries
 
 ## Architecture Decision Records (ADR)
-- https://github.com/iqlusioninc/cosmos-sdk/blob/v0.45.16-ics-lsm/docs/architecture/adr-061-liquid-staking.md
+-[ ADR 061: **Liquid Staking Module**](https://github.com/iqlusioninc/cosmos-sdk/blob/v0.45.16-ics-lsm/docs/architecture/adr-061-liquid-staking.md) (August, 2023)
