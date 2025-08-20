@@ -2,13 +2,43 @@
 
 ## Securities Tokenization
 
+### Treasury Bils
+
+#### Matrixdock Short-term Treasury Bill Token (STBT)
+- https://www.matrixdock.com/stbt
+  - https://www.matrixdock.com/knowledge
+- https://matrixdock.gitbook.io/matrixdock-docs/english/treasury-bill-token-stbt/token-features
+
 ## Commodity Tokenization
 
-### HSBC Gold Token
+### Gold
+
+#### Matrixdock Gold
+- https://www.coingecko.com/en/coins/matrixdock-gold
+- https://dune.com/matrixdock/matrixdock-gold-xaum-dashboard
+- https://app.uniswap.org/explore/tokens/ethereum/0x2103e845c5e135493bb6c2a4f0b8651956ea8682
+- https://pancakeswap.finance/info/v3/pairs/0x497e224d7008fe47349035ddd98bedb773e1f4c5
+- https://www.matrixdock.com/xaum
+ - https://www.matrixdock.com/knowledge
+- https://matrixdock.gitbook.io/matrixdock-docs/english/gold-token-xaum/token-features
+
+#### Kinesis Gold (KAU)
+
+- https://www.coingecko.com/en/coins/kinesis-gold
+- https://kinesis.money/gold/
+  - https://kinesis.money/minting/
+
+#### HSBC Gold Token
 - [**HSBC launches tokenised gold for retail customers in Hong Kong as government pushes for publicly accessible digital assets**](https://www.scmp.com/business/banking-finance/article/3256859/hsbc-launches-tokenised-gold-retail-customers-hong-kong-government-pushes-publicly-accessible)
   <br/>_South China Morning Post - March 27, 2024_
 - [**HSBC to Launch Tokenized Gold**](https://www.finews.com/news/english-news/61987-hsbc-tokenized-gold-digital-assets-dlt-blockchain-bitcoin-apac)
   <br/>_FiNews - March 26, 2024_
+
+### Silver
+
+#### Kinesis silver (KAG)
+- https://kinesis.money/silver/
+  - https://kinesis.money/minting/
 
 --------
 
