@@ -1,5 +1,7 @@
 # Podcasts & Interviews
 
+- [**Cosmos, Institutional Infra, and Multi-Chain Future: A Conversation with Magmar (Interchain Labs)**](https://www.youtube.com/watch?v=58lXE2yRXDs)
+  <br/>_Flipside - August 20, 2025_
 - [**Splitting ATOM: What's COOKING in the Cosmos? Celestia, Rollchains, Noble & More**](https://www.youtube.com/watch?v=uOcNeWJstts)
   <br/>_Cryptocito - March 21, 2024_
 - [**Cosmos Hub ICS Security Marketplace with Jehan Tremback of Informal Systems**](https://www.youtube.com/watch?v=LKZNDG-5_sU)
