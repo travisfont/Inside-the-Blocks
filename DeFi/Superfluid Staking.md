@@ -12,3 +12,17 @@
 - https://www.reddit.com/r/CryptoCurrency/comments/tjxvcj/the_different_types_of_staking_explained_onchain/
   - https://www.reddit.com/r/cosmosnetwork/comments/t2xx6l/osmosis_superfluid_staking_tldr/
   - https://www.reddit.com/r/OsmosisLab/comments/sw1d4y/concerns_over_superfluid_staking/
+
+-----
+
+> Below subjects most likely need new readmes
+
+## Liquid Staking
+- https://archive.ph/MtW39
+
+## Slashing
+- https://docs.eigencloud.xyz/products/eigenlayer/developers/howto/build/slashing/implement-slashing
+- https://docs.celestia.org/how-to-guides/celestia-app-slashing
+- https://stakin.com/blog/understanding-slashing-in-proof-of-stake-key-risks-for-validators-and-delegators
+- https://docs.bnbchain.org/bnb-smart-chain/slashing/slash-rules/
+- https://docs.debridge.finance/the-debridge-messaging-protocol/slashing-and-delegated-staking
