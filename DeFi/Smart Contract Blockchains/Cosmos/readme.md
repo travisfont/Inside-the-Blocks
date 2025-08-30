@@ -12,6 +12,12 @@
 - https://cryptorank.io/tag/cosmos-ecosystem
 - [**https://airdrops.one/**](https://airdrops.one/)
 - https://github.com/cosmos/gaia
+- https://coinmarketcap.com/currencies/cosmos
+- https://www.stakingrewards.com/earn/cosmos
+- https://withdrawalfees.com/coins/cosmos
+- https://www.gemini.com/prices/cosmos
+- youtube.com/channel/UC8HFOUdnMnpoWmQMgeKoB3A
+- Whitepaper: https://arena-attachments.s3.amazonaws.com/18223469/9cfb81360348bb4f06f3acb00ac2f329.pdf
 
 ## YouTube Channels
 
@@ -47,3 +53,12 @@
 - https://www.linkedin.com/company/interchain-foundation/
 - https://www.linkedin.com/company/axelarnetwork/
 - https://github.com/iqlusioninc/liquidity-staking-module
+
+### Resources
+
+- [What is Cosmos? Introduction (from Cosmos Official SDK)](https://v1.cosmos.network/intro)
+- [Cosmos SDK Tutorials](https://tutorials.cosmos.network/)
+- [Mintscan - Validator Listings](https://www.mintscan.io/cosmos/validators)
+- https://hub.cosmos.network/main/validators/validator-faq.html
+- https://v1.cosmos.network/resources/whitepaper
+- [https://coinmarketcal.com/en/?form[date_range]=24%2F01%2F2022+-+01%2F08%2F2024&form[keyword]=&form[coin][]=cosmos&form[sort_by]=&form[submit]=](https://coinmarketcal.com/en/?form%5Bdate_range%5D=24%2F01%2F2022+-+01%2F08%2F2024&form%5Bkeyword%5D=&form%5Bcoin%5D%5B%5D=cosmos&form%5Bsort_by%5D=&form%5Bsubmit%5D=)
