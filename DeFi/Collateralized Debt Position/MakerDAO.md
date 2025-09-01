@@ -3,18 +3,33 @@
 
 ## Maker
 
+- TradingView (BTC): tradingview.com/symbols/MKRBTC
+- TradingView (USD): tradingview.com/symbols/MKRUSD
+- https://coinpaprika.com/coin/mkr-maker/
 - https://www.coingecko.com/en/coins/maker
 - http://makerburn.com
-- https://info.sky.money/
+- https://info.sky.money
+- https://defiexplore.com
+- https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
+- https://app.aave.com/reserve-overview/?underlyingAsset=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&marketName=proto_mainnet_v3
+- https://app.aave.com/reserve-overview/?underlyingAsset=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&marketName=proto_mainnet
 
 # Charts
 - https://dune.com/projects/makerdao
 - https://dune.com/steakhouse/makerdao
 - https://app.nansen.ai/token-god-mode?tokenAddress=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&chain=ethereum&tab=token-distribution
+- [Dune Analytics - Maker TVL vs. MKR Price per Day](https://dune.xyz/queries/15033)
+- [Dune - Maker DAO - MCD](https://dune.xyz/hagaetc/maker-dao---mcd)
+- [Dune - DAI Outstanding](https://dune.xyz/hagaetc/maker)
 
 ## Videos
 - [**Selling Fartcoin to Full Port MKR (Midcurve Taiki is Back)**](https://www.youtube.com/watch?v=yqU0iXsoZOk)
   <br/>_Taiki Maeda - Feb 22, 2025_
+- [**MakerDAO: The French Fry Certifying Bank (What is MakerDAO & Why It Matters)](https://www.youtube.com/watch?v=0ojoaURdBvM)**
+  <br/>*Bites Digital Group - August, 2022*
+- [CoinDesk - How MakerDAO Works](https://www.youtube.com/watch?v=J9q8hkyy8oM) (May, 2019)
+- [Coin Bureau - **MakerDAO Review: Complete MKR Overview**](https://www.youtube.com/watch?v=BrXmWQeteWE) (November 2019)
+- [Ternio - What is Maker Dao? - MKR Beginner Guide](https://www.youtube.com/watch?v=MAty68dujSg) (Sep, 2020)
 
 ### Notable News
 - [**MakerDAO Founder Unveils Two New Stablecoins**](https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins)
@@ -64,6 +79,21 @@
 - [**Protocol Economics Report - 2023-06**](https://forum.makerdao.com/t/protocol-economics-report-2023-06/21491/1)
 - [**Real-World Asset Report - 2023-06**](https://forum.makerdao.com/t/real-world-asset-report-2023-06/21461)
 - [**Real-World Asset Report - 2023-05**](https://forum.makerdao.com/t/real-world-asset-report-2023-05/21225)
+- https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456 (to read)
+- https://forum.makerdao.com/t/the-5-phases-of-endgame/20830 (to read)
+- [**Maker (MKR): the governance token of the MakerDAO DeFi platform](https://gagarin.news/news/maker-mkr-the-governance-token-of-the-makerdao-defi-platform/) (to read)**
+- https://messari.io/asset/maker/profile (to read)
+- [**MakerDAO Tokenomics Explained](https://academy.shrimpy.io/post/makerdao-tokenomics-explained) (to read)**
+- [https://bytetree.com/research/2022/05/the-rise-of-makerdao-and-dai](https://bytetree.com/research/2022/05/the-rise-of-makerdao-and-dai/) (to read)
+- https://www.publish0x.com/cryptocurrency/what-is-maker-mkr-a-comprehensive-guide-to-understanding-mak-xvzepo (to read)
+- https://www.livemint.com/mint-top-newsletter/cryptonotes05082022.html (to review) <~ news?
+- [**MKR crypto: Tokens underpinning MakerDAO**](https://coinloan.io/blog/mkr-crypto-tokens-underpinning-makerdao/)
+- [**Maker: A Lending Protocol in the DeFi Pulse Index**](https://indexcoop.com/blog/dpi-token-guide-mkr)
+- https://makerdao.world/en/learn/MakerDAO
+- https://github.com/DA0-DA0/dao-contracts/pull/279
+- [**MakerDAO's DAI Fell Behind Terra's UST Months Ago: Here's How It's Trying to Catch Up**](https://decrypt.co/96066/makerdaos-dai-fell-behind-terras-ust-months-ago-heres-how-its-trying-to-catch-up)
+- [**DeFi Guide: How to Use MakerDAO and Mint DAI**](https://www.finder.com/makerdao)
+  <br/>*Finder - August 18, 2021*
 
 ### Discussions
 - https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033
@@ -89,6 +119,15 @@
   <br/>_Token Terminal - Jun 7, 2023_
 - [**Rune Christensen’s Audacious Plan to Fix DAO Governance**](https://www.youtube.com/watch?v=A1igTqpoPHg)
   <br/>_Unchained - August 22, 2023_
+to review:
+- https://www.youtube.com/watch?v=iSGrgY9d3w8
+- https://www.youtube.com/watch?v=J9q8hkyy8oM (watch again)
+- [**MakerDAO's Endgame: The Boldest Gamble in Crypto History w/ Rune Christensen](https://www.youtube.com/watch?v=supK6P3DJIA)**
+  <br/>*Blockworks - May 31, 2023*
+- [**MakerDAO Founder on Tornado Cash, Stablecoin DAI, Ethereum Merge**](https://www.youtube.com/watch?v=Gb-K6gy77ZQ)
+  <br/>*CoinDesk - August 15, 2022*
+- [**The Bullish Case for MKR with Sam MacPherson, Niklas Kunkel & monetsupply.eth**](https://pca.st/ylhze1q2)
+  <br/>*Bankless - April 2, 2022*
 
 ## Spark Protocol
 
@@ -100,6 +139,48 @@
   <br/>_The Defiant - August 19, 2023_
 - [**MakerDAO-powered lending platform Spark Protocol onboards Rocket Pool staked ETH as collateral option**](https://cryptoslate.com/makerdao-powered-lending-platform-spark-protocol-onboards-rocket-pool-staked-eth-as-collateral-option/)
   <br/>_CryptoSlate - June 23, 2023_
+- [**USDC Backing Maker’s Stablecoin DAI Plummets to 23%](https://decrypt.co/142801/usdc-backing-makers-stablecoin-dai-plummets)**
+  <br/>*Decrypt - May 30, 2023*
+- [**MakerDAO proposal seeks to hike DAI savings rate to 3.33%**](https://cointelegraph.com/news/makerdao-proposal-seeks-to-hike-dai-savings-rate-to-3-33)
+  <br/>*Cointelegraph - May 27, 2023*
+- [**MakerDAO looks to more than double the DAI savings rate](https://cryptoslate.com/makerdao-looks-to-increase-dai-savings-rate-by-233-to-3-3/)**
+  <br/>*CryptoSlate - May 27, 2023*
+- [**DAI Mostly Centralized Even After Halving USDC Exposure**](https://thedefiant.io/dai-remains-mostly-backed-by-centralized-assets)
+  <br/>*The Defiant - May 26, 2023*
+- [**MakerDAO Founder Proposes Dedicated Blockchain and New DAI and MKR Tokens**](https://thedefiant.io/developers-aim-to-bring-new-defi-strategies-to-usd17b-liquid-staking-market)
+  <br/>*The Defiant - May 16, 2023*
+- [**MakerDAO publishes 5-phase roadmap featuring funding for open-source AI projects**](https://cointelegraph.com/news/makerdao-publishes-5-phase-roadmap-featuring-funding-for-open-source-ai-projects)
+  <br/>*Cointelegraph - May 12, 2023*
+- [**MakerDAO Launches Spark Lending Protocol](https://thedefiant.io/developers-aim-to-bring-new-defi-strategies-to-usd17b-liquid-staking-market)**
+  <br/>*The Defiant - May 10, 2023*
+- [**MakerDAO To Shutter SocGen’s $30M Credit Line**](https://thedefiant.io/makerdao-to-shut-socgen-vault)
+- [**Crypto Lending Protocol MakerDAO Approves Transferring a Maximum of $500M in USDC to Coinbase Custody for 2.6% Yield](https://www.coindesk.com/business/2023/04/20/crypto-lending-protocol-makerdao-approves-transferring-a-maximum-of-500m-in-usdc-to-coinbase-custody-for-26-yield/)**
+  <br/>*CoinDesk - April 20, 2023*
+- [**MakerDAO’s Plan To Enable MKR As Collateral For DAI Draws Comparisons To UST**](https://thedefiant.io/zero-knowledge-2023/)
+  <br/>*The Defiant - February 28, 2023*
+- [**MakerDAO to Challenge Aave in DAI Market](https://thedefiant.io/defi-staking-players-rally/)**
+  <br/>*The Defiant - February 10, 2023*
+- [**MakerDAO Contributors Propose First Native Liquidity Market Focused on DAI Stablecoin**](https://www.coindesk.com/markets/2023/02/08/makerdao-contributors-propose-first-native-liquidity-market-focused-on-dai-stablecoin/)
+  <br/>*CoinDesk - February 8, 2023*
+- [**MakerDAO All You Need to Know About Protocol’s Latest Proposal**](https://ambcrypto.com/makerdao-mkr-all-you-need-to-know-about-protocols-latest-proposal)
+  <br/>*AMBCrypto - November 30, 2022*
+- [**MakerDAO Co-Founder Nikolai Mushegian Dies in Drowning Accident](https://unchainedpodcast.com/makerdao-co-founder-nikolai-mushegian-dies-in-drowning-accident/)**
+  <br/>*Unchained - November 1, 2022*
+- [**MakerDAO MKR community approves ‘endgame’ proposal](https://cryptoslate.com/makerdao-mkr-community-approves-endgame-proposal/)**
+  <br/>*CryptoSlate* - *October 25, 2022*
+- [**MakerDAO Members Support Founder's 'Endgame' Plan to Break Up into MetaDAOs, $2.1B of Transfers**](https://www.coindesk.com/markets/2022/10/24/makerdao-members-support-founders-endgame-plan-to-break-up-into-metadaos-21b-of-transfers/)
+  <br/>*CoinDesk - Oct 24, 2022*
+- [**MakerDAO Partners With Coinbase Amid Centralization Concerns**](https://unchainedpodcast.com/makerdao-partners-with-coinbase-amid-centralization-concerns/)
+  <br/>*Unchained - October 25, 2022*
+- [**Curve DAO Proposal to Enable Easier CRV Rewards Passes With Overwhelming Support**](https://www.coindesk.com/tech/2022/10/12/curve-dao-proposal-to-enable-easier-crv-rewards-passes-with-overwhelming-support/)
+- [**Maker governance is voting to invest $500 million in US Treasury bills**](https://www.theblock.co/post/154515/maker-governance-is-voting-to-invest-500-million-in-us-treasury-bills?utm_source=rss&utm_medium=rss)
+  <br/>*The Block - June, 28*
+- [**MakerDAO community proposal to replace MKR governance token**](https://cointelegraph.com/news/makerdao-community-proposal-to-replace-mkr-governance-token)
+- [**MakerDAO launches biggest ever bug bounty with $10M reward**](https://cointelegraph.com/news/makerdao-launches-biggest-ever-bug-bounty-with-10m-reward)
+- [**MakerDAO Launches Record $10M Bug Bounty Program On Immunefi**](https://decrypt.co/92653/makerdao-launches-record-10m-bug-bounty-program-on-immunefi)
+- [MakerDAO Integrates Lido's Staked ETH (wstETH) as Collateral Asset](https://blog.lido.fi/makerdao-integrates-lidos-staked-eth-steth-as-collateral-asset/)
+- [MakerDAO on Collision Course With Banking Regulators](https://www.coindesk.com/makerdao-on-collision-course-with-banking-regulators)
+- [MakerDAO to dissolve Foundation and become truly decentralized again](https://cointelegraph.com/news/makerdao-to-dissolve-foundation-and-become-truly-decentralized-again)
 
 ## Tweets
 - [**Capitulation in MKR this year has been significant with 15% of the supply has sold by large funds**](https://twitter.com/pythianism/status/1734249684103999605)
