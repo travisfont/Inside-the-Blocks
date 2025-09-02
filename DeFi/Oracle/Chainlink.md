@@ -32,6 +32,8 @@
 
 ### Articles
 
+- [**Chainlink Launches Data Streams for U.S. Equities and ETFs To Power Secure Tokenized RWA Markets Onchain**](https://blog.chain.link/chainlink-data-streams-us-equities-etfs/)
+  <br/>_Chainlink Blog - August 4, 2025_
 - [**Chainlink Functions**](https://docs.chain.link/chainlink-functions#overview)
   <sup>[GitHub MDX](https://github.com/smartcontractkit/documentation/blob/main/src/content/chainlink-functions/index.mdx)</sup>
   <br/>_Chainlink DevHub - June, 2025_
