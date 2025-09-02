@@ -62,23 +62,54 @@
 
 ---
 
-## News
+## Resources
+
+- https://status.solana.com/uptime
+
+## Notable News
 - The Defiant - [**Solana Flips Ethereum By Stablecoin Volume and Google Search Traffic**](https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic)
 - The Defiant - [Jito Unveils JTO Airdrop Eligibility and Allocation](https://thedefiant.io/jito-unveils-jto-airdrop-eligibility-and-allocation)
 - Blockworks - [What to know about Jito's $165M JTO airdrop](https://blockworks.co/news/jito-airdrop-value)
+- [**Google Cloud Is Now Running a Solana Validator**](https://unchainedpodcast.com/google-cloud-is-now-running-a-solana-validator/)
+  <br/>*Unchained - November 7, 2022*
+- [**Solana back online after latest outage**](https://fortune.com/crypto/2022/10/01/solana-back-online-after-latest-outage/)
+- [**Solana Labs, Multicoin Accused of Violating Securities Law by SOL Investor**](https://www.coindesk.com/policy/2022/07/06/solana-labs-multicoin-accused-of-violating-securities-law-by-sol-investor/)
+  <br/>*CoinDesk - July 7, 2022*
+- [**Solana restarted after seven-hour outage caused by surge of transactions**](https://www.theblockcrypto.com/linked/144639/solana-restarted-after-seven-hour-outage-caused-by-surge-of-transactions)
+  <br/>*The Block - May 1, 2022*
+- [**Solana reportedly hit by DDoS attack, but network remains online**](https://cointelegraph.com/news/solana-reportedly-hit-by-ddos-attack-but-network-remains-online)
+- [**DDoS attack on Solana jams network slows down transactions but still online**](https://ambcrypto.com/ddos-attack-on-solana-jams-network-slows-down-transactions-but-still-online)
+- [**Privacy Browser Brave Expands Beyond Ethereum to Solana**](https://decrypt.co/85538/privacy-browser-brave-expands-beyond-ethereum-solana)
+- [**Reddit Co-Founder and Solana Ventures Team Up On $100M Web 3 Social Media Initiative**](https://decrypt.co/85647/reddit-co-founder-and-solana-ventures-team-up-on-100m-web-3-social-media-initiative) *Decrypt - Scott Chipolina* *****(Nov, 9 2021)*
+- [Grayscale Launches Solana Trust for Accredited Investors](https://cryptopotato.com/grayscale-launches-solana-trust-for-accredited-investors/)
+- [Grayscale Solana Trust Launches With $9.5M Under Management](https://decrypt.co/87271/grayscale-solana-trust-launches)
+- [Grayscale Has Launched a Solana Trust](https://cryptobriefing.com/grayscale-has-launched-solana-trust/?utm_source=main_feed&utm_medium=rss)
+- [**FTX-backed studio explains why Solana is better for game developers**](https://cointelegraph.com/news/ftx-backed-studio-explains-why-solana-is-better-for-game-developers)
+  <br/>*Cointelegraph - Erhan Kahraman (Nov 04, 2021)*
+- [**Solana Becomes Fourth-Biggest NFT Blockchain as SOL Overtakes Cardano**](https://dailyhodl.com/2021/11/04/solana-becomes-fourth-biggest-nft-blockchain-as-sol-overtakes-cardano/)
+  <br/>*The Daily Hodl (November 4, 2021)*
+- [This Red-Hot Solana ($SOL) Powered DeFi Token Is Up 22000% in Past Seven Weeks](https://www.cryptoglobe.com/latest/2021/09/this-red-hot-solana-sol-powered-defi-token-is-up-22000-in-past-7-weeks/)
+- [Is Solana’s parallel growth with Ethereum too good to last](https://ambcrypto.com/is-solanas-parallel-growth-with-ethereum-too-good-to-last)
 
-## Articles
+## Educational Articles
 - CoinTelegraph - [**Solana surge continues, now flipping Binance’s BNB in market cap**](https://cointelegraph.com/news/solana-sol-price-surge-flips-bnb-crypto-market-cap)
 - CoinGecko - [**What Is Solana's SPL Token Standard and Token-2022**](https://www.coingecko.com/learn/spl-solana-token-standards)
 - Umbra Research - [**MEV on Solana**](https://www.umbraresearch.xyz/writings/mev-on-solana)
 - Umbra Research - [**Lifecycle of a Solana Transaction**](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
 - Jake Pahor (Twitter) - [Solana the Ethereum killer or just another Layer 1 blockchain](https://twitter.com/jake_pahor/status/1736566966918537443)
+- [**What is Solana, and how does it work**](https://cointelegraph.com/news/what-is-solana-and-how-does-it-work)
+- [**How to Stake Solana**](https://www.cryptocompare.com/mining/guides/how-to-stake-solana/)
+- [Passive Income and Yield Farming on Solana with Raydium](https://dappradar.com/blog/passive-income-and-yield-farming-on-solana-with-raydium)
 
-## Videos
+## Educational Videos
 - [**The Rise & Fall & Rise of Solana**](https://www.youtube.com/watch?v=QHP3cIJiVBs)
   <br/>_The Defiant - Jun 26, 2024_
 - [**Time to Buy SOL: What You Need to Know**](https://www.youtube.com/watch?v=t8J9GNQkyyc)
   <br/>_Coinsider - November 10, 2023_
+- **Solana: SOL Potential in 2022**
+  <br/>*Coin Bureau - April 16, 2022*
+- [Whiteboard Crypto - What is Solana (SOL Explained with Animations)](https://www.youtube.com/watch?v=1jzROE6EhxM)
+- [The Bitcoin Express - How To Create Solana NFTs Tutorial](https://www.youtube.com/watch?v=EYYDrwdrjWs)
 
 ## Podcasts & Inteviews
 
@@ -99,7 +130,16 @@
 - https://www.youtube.com/watch?v=2uRFojEnYsM
 - https://www.youtube.com/watch?v=weKMWVbLWaA
 
-## Supporting Projects
+## Confirmed Wallets
 
-### Kamino Finance
-- CoinGecko - [**What Is Kamino Finance: A Concentrated Liquidity Layer on Solana**](https://www.coingecko.com/learn/what-is-kamino-finance-kmno)
+- https://solflare.com
+
+## Community Supporting Twitters
+
+- https://twitter.com/hashtag/Solana
+- https://twitter.com/hashtag/SolanaNFT
+- https://twitter.com/SolanaStatus
+- https://twitter.com/SolanaNews
+- https://twitter.com/Solfarmio
+- https://twitter.com/SolanaProject
+- https://twitter.com/SolanaConf
