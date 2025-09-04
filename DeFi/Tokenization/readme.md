@@ -176,6 +176,9 @@
   <br/>_Blockworks - October 25, 2023_
 - [**Bitfinex Securities announces tokenized bond**](https://cointelegraph.com/news/bitfinex-securities-announces-tokenized-bond)
   <br/>_CoinTelegraph - October 25, 2023_
+## Reports
+- [**Approaching the Tokenization Tipping Point**](https://ripple.com/lp/bcg-tokenization-report/)
+  <br/>_Ripple - April 7, 2025_
 
 ## Articles
 - [**What Are Tokenized Real-World Assets? Putting Physical Value On-Chain With RWAs**](https://decrypt.co/resources/what-are-tokenized-real-world-assets-rwa)
