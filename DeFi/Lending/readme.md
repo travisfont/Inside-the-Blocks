@@ -1,5 +1,7 @@
 # Lending & Borrowing
 
+- https://sentora.com/research/dashboards/lending-protocols
+
 ## Articles
 - Ledger Academy - [DeFi Liquidation Explained](https://www.ledger.com/academy/defi-liquidation-explained)
 - CoinGecko - [**DeFi Liquidations: What They Are and How to Monitor Them**](https://www.coingecko.com/learn/defi-liquidation-crypto)
