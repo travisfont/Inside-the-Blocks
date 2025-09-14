@@ -36,6 +36,7 @@
 
 ## Charts & Data
 - https://dune.com/21co/stablecoin-monitor
+- https://sentora.com/research/dashboards/stablecoins-insights
 
 ## General Resources
 - Wikipedia - [**Stablecoin**](https://en.wikipedia.org/wiki/Stablecoin)
