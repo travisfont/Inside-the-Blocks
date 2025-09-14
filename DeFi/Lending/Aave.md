@@ -3,6 +3,7 @@
 ## Charts
 
 - https://dune.com/projects/aave
+- https://sentora.com/research/dashboards/aave-v3-across-blockchains
 
 ## Notable News
 - [**Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It**](https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it)
