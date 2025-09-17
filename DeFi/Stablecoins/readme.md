@@ -86,7 +86,8 @@
 
 ## Notable News
 > - [**Stable School News**](https://stableschool.org/news)
-
+- [**State of stablecoins after GENIUS Act: Expert weighs in**](https://cointelegraph.com/news/the-state-of-stablecoins-after-genius-act-expert-weighs-in)
+  <br/>_CoinTelegraph - August 01, 2025_
 - [**6 Stablecoins That Are Driving the Sector’s Two-Year High in Market Capitalization**](https://unchainedcrypto.com/6-stablecoins-that-are-driving-the-sectors-two-year-high-in-market-capitalization/)
   <br/>_Unchained - August 30, 2024_
 - [**Circle Becomes Europe’s First Compliant Stablecoin Issuer**](https://thedefiant.io/news/defi/circle-becomes-europe-s-first-compliant-stablecoin-issuer)
