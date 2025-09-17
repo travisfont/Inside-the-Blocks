@@ -7,6 +7,8 @@
 - Dune (by murathan) - [**LST Wars**](https://dune.com/murathan/lst-wars)
 
 ### News
+- [**SEC Says Liquid Staking Tokens Are Not Securities**](https://thedefiant.io/news/regulation/sec-clarifies-liquid-staking-tokens-securities-76ab000c)
+  <br/>_The Defiant - August 05, 2025_
 
 ### Articles
 - Shoal Research - [**Liquid Restaking Tokens: A new Frontier for Yield**](https://www.shoal.gg/p/liquid-restaking-tokens-a-new-frontier)
