@@ -8,6 +8,7 @@
 
 ## News
 
+- [**The Sandbox Cuts Half of Its Staff, Restructures as Animoca Brands Take Control**](https://www.coindesk.com/business/2025/08/28/the-sandbox-cuts-50-staff-restructures-as-animoca-brands-take-control)
 - [**Demand for Land in The Sandbox Reaches Record Heights**](https://dappradar.com/blog/demand-virtual-land-in-the-sandbox-metaverse-reaches-record-heights)
 - [**The Sandbox Scores $93 Million Investment Led by Softbank as Metaverse Tokens Thrive**](https://news.bitcoin.com/the-sandbox-scores-93-million-investment-led-by-softbank-as-metaverse-tokens-thrive/) ()
   - [**The Sandbox Receives $93 Million to Fund Creator Economy**](https://dappradar.com/blog/the-sandbox-receives-93-million-to-fund-creator-economy)
