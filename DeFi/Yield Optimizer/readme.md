@@ -1,6 +1,6 @@
 # Yield Optimizers (Aggregators)
 
-- **Convex**
+- [**Convex**](/DeFi/Yield%20Optimizer/Convex.md)
 
 | Protocol | Primary Focus | Best For... | Risk Profile |
 | :--- | :--- | :--- | :--- |
