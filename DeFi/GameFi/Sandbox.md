@@ -8,6 +8,7 @@
 
 ## News
 
+- [**The Sandbox co-founders ousted from exec roles amid mass layoffs**](https://blockworks.co/news/sandbox-co-founders-ousted-layoffs)
 - [**The Sandbox Cuts Half of Its Staff, Restructures as Animoca Brands Take Control**](https://www.coindesk.com/business/2025/08/28/the-sandbox-cuts-50-staff-restructures-as-animoca-brands-take-control)
 - [**Demand for Land in The Sandbox Reaches Record Heights**](https://dappradar.com/blog/demand-virtual-land-in-the-sandbox-metaverse-reaches-record-heights)
 - [**The Sandbox Scores $93 Million Investment Led by Softbank as Metaverse Tokens Thrive**](https://news.bitcoin.com/the-sandbox-scores-93-million-investment-led-by-softbank-as-metaverse-tokens-thrive/) ()
