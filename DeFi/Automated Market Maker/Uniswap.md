@@ -1,13 +1,22 @@
 # Uniswap
 
-> A decentralized exchange operating in the DeFi space where users can earn native UNI tokens by offering liquidity.
+> Asset Swaps: A decentralized exchange operating in the DeFi space where users can earn native UNI tokens by offering liquidity.
 
+- https://uniswap.org/
+- coingecko.com/en/coins/uniswap
+- https://twitter.com/UniswapProtocol / @UniswapProtocol
 - https://dune.com/projects/uniswap
 - https://app.intotheblock.com/insights/defi/protocols/uniswap
 - https://poolfish.xyz/pools/ethereum/uniswap
 - https://vote.uniswapfoundation.org/voters
 - https://www.tally.xyz/gov/uniswap/delegates
 - https://www.coingecko.com/learn/geckopulse-the-aftermath-of-massive-liquidations?locale=en
+- https://www.tradingview.com/symbols/UNIBTC/?exchange=BINANCE
+- https://www.tradingview.com/symbols/UNIUSD/?exchange=BINANCE
+- https://www.gemini.com/prices/uniswap
+- messari.io/asset/uniswap/profile
+- cryptocompare.com/coins/uni
+- coinmarketcap.com/currencies/uniswap
 
 ----
 
