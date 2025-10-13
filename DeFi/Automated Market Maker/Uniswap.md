@@ -1,10 +1,13 @@
 # Uniswap
 
+> A decentralized exchange operating in the DeFi space where users can earn native UNI tokens by offering liquidity.
+
 - https://dune.com/projects/uniswap
 - https://app.intotheblock.com/insights/defi/protocols/uniswap
 - https://poolfish.xyz/pools/ethereum/uniswap
 - https://vote.uniswapfoundation.org/voters
 - https://www.tally.xyz/gov/uniswap/delegates
+- https://www.coingecko.com/learn/geckopulse-the-aftermath-of-massive-liquidations?locale=en
 
 ----
 
@@ -24,6 +27,9 @@
 ----
 
 ## Charts & Data
+- https://info.uniswap.org/#/
+- [Dune - Uniswap USD Volume (in 24 hours)](https://dune.xyz/hagaetc/uniswap-usd-volume)
+
 
 # Resources
 
@@ -34,6 +40,13 @@
   <br/>_Shoal Research - June 30, 2023_
 - [**Uniswap Wallet Is Available Now**](https://blog.uniswap.org/uniswap-mobile-wallet-release)
   <br/>_Uniswap Labs Blog - April 13, 2023_
+- [**97.7% of Tokens Launched on Uniswap Were Rugs**](https://arxiv.org/pdf/2201.07220.pdf)
+- [**Introducing UniStark: Uniswap, only Warp’ed to StarkNet**](https://medium.com/nethermind-eth/introducing-unistark-uniswap-only-warped-to-starknet-6b62d3a96690)
+- [Should Uniswap be an oracle protocol: Always Has Been](https://mirror.xyz/0x7B542178633f16940a131F8F6d670ffdbBe6b2Ab/87cOAsmHu86iDOZ0z_kqJkU6_iiBU41YBiv5h8fxLps)
+- https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504
+- [Cryptopedia - What is Uniswap: A Breakdown](https://www.gemini.com/cryptopedia/uniswap-decentralized-exchange-crypto-defi)
+- [**What Is Uniswap: Understanding the Largest Decentralized Exchange**](https://www.cryptocompare.com/exchanges/guides/what-is-uniswap-understanding-the-largest-decentralized-exchange/)
+- [**How to use UniSwap: A step-by-step beginner's guide**](https://cointelegraph.com/news/how-to-use-uniswap-a-step-by-step-beginner-s-guide)
   
 ### Technical
 - [**Introduction to Uniswap V4**](https://www.youtube.com/watch?v=eI-rXyWcG2M)
@@ -44,8 +57,11 @@
   <br/>_Bankless - Feb 11, 2025_
 - [**"We Plan to Win" with Hayden Adams on Uniswap vs. the SEC**](https://www.youtube.com/watch?v=S2r35SDiCAY)
   <br/>_Bankless - April 12, 2024_
+- [**Uniswap V4 Announced by Founder Hayden Adams**](https://www.youtube.com/watch?v=ZmhdNiGOMRU&t=3366s)
+  <br/>*Bankless - June 14, 2023*
 
 ## Videos
+- [Coin Bureau - Uniswap or Pancakeswap: Battle of Dexe](https://www.youtube.com/watch?v=7rEqGX4eRnk) (Feb 27, 2021)
 
 ## Tweets
 - [**Officially hit ATH for monthly Uniswap volume on L2s**](https://twitter.com/Uniswap/status/1773719843147010463)
@@ -65,3 +81,18 @@
   <br/>_CoinTelegraph - April 1, 2023_
 - [**Uniswap Visa Card Proposal is Facing Opposition Among UNI Token Holders**](https://thedefiant.io/uniswap-visa-card-proposal-is-facing-opposition-among-token-holders)
   <br/>_The Defiant - October 23, 2023_
+- [**Uniswap DAO debate shows devs still struggle to secure cross-chain bridges](https://cointelegraph.com/news/uniswap-dao-debate-shows-devs-still-struggle-to-secure-cross-chain-bridges)**
+  <br/>*Cointelegraph - Feburary 26, 2023*
+- [**Uniswap Labs Launches Two New Smart Contracts](https://unchainedpodcast.com/uniswap-labs-launches-two-new-smart-contracts/)**
+  <br/>*Unchained - November 18, 2022*
+- [**Ethereum Decentralized Exchange Uniswap Raises $165M in New Funding](https://decrypt.co/111921/ethereum-decentralized-exchange-uniswap-raises-165m-in-new-funding)**
+  <br/>*Decrypt - Oct 13, 2022*
+- [**DeFi Trading Hub Uniswap Surpasses $1T in Lifetime Volume**](https://www.coindesk.com/business/2022/05/24/defi-trading-hub-uniswap-surpasses-1t-in-lifetime-volume/)
+  <br/>*CoinDesk - May 25, 2022*
+- [**JPMorgan Chase closes Uniswap founder's bank accounts**](https://www.theblockcrypto.com/post/131314/jpmorgan-chase-closes-uniswap-founders-bank-accounts)
+  <br/>*The Block - Yogita Khatri (January 24, 2022)*
+- [**Uniswap Community Votes to Deploy v3 on Polygon**](https://news.bitcoin.com/uniswap-community-votes-to-deploy-v3-on-polygon-contract-support-coming-in-a-few-days/)
+- [**Looking back at growth Uniswap’s CEO pushes development direction for 2022**](https://ambcrypto.com/looking-back-at-growth-uniswaps-ceo-pushes-development-direction-for-2022)
+- [Uniswap v3 Is Live as DEX Aims to Become Ethereum’s Indisputable No. 1](https://www.coindesk.com/uniswap-v3-live)
+- [3 reasons why Uniswap (UNI) token hit a new all-time high above $15](https://cointelegraph.com/news/3-reasons-why-uniswap-uni-token-hit-a-new-all-time-high-above-15)
+- [**Uniswap v3 Comes Out Tomorrow. Here’s What to Expect**](https://decrypt.co/69920/uniswap-v3-comes-tomorrow-heres-what-expect)
