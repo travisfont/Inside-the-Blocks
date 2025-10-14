@@ -24,6 +24,7 @@
 
 #### Notables Articles
 
+- [**The State of DeFi Exploit Risk**](https://www.coindesk.com/coindesk-indices/2025/10/08/the-state-of-defi-exploit-risk)
 - [**A Comparative Analysis of Decentralized Social Protocols**](https://mirror.xyz/1kx.eth/tXasEjk3t7YX8XWSkhelUBTnQ3kf46Bux-0ooR42x0w)
   <br/>_1kx.eth (Mirror) - November 30th, 2023_
 - Hackernoon - [**Liquidations in Decentralized Finance: A Comprehensive Review**](https://hackernoon.com/liquidations-in-decentralized-finance-a-comprehensive-review)
