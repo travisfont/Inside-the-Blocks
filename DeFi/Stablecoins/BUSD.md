@@ -6,5 +6,5 @@
 
 ## Notable News
 
-- [**Binance Expands Stablecoin BUSD to Polygon, Avalanche](https://decrypt.co/110160/binance-expands-stablecoin-busd-polygon-avalanche)**
+- [**Binance Expands Stablecoin BUSD to Polygon, Avalanche**](https://decrypt.co/110160/binance-expands-stablecoin-busd-polygon-avalanche)
   <br/>_Decrypt - Sep 20, 2022_
