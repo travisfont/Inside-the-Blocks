@@ -6,6 +6,8 @@
 - https://www.quicknode.com/chains/bsc
 - https://wiki.rugdoc.io/docs/intro-to-bsc-binance-smart-chain/
 
+> For Binance USD: [**Stablecoins/BUSD**](/DeFi/Stablecoins/BUSD.md)
+
 ## Charts
 
 - https://dune.com/projects/bnbchain
