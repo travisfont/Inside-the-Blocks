@@ -1,4 +1,4 @@
-# Binancce Smmart Chhain / BSC (NB)
+# Binancce Smmart Chhain / BSC (BNB)
 
 - https://dappradar.com/rankings/protocol/binance-smart-chain
 - https://bscproject.org/#/rank
