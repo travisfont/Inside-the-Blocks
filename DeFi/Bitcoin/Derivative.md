@@ -147,6 +147,22 @@
 
 - [Bedrock Vulnerability Allows Hacker To Drain $2M From UniBTC Liquidity Pools](https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools)
 
+### ether.fi BTC (eBTC)
+- https://etherscan.io/token/0x657e8C867D8B37dCC18fA4Caead9C45EB088C642
+- https://app.euler.finance/vault/0xC605471aE09e0b7daA9e8813707d0DDbf9429Ad2?network=ethereum
+
+### Midas BTC Yield Token (mBTC)
+- https://etherscan.io/token/0x007115416AB6c266329a03B09a8aa39aC2eF7d9d
+- https://app.euler.finance/vault/0xD7B67cF0e7EDA8268b0f42de82dF87DfCC9a8537?network=ethereum
+
+### Staked Stream BTC (xBTC)
+- https://etherscan.io/token/0x12fd502e2052CaFB41eccC5B596023d9978057d6
+- https://app.euler.finance/vault/0xbBc4BC013F1C9Ed674098A6d156C02C0a21a285C?network=ethereum
+
+### Bitcoin MEV Capital (mevBTC)
+- https://etherscan.io/token/0xb64C014307622eB15046C66fF71D04258F5963DC
+- https://app.euler.finance/vault/0xe01354f8A8fa44E87d96574D1E5Bcd78D61d6EbE?network=ethereum
+
 ----
 
 ### Articles
