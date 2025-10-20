@@ -257,6 +257,17 @@
 - [**BlackRock Tokenizes Fund for Accredited Investors on Ethereum Blockchain**](https://thedefiant.io/news/defi/blackrock-tokenizes-fund-for-accredited-investors-on-ethereum-blockchain)
   <br/>_The Defiant - March 19, 2024_
 
-
-
 ### Lombard, Provenance
+
+## Digital Asset Treasury (DAT)
+- https://x.com/cosmos/status/1956405519159296300
+- https://www.halborn.com/blog/post/what-is-a-digital-asset-treasury-dat-company
+- https://www.linkedin.com/pulse/digital-asset-treasuries-dats-new-frontier-corporate-finance-dal-mas-6xhaf
+- https://www.linkedin.com/pulse/digital-asset-treasury-dat-from-niche-strategy-new-class-hock-lai-xp49c
+- https://www.galaxy.com/insights/research/digital-asset-treasury-companies
+- https://www.oax.org/2025/10/12/An-Introduction-to-Digital-Asset-Treasuries.html
+- https://research.despread.io/digital-asset-treasury/
+- https://www.axios.com/2025/06/03/crypto-strategy-bitcoin-digital-asset-treasuries
+- https://coincentral.com/bitcoin-proxy-bets-through-treasury-firms-wipe-out-17-billion-losses/
+- https://www.coindesk.com/opinion/2025/10/17/your-company-s-balance-sheet-is-doomed-without-bitcoin
+- https://x.com/SharpLinkGaming
