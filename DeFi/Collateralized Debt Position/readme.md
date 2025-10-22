@@ -13,7 +13,7 @@
 
 |  Platform                              |  Core Mechanism                         |  Notes                                                                                     |
 |----------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------|
-|  **Sky Protocol/MakerDAO**            | Classic crypto-backed CDPs issuingDAI   |  Overcollateralized vaults using ETH, USDC, RWAs; fully decentralized governance     |
+|  **Sky Protocol/MakerDAO**             | Classic crypto-backed CDPs issuingDAI   |  Overcollateralized vaults using ETH, USDC, RWAs; fully decentralized governance     |
 |  **Aave**                              | Overcollateralized borrowing & lending  |  Leading non-custodial lending protocol, supports flash loans, stable/variable rates |
 |  **Compound Finance**                  | Algorithmic money markets               |  Automatically adjusting interest rates; base for many other lending markets         |
 |  **Liquity**                           | ETH-backed loans issuingLUSD            |  Zero-interest loans, fully immutable, no governance                                 |
@@ -22,7 +22,7 @@
 |  **Hundred Finance**                   | Multi-chain lending hub                 |  Uses veHND mechanics; fork of Compound; cross-chain CDP features                    |
 |  **Instadapp Lite**                    | Smart account for CDPs                  |  Automated vault management on Maker, Aave, Compound                                 |
 |  **Venus Protocol**                    | Synthetic CDPs issuingVAI stablecoin    |  Combines Compound-style markets with stablecoin minting                             |
-|  **Radiant Capital**                  | Unified cross-chain money market        |  Built on LayerZero tech for omni-chain liquidity; collateralized lending            |
+|  **Radiant Capital**                   | Unified cross-chain money market        |  Built on LayerZero tech for omni-chain liquidity; collateralized lending            |
 
 ## Solana
 
@@ -39,7 +39,7 @@
 | **Tulip**             |  Yield aggregation, leveraged yield strategies                                          |  Lending with auto-compounding/Yield farming            |
 | **Hubble Protocol**   |  Borrow USDH stablecoin, overcollateralized, dynamic liquidations                       |  Hubble’s CDP vaults are optimized for Solana           |
 
-##A Cosmos
+## Cosmos
 
 |  Platform            |  Chain                     |  Core Mechanism                                   |  Notes                                                                       |
 |----------------------|----------------------------|---------------------------------------------------|------------------------------------------------------------------------------|
