@@ -35,6 +35,8 @@
   <br/>_Leviathan News - January 9, 2025_
 
 ## Charts & Data
+
+- https://app.stablewatch.io/?categoryMode=OR&chainMode=OR
 - https://dune.com/21co/stablecoin-monitor
 - https://stablecoinmonitor.com
 - https://sentora.com/research/dashboards/stablecoins-insights
