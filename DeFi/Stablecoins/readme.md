@@ -4,6 +4,9 @@
 
 ### US Dollar
 - Dai (DAI)
+- USDS (Sjy)
+  - https://x.com/stablewatchHQ/status/1975946014721728678
+  - https://x.com/stablewatchHQ/status/1978120833328406819
 - USD Coin (USDC) 
 - Tether (USDT)
 - [**Curve.Fi USD**](/DeFi/Stablecoins/Curve%20USD.md) (crvUSD)
@@ -141,6 +144,8 @@
 
 ## Misc. Stablecoin Mentions
 
+#### USDD 
+- https://x.com/stablewatchHQ/status/1980892314558959797
 ####  Global Dollar (USDG)
 - [**Robinhood and Kraken launch new global stablecoin network with Paxos's USDG**](https://cryptobriefing.com/launch-usdg-stablecoin-network/)
   <br/>_Crypto Briefing - November 04, 2024_
