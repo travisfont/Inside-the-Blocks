@@ -9,7 +9,7 @@
 - https://www.coingecko.com/en/exchanges/levana-perps-osmosis
 - https://score.bronbro.io/network?network=osmosis
 - https://www.datalenses.zone/chain/osmosis/overview
-- ttps://defillama.com/chain/Osmosis
+- https://defillama.com/chain/Osmosis
 - https://cryptofees.info/protocol/osmosis
 - https://www.certik.com/projects/osmosis
 - https://www.mintscan.io/osmosis/validators
