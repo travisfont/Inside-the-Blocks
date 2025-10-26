@@ -1,5 +1,7 @@
 # Axelar (AXL)
 
+- [axelar.network](https://www.axelar.network/)
+- coingecko.com/en/coins/axelar-network
 - https://x.com/axelar
 - https://www.youtube.com/@axelar-network
 - https://cosmos.directory/axelar
@@ -8,6 +10,14 @@
 
 - [**Axelar prepares tokenomic overhaul for AXL**](https://blockworks.co/news/axelear-tokenomics-axl-overhaul-deflationary-blockchain-integration)
   <br/>_Blockworks - October 11, 2023_
+- [**Tech Talks with Tomer: Smart Contracts & Interoperability with Axelar Co-founder Sergey Gorbunov**](https://stellar.org/blog/tech-talks-with-tomer-smart-contracts-and-interoperability-with-axelar-co-founder-sergey-gorbunov)
+  <br/>*Stellar Foundation - April 26, 2023*
+- [**Axelar's General Message Passing Launch with Sergey Gorbunov, Zaki Manian, & Steven Goldfeder)**](https://www.youtube.com/watch?v=erZyGlxchsA
+  <br/>*Bankless - May 3, 2023*
+- [**Axelar, Bridges, and Blockchain Globalization**](https://medium.com/dragonfly-research/axelar-bridges-and-blockchain-globalization-11ef3bbce9f1)
+  <br/>*Haseeb Qureshi - June 8, 2022*
+- [**How Much Gas to Get Over the Bridge**](https://axelar.network/blog/cross-chain-gas-costs-on-satellite-explained)
+  <br/>*Axelar Blog - November 30, 2022*
 
 ## Articles
 - [**The Path to Infinite Interop: ‘Cobalt’ Upgrade Hardens AXL Tokenomics & Expands Utility**](https://www.axelar.network/blog/cobalt-tokenomics-upgrade)
