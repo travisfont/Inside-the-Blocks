@@ -41,3 +41,43 @@
 ### Videos
 - [**Chainlink CCIP Walkthrough**](https://www.youtube.com/watch?v=yZ-vRNciSq4)
   <br/>_ETHGlobal - October 5, 2023_
+
+### Educational Resources
+
+- [**Chainlink: CoinGecko to Provide Cryptocurrency Market Data and Validation Capital’s Oracle Node on Chainlink**](https://medium.com/paradigm-fund/chainlink-coingecko-to-provide-cryptocurrency-market-data-and-validation-capitals-oracle-node-on-c0cfce1a5fe6)
+- [**Chainlink brings Verifiable Randomness to Ethereum mainnet, keeps other chains insight**](https://cointelegraph.com/news/chainlink-brings-verifiable-randomness-to-ethereum-mainnet-keeps-other-chains-in-sight)
+- 
+
+### Notable News
+
+- [**Chainlink Launches Staking Service as LINK Rallies 32%](https://thedefiant.io/mapping-the-ftx-contagion-part-2)
+  <br/>_The Defiant - December 07, 2022_
+- [**‘A solvable problem’: Chainlink founder Sergey Nazarov remains bullish on cross-chain future with SWIFT partnership**](https://fortune.com/crypto/2022/09/28/chainlink-founder-sergey-nazarov-bullish-on-cross-chain-future-with-swift/)
+- [**Next Up for Chainlink in 2022: LINK Staking and ‘Internet of Blockchains’**](https://decrypt.co/89958/whats-next-chainlink-2022-link-staking-internet-of-blockchains)
+- [**Staking Is Coming To Chainlink In 2022**](https://cryptosrus.com/staking-is-coming-to-chainlink-in-2022/)
+- [**Former Google CEO is now a strategic advisor for Chainlink Labs**](https://cointelegraph.com/news/former-google-ceo-is-now-a-strategic-advisor-for-chainlink-labs)
+- [What do DeFi tokens and oracle-tokens like Chainlink have in common](https://ambcrypto.com/what-do-defi-tokens-and-oracle-tokens-like-chainlink-have-in-common) (Oct. 24, 2021)
+- [Chainlink onboards an average of 1.4 new partners each day in 2021](https://cointelegraph.com/news/chainlink-onboards-an-average-of-1-4-new-partners-each-day-in-2021) (Jul. 21, 2021)
+
+## Supporting Wallets
+
+- [Exodus](https://www.exodus.io/chainlink-wallet)
+
+## Charts & Data
+
+- https://app.flipsidecrypto.com/cooperative/chainlink
+
+### Educational Videos
+
+- [**Exodus Wallet - What is Chainlink**](https://www.youtube.com/watch?v=bumJdbUrfsQ)  *(Apr., 2020)*
+- [**Hashoshi - Chainlink Cryptocurrency: The Ultimate Guide to Chainlink**](https://www.youtube.com/watch?v=m_1uDhsnghw)  *(May, 2020)*
+- [Chainlink - What is a Blockchain Oracle: What is the Oracle Problem](https://www.youtube.com/watch?v=ZJfkNzyO7-U)  *(Aug., 2020)*
+- [Coin Bureau - Chainlink: Why I'm Bullish on LINK](https://www.youtube.com/watch?v=-pUR9WPIrX0)  *(May 15, 2020)*
+- [Bitcoin for Beginners - Chainlink Explained for Beginners: Overview & Review 2019](https://www.youtube.com/watch?v=vied6FkvO00)  *(Aug., 2019)*
+- [Coin Bureau - Chainlink Review 2020: LINK Potential](https://www.youtube.com/watch?v=8VRP2wEx9Z8)  *(Dec.. 2019)*
+- [Anthony Pompliano - Sergey Nazarov, CEO of Chainlink: Smart Contracts 101](https://www.youtube.com/watch?v=OTaSvj9Fc60)  *(Feb., 2019)*
+
+### Educational Articles
+
+- [**The Chainlink Economics 2.0 Staking Protocol and Staking v0.1 Launch Details**](https://blog.chain.link/chainlink-staking-launch-details/)
+- [Bitcoin Suisse - What is Chainlink?](https://www.bitcoinsuisse.com/fundamentals/what-is-chainlink) (November, 2020)
