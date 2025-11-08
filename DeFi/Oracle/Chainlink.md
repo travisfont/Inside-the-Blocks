@@ -1,7 +1,17 @@
 # Chainlink (LINK)
 
+> A decentralized data-connection network that links smart contracts with real-world information, allowing them to securely access data from outside the blockchain.
+
+- [**chain.link**](https://chain.link/)
 - https://www.youtube.com/@chainlink
 - https://www.coingecko.com/en/coins/chainlink
+- coinpaprika.com/coin/link-chainlink
+- coinmarketcap.com/currencies/chainlink
+- https://www.stakingrewards.com/earn/chainlink
+- medium.com/chainlink
+- tradingview.com/symbols/LINKUSD
+- twitter.com/chainlink (@chainlink)
+- https://www.reddit.com/r/chainlink/
 - https://github.com/Inside-the-Blocks/Education/blob/main/Decentralized%20Finance/Interoperability.md
 
 ## News
