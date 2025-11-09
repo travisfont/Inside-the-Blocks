@@ -62,3 +62,19 @@
 - https://hub.cosmos.network/main/validators/validator-faq.html
 - https://v1.cosmos.network/resources/whitepaper
 - [https://coinmarketcal.com/en/?form[date_range]=24%2F01%2F2022+-+01%2F08%2F2024&form[keyword]=&form[coin][]=cosmos&form[sort_by]=&form[submit]=](https://coinmarketcal.com/en/?form%5Bdate_range%5D=24%2F01%2F2022+-+01%2F08%2F2024&form%5Bkeyword%5D=&form%5Bcoin%5D%5B%5D=cosmos&form%5Bsort_by%5D=&form%5Bsubmit%5D=)
+
+## Conference
+
+### Cosmoverse
+- Cryptocito - [**Cosmoverse 2025 (Day 3)**](https://www.youtube.com/watch?v=1GgHiR0BUoc)
+- Cryptocito - [**Cosmoverse 2025 (Day 2)**](https://www.youtube.com/watch?v=yXeaJ3tlfss)
+- Cryptocito - [**Cosmoverse 2025 (Day 1)**](https://www.youtube.com/watch?v=d51czpptqAs)
+- Cryptocito - [**Cosmoverse 2024 (Day 1)**](https://www.youtube.com/watch?v=xe58Deq9Ryk)
+- Cryptocito - [**Cosmoverse 2024 (Day 2)**](https://www.youtube.com/watch?v=umjZRhKx3Hc)
+- Cryptocito - [**Cosmoverse 2024 (Day 3)**](https://www.youtube.com/watch?v=cPN85VmH0Y8)
+- Cryptocito - [**Cosmoverse 2023 (Day 1)**](https://www.youtube.com/watch?v=alcagZSfxe0)
+- Cryptocito - [**Cosmoverse 2023 (Day 2)**](https://www.youtube.com/watch?v=p08m4gqPu8o)
+- Cryptocito - [**Cosmoverse 2023 (Day 3)**](https://www.youtube.com/watch?v=5LxKk1YMXIM)
+- Cryptocito - [**Cosmoverse 2022 (Day 1)**](https://www.youtube.com/watch?v=Z2ZBKo9-iRs&pp=0gcJCQMKAYcqIYzv)
+- Cryptocito - [**Cosmoverse 2022 (Day 2)**](https://www.youtube.com/watch?v=eBiOgvr5wEQ&pp=0gcJCQMKAYcqIYzv)
+- Cryptocito - [**Cosmoverse 2022 (Day 3)**](https://i.ytimg.com/an_webp/O4uB4_q95rs/mqdefault_6s.webp?du=3000&sqp=COCHw8gG&rs=AOn4CLCEcptVdwnpkeZkrmlj27mUCtHltQ)
