@@ -168,3 +168,7 @@
 - [**Algo-stablecoin $USDN collapsed without too much drama on CT**](https://twitter.com/DefiIgnas/status/1643447914294034434)
   <br/>_Twitter (DefiIgnas) - April 5, 2023_
 - [**Waves founder announces new stablecoin as USDN depegs**](https://cointelegraph.com/news/waves-founder-announces-new-stablecoin-as-usdn-depegs) _(December 20, 2022)_
+
+
+## Conferences
+- https://www.linkedin.com/showcase/stable-summit/
