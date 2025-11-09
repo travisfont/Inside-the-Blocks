@@ -2,6 +2,8 @@
 
 - [**Cosmos, Institutional Infra, and Multi-Chain Future: A Conversation with Magmar (Interchain Labs)**](https://www.youtube.com/watch?v=58lXE2yRXDs)
   <br/>_Flipside - August 20, 2025_
+- [**A New Chapter for Cosmos & The Interchain: Cosmos, ATOM and The 2025 Roadmap**](https://www.youtube.com/watch?v=rcAysIde-po)
+  <br/>_Cryptocito - December 13, 2024_
 - [**Splitting ATOM: What's COOKING in the Cosmos? Celestia, Rollchains, Noble & More**](https://www.youtube.com/watch?v=uOcNeWJstts)
   <br/>_Cryptocito - March 21, 2024_
 - [**Cosmos Hub ICS Security Marketplace with Jehan Tremback of Informal Systems**](https://www.youtube.com/watch?v=LKZNDG-5_sU)
