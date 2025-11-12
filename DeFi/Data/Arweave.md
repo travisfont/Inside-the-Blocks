@@ -1,5 +1,9 @@
 # Arweave (AR)
 
+> Permanent Decentralized data storage
+
+- [coinpaprika.com/coin/ar-arweave](https://coinpaprika.com/coin/ar-arweave/)
+- [coinmarketcap.com/currencies/arweave](https://coinmarketcap.com/currencies/arweave/)
 - https://app.ardrive.io
 - [**Intro to Arweave, a blockchain cloud storage platform**](https://cryptoslate.com/intro-to-arweave-a-blockchain-cloud-storage-platform-footprint-analytics/)
 - [**Arweave vs Filecoin**](https://ardrive.io/arweave-vs-filecoin)
