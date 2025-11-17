@@ -22,6 +22,8 @@
 - https://docs.hedera.com/hedera/open-source-solutions/interoperability-and-bridging
 - https://blockandcapital.com/en/atomic-swaps-vs-bridges-interoperability-comparison-of-these-technologies/
 - https://blog.arcana.network/unlocking-interoperability/
+- [**Gravity & ICA: A Portal to the Cosmos**](https://www.gravitybridge.net/post/gravity-ica-a-portal-to-the-cosmos)
+  <br/>_Gravity Bridge Blog - Sep 26, 2022_
 
 ## Videos
 - https://www.youtube.com/watch?v=YhMx_NPdrxc
