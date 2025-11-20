@@ -8,6 +8,26 @@
 - https://ccdata.io/research/chart-of-the-week
 - [**CoinDesk Indices**](https://www.coindesk.com/indices)
 - [**BitPanda Indices**](https://www.bitpanda.com/en/invest/bci-bitpanda-crypto-index)
+- https://defillama.com/
+- https://app.intotheblock.com/
+- https://moneyprinter.info/
+- https://explore.duneanalytics.com/queries/1847/source#3261
+- https://duneanalytics.com/hagaetc/dex-metrics
+- https://duneanalytics.com/Brecht/loopring
+- https://duneanalytics.com/hagaetc/maker-dao---mcd
+- https://duneanalytics.com/johnz/first
+- https://duneanalytics.com/Messari_Jack/messari-dashboard-dai-supply
+- https://duneanalytics.com/johaya/stablecoin-users-trend
+- https://duneanalytics.com/rchen8/defi-users-over-time
+- https://duneanalytics.com/mrblocktw/uniswap-token
+- [https://cbeci.org/cbeci/comparisons](https://cbeci.org/cbeci/comparisons?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- https://defipulse.com/
+- https://dappradar.com/defi
+- https://www.theblock.co/data/crypto-markets/prices
+- https://www.theblock.co/data/decentralized-finance/cryptocurrency-lending
+- https://www.theblock.co/data/decentralized-finance/asset-management
+- https://www.theblock.co/data/scaling-solutions/non-evm-chains-stats
+- https://www.theblock.co/data/scaling-solutions/evm-chains-stats
 
 ## Digital Currencies
 - **CDBC**
