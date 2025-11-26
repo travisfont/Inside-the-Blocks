@@ -1,5 +1,15 @@
 # Nano
 
+- nano.org
+- twitter.com/nano
+- [reddit.com/r/nanocurrency](https://www.reddit.com/r/nanocurrency/)
+- [tradingview.com/symbols/NANOUSD](https://www.tradingview.com/symbols/NANOUSD/?exchange=BINANCE)
+- [coingecko.com/en/coins/nano](https://www.coingecko.com/en/coins/nano)
+- [cryptocompare.com/coins/nano](https://www.cryptocompare.com/coins/nano/overview)
+- [coinpaprika.com/coin/nano-nano](https://coinpaprika.com/coin/nano-nano/)
+- [coinmarketcap.com/currencies/nano](https://coinmarketcap.com/currencies/nano/)
+- crypto-rating.com
+
 **Wallets:**
 
 - [**Natrium](https://twitter.com/NatriumIO)** ([@NatriumIO](https://twitter.com/NatriumIO))
