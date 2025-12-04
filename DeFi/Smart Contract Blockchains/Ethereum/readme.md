@@ -52,3 +52,6 @@
 - [Dune - **OpenSea on Ethereum (@rchen8)**](https://dune.xyz/rchen8/opensea)
 - Digiconomist - [**Ethereum Energy Consumption Index**](https://digiconomist.net/ethereum-energy-consumption)
 - [https://ethsta.com](https://ethsta.com/)
+
+### Social Media
+- https://x.com/growthepie_eth
