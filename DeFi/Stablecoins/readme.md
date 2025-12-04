@@ -39,6 +39,7 @@
 
 ## Charts & Data
 
+- Coinglass - [**Stablecoin Market Cap**](https://www.coinglass.com/pro/stablecoin)
 - https://app.stablewatch.io/?categoryMode=OR&chainMode=OR
 - https://dune.com/21co/stablecoin-monitor
 - https://stablecoinmonitor.com
