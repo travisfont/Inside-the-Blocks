@@ -17,6 +17,7 @@
 - https://rollup.wtf
 - https://leorpc.com
 - https://www.quicknode.com/chains/eth
+- https://www.coinglass.com/currencies/ETH
 
 ## Ethereum Explorer
 
