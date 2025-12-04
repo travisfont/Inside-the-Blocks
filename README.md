@@ -5,6 +5,8 @@
 - [Crypto Total DeFi Market Cap](https://www.tradingview.com/chart?symbol=CRYPTOCAP%3ATOTALDEFI) (by USD) (**TOTALDEFI**)
 - [DeFi Index - Perpetual Futures](https://www.tradingview.com/chart?symbol=FTX%3ADEFIPERP) (FTX:**DEFIPERP**)
 - https://www.tradingview.com/chart?symbol=BNC%3ABLX
+- Coinglass - [**Moving Average Convergence Divergence (MACD) Indicator**](https://www.coinglass.com/pro/i/MACD)
+- Coinglass - [**Liquidation Heatmap**](https://www.coinglass.com/LiquidationData)
 - [Flipside Crypto - Fundamental Asset Score (FCAS) 25](https://flipsidecrypto.com/fcas-25)
 - https://en.wikipedia.org/wiki/List_of_cryptocurrencies
 - https://unstoppabledomains.com/
