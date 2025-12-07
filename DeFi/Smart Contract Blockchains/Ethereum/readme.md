@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/88c7592f-92cd-458a-a879-7bef3bff69fd" /># Ethereum (ETH)
+# Ethereum (ETH)
 
 - https://ethereum.org/en/roadmap
 - https://ethereum.org/en/developers/docs/gas/
@@ -20,6 +20,7 @@
 - https://www.coinglass.com/currencies/ETH
 - [**Ethereum Blob Explorer**](https://blobs.money/) (blobs.money)
 - https://ethval.com/
+- https://milkroad.com/ethereum/gas/
 
 ## Ethereum Explorer
 
