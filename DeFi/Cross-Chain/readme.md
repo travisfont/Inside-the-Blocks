@@ -6,6 +6,7 @@
 - **Multichain**     (MULTI)
 
 ## Articles
+- https://www.coingecko.com/learn/top-solana-bridges
 - [**The Investor’s Guide to Blockchain Interoperability**](https://blockworks.co/news/the-investors-guide-to-blockchain-interoperability)
   <br/>_Blockworks - November 14, 2024_
 - Bitcoin Magazine - [**UTXO Research Report: State Of The Bridges**](https://bitcoinmagazine.com/technical/state-of-the-bridges)
