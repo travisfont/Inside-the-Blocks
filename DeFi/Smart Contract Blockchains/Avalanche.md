@@ -24,6 +24,7 @@
   <br/>_Lightspeed - September 14, 2023_
 
 ## Articles
+- https://x.com/tiger_research/status/1968312336596553891
 - Blockworks - [**Avalanche: An Economic Analysis of ACP-77**](https://app.blockworksresearch.com/unlocked/avalanche-an-economic-analysis-of-acp-77)
 - [**An Analysis of the Avalanche Architecture**](https://app.blockworksresearch.com/research/an-analysis-of-the-avalanche-s-architecture)
   <br/>_Blockworks - March 7, 2024_
