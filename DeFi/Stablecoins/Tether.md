@@ -1,6 +1,7 @@
 # Tether (USDT)
 
 ## Articles
+- https://x.com/tiger_research/status/1955990870618202583
 - CoinGecko - [**stUSDT: Bridging the Real-World Asset Gap with Blockchain Technology**](https://www.coingecko.com/learn/stusdt-new-era-of-real-world-asset-tokenization)
 
 ## Videos
