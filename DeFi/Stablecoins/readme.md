@@ -37,6 +37,9 @@
 - [**Frankencoin, The Rise of The Oracle Free Swiss Franc Stablecoin**](https://www.youtube.com/watch?v=4h2gClJt9mg)
   <br/>_Leviathan News - January 9, 2025_
 
+### KRW
+- https://x.com/tiger_research/status/1987791054926704724
+
 ## Charts & Data
 
 - Coinglass - [**Stablecoin Market Cap**](https://www.coinglass.com/pro/stablecoin)
