@@ -53,7 +53,12 @@
 - https://www.quicknode.com/stablecoins
 
 ## Educational Articles
-
+- https://www.fireblocks.com/report/stablecoins-for-remittances-treasury-operations
+- https://www.fintechwrapup.com/p/understanding-cross-border-account
+- https://www.forbes.com/sites/ronshevlin/2025/12/01/stablecoin-payments-get-real--cross-rivers-blockchain-bet/
+- https://a16zcrypto.com/posts/article/how-stablecoins-will-eat-payments/
+- https://coingeek.com/how-stablecoins-are-quietly-reshaping-in-game-economies/
+- https://stripe.com/en-lu/resources/more/stablecoin-remittances-explained
 - [**The stablecoin market map**](https://www.cbinsights.com/research/stablecoin-market-map/)
   <br>_CB Insights - May 29, 2025_
 - https://www.investopedia.com/terms/s/stablecoin.asp
