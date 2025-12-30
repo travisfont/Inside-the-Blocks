@@ -59,6 +59,13 @@
 - https://a16zcrypto.com/posts/article/how-stablecoins-will-eat-payments/
 - https://coingeek.com/how-stablecoins-are-quietly-reshaping-in-game-economies/
 - https://stripe.com/en-lu/resources/more/stablecoin-remittances-explained
+- https://www.linkedin.com/pulse/stablecoin-sandwich-better-way-move-money-across-borders-can-taner-jeume/
+- https://www.fipto.com/articles/the-stablecoin-sandwich-a-smarter-way-to-handle-cross-border-payments
+- https://www.dynamic.xyz/blog/the-stablecoin-sandwich
+- https://squads.xyz/blog/stablecoin-era
+- https://www.helius.dev/blog/stablecoin-payments
+- https://www.helius.dev/blog/solanas-stablecoin-landscape#solana-stablecoin-off-ramp-solutions
+- https://squads.xyz/blog/stablecoins-in-emerging-markets
 - [**The stablecoin market map**](https://www.cbinsights.com/research/stablecoin-market-map/)
   <br>_CB Insights - May 29, 2025_
 - https://www.investopedia.com/terms/s/stablecoin.asp
