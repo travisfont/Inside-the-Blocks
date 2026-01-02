@@ -2,8 +2,13 @@
 
 - https://x.com/avax ([$avax](https://x.com/search?q=%24avax)) ([#avax](https://x.com/search?q=%23avax))
 - https://www.linkedin.com/company/avalancheavax/
+- [coingecko.com/en/coins/avalanche](https://www.coingecko.com/en/coins/avalanche)
+- [https://defillama.com/chain/Avalanche](https://defillama.com/chain/Avalanche)
+- [https://messari.io/asset/avalanche/profile](https://messari.io/asset/avalanche/profile)
+- [https://coinmarketcap.com/currencies/avalanche](https://coinmarketcap.com/currencies/avalanche/)
 - https://www.quicknode.com/chains/avax
 - https://sentora.com/research/dashboards/avalanche-ecosystem
+- [avalancheavax.medium.com](https://avalancheavax.medium.com/)
 
 ## Resourceful Tools
 - https://chrtr.io/
@@ -63,3 +68,5 @@
 ## Resources
 
 - https://support.avax.network/en/
+- https://wiki.rugdoc.io/docs/introduction-to-avalanche-avax/
+- https://www.cointimemachine.com/cryptocurrency/compare/algorand/avalanche/
