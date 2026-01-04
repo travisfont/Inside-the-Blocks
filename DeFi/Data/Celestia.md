@@ -16,7 +16,7 @@
 
 ## Podcasts & Disccussions
 - [**Cosmos & Finality w/ Nick White on Celestia, Block Space, & the Path to PMF**](https://www.youtube.com/watch?v=YOIE4bmd3I0)
-  <br/>_ Cosmos (Sovereign Day on YouTube) - Dec 29, 2025_
+  <br/>_Cosmos (Sovereign Day on YouTube) - Dec 29, 2025_
 - [**Is TIA Modular Money**](https://www.youtube.com/watch?v=Qcewvb36kRk)
   <br/>_Bankless - April 16, 2024_
 - [**Securing Cosmos Chains with Celestia DA - Jack Zampolin of Rollchains & Strangelove**](https://www.youtube.com/watch?v=-50ZVioYjtU)
