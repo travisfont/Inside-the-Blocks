@@ -1,5 +1,28 @@
 # Cosmos
 
+## Official Links
+- Cosmos Website: https://cosmos.network 
+- Cosmos Blog (Medium): https://blog.cosmos.network
+- Cosmos Hub Forum (Governance): https://forum.cosmos.network
+- IBC Website: https://ibcprotocol.dev 
+- Interchain Foundation Website: https://interchain.io  
+- Skip:Go Web App: https://go.skip.build 
+- Youtube: https://www.youtube.com/@interchain_io 
+- Discord: https://discord.gg/interchain 
+- Cosmos Github: https://github.com/cosmos 
+- Cosmos Docs: https://docs.cosmos.network
+- Cosmos Evm Docs: https://evm.cosmos.network
+
+### X (Twitter): 
+- Cosmos: https://x.com/cosmos 
+- Cosmos Hub: https://x.com/cosmoshub 
+- Interchain Foundation: https://x.com/interchain_io 
+- Skip Protocol: https://x.com/SkipProtocol 
+- IBC Protocol: https://x.com/IBCProtocol 
+
+
+## Resources
+
 - https://cosmos.directory
 - https://cosmos.directory/cosmoshub
 - https://www.ibcprotocol.dev
@@ -19,11 +42,11 @@
 - youtube.com/channel/UC8HFOUdnMnpoWmQMgeKoB3A
 - Whitepaper: https://arena-attachments.s3.amazonaws.com/18223469/9cfb81360348bb4f06f3acb00ac2f329.pdf
 
-## YouTube Channels
+## Supporting YouTube Channels
 
 - https://www.youtube.com/@ThePodocasts1
 
-## X Profiles
+## Supporting X Profiles
 - https://www.youtube.com/@ignitehq
 
 ## liquid staking providers (LST providers)
