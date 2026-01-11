@@ -9,6 +9,7 @@
   <br/>_Mitchell Weijerman - January 23, 2025_
 - [**We Need to Talk About Tether**](https://www.youtube.com/watch?v=k1W_Gyerhug)
   <br/>_The Defiant - January 22, 2021_
+- [Coffeezilla - Tether Has Lost Their Mind](https://www.youtube.com/watch?v=Jk23kA3yeDY)
 
 ## Podcasts & Interviews
 - [**What's Next for USDT: Interview with Tether CEO**](https://www.youtube.com/watch?v=1oDgxAvQVQk)
@@ -18,7 +19,7 @@
 
 ----
 
-## News
+## Notable News
 
 - [**$5.2 Billion: Tether Reports Record Profit as Bitcoin Holdings Soar to 80,000 BTC**](https://www.cryptoglobe.com/latest/2024/08/5-2-billion-tether-reports-record-profit-as-bitcoin-holdings-soar-to-80000-btc/)
   <br/>_Cryptoglobe - August 1, 2024_
@@ -40,5 +41,27 @@
 - [**Tether Purchased 1,529 Bitcoin in Q2 - CTO Confirms**](https://bitcoinmagazine.com/markets/exclusive-tether-purchased-1529-bitcoin-in-q2-cto-confirms)
   <br/>_Bitcoin Magazine - August 3, 2023_
 
+- [**Biggest Stablecoin Issuer Tether Now Wants to Become a Major Bitcoin Miner**](https://www.bnnbloomberg.ca/biggest-stablecoin-issuer-tether-now-wants-to-become-a-major-bitcoin-miner-1.1999526)
+- [**Tether stablecoins to expand to 24,000 ATMs in Brazil next month**](https://www.theblock.co/post/178745/tether-stablecoins-to-expand-to-24000-atms-in-brazil-next-month)
+- [**Tether commercial paper exposure now under $50M — CTO**](https://cointelegraph.com/news/tether-commercial-paper-exposure-now-under-50m-says-cto)
+- [**Tether's USDT Stablecoin Goes Live on Polkadot**](https://www.theblock.co/post/172633/tethers-usdt-stablecoin-goes-live-on-polkadot)
+  <br/>*The Block - September 24, 2022*
+- [**Tether, Bitfinex ordered to show financial documents over USDT stablecoin](https://www.theblock.co/post/171628/tether-bitfinex-ordered-to-show-financial-documents-over-usdt-stablecoin)**
+  <br/>*The Block - September 21, 2022*
+- [**Latest Tether disclosures show $28.9 billion in US Treasury bills**](https://www.theblock.co/post/164502/latest-tether-disclosures-show-28-9-billion-in-us-treasury-bills)
+  <br/>*The Block - August 19, 2022*
+- [**Tether says that it holds no Chinese commercial paper**](https://www.theblock.co/post/159815/tether-says-that-it-holds-no-chinese-commercial-paper)
+  <br/>*The Block - July 27, 2022*
+- https://finbold.com/tether-to-undertake-full-audit-by-top-12-firm-for-transparency-over-usdt-reserves/
+- https://www.coindesk.com/markets/2019/04/30/tether-lawyer-admits-stablecoin-now-74-backed-by-cash-and-equivalents/
+- https://qz.com/2076079/us-fines-company-behind-tether-usdt-for-lying-about-reserves/
+- https://assets.ctfassets.net/vyse88cgwfbl/1np5dpcwuHrWJ4AgUgI3Vn/07fcaeb1cd7ce6df71ce8f5abb09ddb7/Tether_Assurance_Consolidated_Reserves_Report_2022-03-31__1_.pdf
+- [**Tether is 'a time bomb' says Congressman Warren Davidson**](https://www.theblockcrypto.com/post/133369/tether-is-a-time-bomb-says-congressman-warren-davidson)
+- [**A $4 Billion Hedge Fund Is Shorting Tether's Stablecoin**](https://decrypt.co/94866/4-billion-hedge-fund-shorting-tether-stablecoin)
+- [**Tether freezes $150 million in USDT**](https://cointelegraph.com/news/tether-freezes-150-million-in-usdt)
+- [**Tether freezes over $1 million worth of USDT belonging to a single address**](https://www.theblockcrypto.com/post/129133/tether-freezes-over-1-million-usdt-single-address)
+- https://ambcrypto.com/tether-circle-hit-with-information-requests-from-u-s-senator
+- [**Tethered Up: How Stablecoins Plan To Stay Stable**](https://www.newsbtc.com/all/tethered-up/)
+  <br/>*NewsBTC - khalisol (Oct 31, 2021)*
 
 
