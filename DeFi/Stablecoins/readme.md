@@ -53,6 +53,7 @@
 - https://www.quicknode.com/stablecoins
 
 ## Educational Articles
+- https://www.coingecko.com/learn/what-are-stablecoin-chains
 - https://www.fireblocks.com/report/stablecoins-for-remittances-treasury-operations
 - https://www.fintechwrapup.com/p/understanding-cross-border-account
 - https://www.forbes.com/sites/ronshevlin/2025/12/01/stablecoin-payments-get-real--cross-rivers-blockchain-bet/
