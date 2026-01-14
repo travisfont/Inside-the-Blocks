@@ -10,6 +10,13 @@
 - https://sentora.com/research/dashboards/avalanche-ecosystem
 - [avalancheavax.medium.com](https://avalancheavax.medium.com/)
 
+## Supporting Profiles
+- https://x.com/avax
+- https://x.com/AvalancheFDN
+- https://x.com/el33th4xor
+- https://x.com/joeycannoli9
+- https://x.com/0xAvaxTR
+
 ## Resourceful Tools
 - https://chrtr.io/
 - https://cascade.team1.network/explore
