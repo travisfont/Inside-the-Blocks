@@ -21,6 +21,8 @@
 - IBC Protocol: https://x.com/IBCProtocol
 
 #### Supporting Profiles:
+- https://x.com/BPIV400
+- https://x.com/0xMagmar
 - https://x.com/MortyPyton
 - https://x.com/madscientists_x
 - https://x.com/IvanM10529875
