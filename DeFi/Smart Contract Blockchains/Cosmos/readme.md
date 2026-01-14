@@ -18,7 +18,18 @@
 - Cosmos Hub: https://x.com/cosmoshub 
 - Interchain Foundation: https://x.com/interchain_io 
 - Skip Protocol: https://x.com/SkipProtocol 
-- IBC Protocol: https://x.com/IBCProtocol 
+- IBC Protocol: https://x.com/IBCProtocol
+
+#### Supporting Profiles:
+- https://x.com/MortyPyton
+- https://x.com/madscientists_x
+- https://x.com/IvanM10529875
+- https://x.com/CosmosEcosystem
+- https://x.com/Cosmos_Airdrops
+- https://x.com/tonyler_
+- https://x.com/martinezzart
+- https://x.com/maria_cosmosfi
+- https://x.com/ZoltanAtom
 
 
 ## Resources
