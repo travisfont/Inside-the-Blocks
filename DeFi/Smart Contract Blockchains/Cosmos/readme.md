@@ -21,9 +21,12 @@
 - IBC Protocol: https://x.com/IBCProtocol
 
 #### Supporting Profiles:
+- https://x.com/Cryptocito
 - https://x.com/BPIV400
 - https://x.com/0xMagmar
 - https://x.com/MortyPyton
+- https://x.com/Thyborg_
+- https://x.com/0xRobbStack
 - https://x.com/madscientists_x
 - https://x.com/IvanM10529875
 - https://x.com/CosmosEcosystem
@@ -32,6 +35,14 @@
 - https://x.com/martinezzart
 - https://x.com/maria_cosmosfi
 - https://x.com/ZoltanAtom
+- https://x.com/orionas_cosmos
+- https://x.com/Airdrops_one
+- https://x.com/stride_zone (Supporting Project)
+- https://x.com/hydromarkets (Supporting Project)
+- https://x.com/_gnoland (Supporting Project)
+- https://x.com/ChihuahuaChain (Supporting Project)
+- https://x.com/CosmoverseHQ (Conference)
+- https://x.com/Cosmos_Spaces (Validator)
 
 
 ## Resources
