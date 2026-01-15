@@ -43,6 +43,7 @@
 - https://x.com/ChihuahuaChain (Supporting Project)
 - https://x.com/CosmoverseHQ (Conference)
 - https://x.com/Cosmos_Spaces (Validator)
+- https://x.com/Chiter_inCosmos (Validator)
 
 
 ## Resources
