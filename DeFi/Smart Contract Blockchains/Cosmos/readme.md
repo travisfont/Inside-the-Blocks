@@ -37,6 +37,12 @@
 - https://x.com/ZoltanAtom
 - https://x.com/orionas_cosmos
 - https://x.com/Airdrops_one
+- https://x.com/Phil_RX
+- https://x.com/brane_trix
+- https://x.com/aesmonty
+- https://x.com/l_woetzel
+- https://x.com/luisqagt
+- https://x.com/arlai_mk
 - https://x.com/stride_zone (Supporting Project)
 - https://x.com/hydromarkets (Supporting Project)
 - https://x.com/_gnoland (Supporting Project)
