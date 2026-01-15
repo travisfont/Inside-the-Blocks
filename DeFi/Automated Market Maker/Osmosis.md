@@ -18,6 +18,10 @@
 - https://github.com/osmosis-labs/awesome
 - [**Osmocon**](https://www.osmocon.com/)
 
+## Suporting X Profiles
+- https://x.com/Flowslikeosmo
+- https://x.com/JohnnyWyles87
+
 ## Charts
 
 - https://cryptometheus.com/project/OSMO
