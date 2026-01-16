@@ -48,6 +48,10 @@
 - [**AWS outage hits dYdX raising concerns over decentralization**](https://cointelegraph.com/news/aws-outage-hits-dydx-raising-concerns-over-decentralization)
 
 
+## Reports
+
+- https://cdn.prod.website-files.com/6450fdb426ef130604e9c1ef/6966a836d2a4a82133d6be75_dYdX%20Annual%20Ecosystem%20Report%20-%202025%20(1).pdf
+
 ## Articles
 
 - Imperator Research - [**Unveiling dYdX v4: Business model and Future Prospects**](https://research.imperator.co/p/unveiling-dydx-v4-business-model)
