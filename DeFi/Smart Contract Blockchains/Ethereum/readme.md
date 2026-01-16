@@ -57,5 +57,8 @@
 - Digiconomist - [**Ethereum Energy Consumption Index**](https://digiconomist.net/ethereum-energy-consumption)
 - [https://ethsta.com](https://ethsta.com/)
 
-### Social Media
+### Supporting Social Media Accounts
+- https://x.com/VitalikButerin
+- https://x.com/megaeth
+- https://x.com/ethereum
 - https://x.com/growthepie_eth
