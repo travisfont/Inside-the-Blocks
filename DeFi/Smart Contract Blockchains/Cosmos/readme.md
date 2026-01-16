@@ -43,6 +43,8 @@
 - https://x.com/l_woetzel
 - https://x.com/luisqagt
 - https://x.com/arlai_mk
+- https://x.com/jvr0x
+- https://x.com/IvanM10529875
 - https://x.com/stride_zone (Supporting Project)
 - https://x.com/hydromarkets (Supporting Project)
 - https://x.com/_gnoland (Supporting Project)
@@ -50,7 +52,7 @@
 - https://x.com/CosmoverseHQ (Conference)
 - https://x.com/Cosmos_Spaces (Validator)
 - https://x.com/Chiter_inCosmos (Validator)
-
+- https://x.com/SentinelP2P (Supporting Project)
 
 ## Resources
 
