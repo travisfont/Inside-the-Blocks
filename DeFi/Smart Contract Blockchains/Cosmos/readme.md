@@ -22,6 +22,7 @@
 
 #### Supporting Profiles:
 - https://x.com/Cryptocito
+- https://x.com/sunnya97
 - https://x.com/BPIV400
 - https://x.com/0xMagmar
 - https://x.com/MortyPyton
@@ -45,6 +46,7 @@
 - https://x.com/arlai_mk
 - https://x.com/jvr0x
 - https://x.com/IvanM10529875
+- https://x.com/cyberneticsmike
 - https://x.com/stride_zone (Supporting Project)
 - https://x.com/hydromarkets (Supporting Project)
 - https://x.com/_gnoland (Supporting Project)
@@ -52,6 +54,7 @@
 - https://x.com/CosmoverseHQ (Conference)
 - https://x.com/Cosmos_Spaces (Validator)
 - https://x.com/Chiter_inCosmos (Validator)
+- https://x.com/CyberneticsOrg (Validator)
 - https://x.com/SentinelP2P (Supporting Project)
 
 ## Resources
