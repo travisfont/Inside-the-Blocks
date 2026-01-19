@@ -1,10 +1,27 @@
 # SushiSwap
 
 - https://poolfish.xyz/calculators/sushi
+- https://snapshot.org/#/sushigov.eth
+- https://forum.sushi.com/c/proposals/8
+- [https://www.tradingview.com/chart?symbol=BINANCE%3ASUSHIBTC](https://www.tradingview.com/chart?symbol=BINANCE%3ASUSHIBTC) (Binance)
+- [https://www.stakingrewards.com/earn/sushi/](https://www.stakingrewards.com/earn/sushi/)
+- [https://www.tradingview.com/chart?symbol=FTX%3ASUSHIUSD](https://www.tradingview.com/chart?symbol=FTX%3ASUSHIUSD)
 
+### On-chain Data Insights
 
-## News
+- https://app.intotheblock.com/insights/defi/protocols/sushiswap?address=0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38
+
+### News
+
 - [SushiSwap team votes to give themselves control of much of the "decentralized" project's treasury](https://www.web3isgoinggreat.com/?id=sushiswap-treasury-vote)
+- [**SushiSwap community proposes Swiss legal structure to limit DAO liability**](https://cointelegraph.com/news/sushiswap-community-proposes-swiss-legal-structure-to-limit-dao-liability)
+- [**SushiSwap CTO resigns citing internal structural chaos**](https://cointelegraph.com/news/sushiswap-cto-resigns-citing-internal-structural-chaos)
+- [**SushiSwap CTO Resigns, Citing Chaos ‘Within And Without’ The Project**](https://decrypt.co/87910/sushiswap-cto-resigns-citing-chaos-within-without-project)
+
+### Articles
+
+- [**Sushiswap's Grey Area**](https://rekt.news/sushiswap-grey-area/)
+*Rekt - Oct 11, 2022*
 
 ## Hacks & Exploits
 
