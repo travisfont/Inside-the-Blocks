@@ -1,1 +1,1 @@
-# Principal Token (PT / pASSET)
+# Principal Token (PT / pAsset)
