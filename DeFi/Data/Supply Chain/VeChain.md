@@ -13,6 +13,8 @@ Founded in 2015 by Sunny Lu, formerly of Louis Vuitton China, VeChain has partne
 It emphasizes mass business adoption through scalable solutions, including fee delegation for freemium models and tamper-proof data recording.
 
 - [**https://vechain.org**](https://vechain.org/)
+- [cryptocompare.com/coins/vet](https://www.cryptocompare.com/coins/vet/overview)
+- [coinmarketcap.com/currencies/vechain](https://coinmarketcap.com/currencies/vechain/)
 - [**https://www.kraken.com/learn/what-is-vechain-vet**](https://www.kraken.com/learn/what-is-vechain-vet)
 - [**https://www.fool.com/terms/v/vechain/**](https://www.fool.com/terms/v/vechain/)
 - [**https://www.bitpanda.com/en/academy/what-is-vechain-vet**](https://www.bitpanda.com/en/academy/what-is-vechain-vet)
